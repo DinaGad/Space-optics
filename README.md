@@ -17,10 +17,10 @@ Contributions are welcome from researchers, engineers, and students working in:
 - Optical modeling and simulation
 - Experimental validation
 You can contribute by:
-- Adding new models or analyses
-- Improving documentation or examples
-- Fixing bugs or optimizing code
-- Sharing validation data or results
+  - Adding new models or analyses
+  - Improving documentation or examples
+  - Fixing bugs or optimizing code
+  - Sharing validation data or results
 Please keep contributions well-documented, reproducible, and research-oriented. Open a pull request with a clear description of your changes and motivation.
 
 
