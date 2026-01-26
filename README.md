@@ -15,8 +15,8 @@ Contributions are welcome from researchers, engineers, and students working in:
 - Space optics
 - Smallsat payloads
 - Optical modeling and simulation
-- Experimental validation
-You can contribute by:
+- Experimental validation and 
+you can contribute by:
   - Adding new models or analyses
   - Improving documentation or examples
   - Fixing bugs or optimizing code
