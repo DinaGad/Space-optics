@@ -1,0 +1,1348 @@
+\begin{thebibliography}{190}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Ruffner(1995)]{ruffner1995corona}
+Kevin~Conley Ruffner.
+\newblock \emph{Corona: America's first satellite program}.
+\newblock History Staff, Center for the Study of Intelligence, Central
+  Intelligence Agency, 1995.
+
+\bibitem[Christopherson et~al.(2019)Christopherson, Chandra, and
+  Quanbeck]{christopherson20192019}
+Jon Christopherson, Shankar N~Ramaseri Chandra, and Joel~Q Quanbeck.
+\newblock 2019 joint agency commercial imagery evaluation—land remote sensing
+  satellite compendium.
+\newblock Technical report, US Geological Survey, 2019.
+
+\bibitem[Judge and Coleman~Jr(1962)]{judge1962observations}
+Darrell~L Judge and Paul~J Coleman~Jr.
+\newblock Observations of low-frequency hydromagnetic waves in the distant
+  geomagnetic field: Explorer 6.
+\newblock \emph{Journal of geophysical research}, 67\penalty0 (13):\penalty0
+  5071--5090, 1962.
+
+\bibitem[Nicholas M.~Short(1999)]{nicholas1999}
+Jon~Robinson Nicholas M.~Short.
+\newblock Remote sensing and image interpretation and analysis, 1999.
+\newblock \url{http://priede.bf.lu.lv/GIS/.Descriptions/RST/TofC/toc1.shtml}
+  retrieved on 2023-03-27.
+
+\bibitem[Wulder et~al.(2019)Wulder, Loveland, Roy, Crawford, Masek, Woodcock,
+  Allen, Anderson, Belward, Cohen, et~al.]{wulder2019current}
+Michael~A Wulder, Thomas~R Loveland, David~P Roy, Christopher~J Crawford,
+  Jeffrey~G Masek, Curtis~E Woodcock, Richard~G Allen, Martha~C Anderson,
+  Alan~S Belward, Warren~B Cohen, et~al.
+\newblock Current status of landsat program, science, and applications.
+\newblock \emph{Remote sensing of environment}, 225:\penalty0 127--147, 2019.
+
+\bibitem[Poghosyan and Golkar(2017)]{poghosyan2017cubesat}
+Armen Poghosyan and Alessandro Golkar.
+\newblock Cubesat evolution: Analyzing cubesat capabilities for conducting
+  science missions.
+\newblock \emph{Progress in Aerospace Sciences}, 88:\penalty0 59--83, 2017.
+
+\bibitem[Clark et~al.(2003)Clark, Swayze, Livo, Kokaly, Sutley, Dalton,
+  McDougal, and Gent]{clark2003imaging}
+Roger~N Clark, Gregg~A Swayze, K~Eric Livo, Raymond~F Kokaly, Steve~J Sutley,
+  J~Brad Dalton, Robert~R McDougal, and Carol~A Gent.
+\newblock Imaging spectroscopy: Earth and planetary remote sensing with the
+  usgs tetracorder and expert systems.
+\newblock \emph{Journal of Geophysical Research: Planets}, 108\penalty0 (E12),
+  2003.
+
+\bibitem[Nithianandam et~al.(1993)Nithianandam, Guenther, and
+  Allison]{JNithianandam_1993}
+J~Nithianandam, B~W Guenther, and L~J Allison.
+\newblock An anecdotal review of nasa earth observing satellite remote sensors
+  and radiometric calibration methods.
+\newblock \emph{Metrologia}, 30\penalty0 (4):\penalty0 207, jan 1993.
+\newblock \doi{10.1088/0026-1394/30/4/001}.
+\newblock URL \url{https://dx.doi.org/10.1088/0026-1394/30/4/001}.
+
+\bibitem[Mika(1997)]{mika1997three}
+Aram~M Mika.
+\newblock Three decades of landsat instruments.
+\newblock \emph{Photogrammetric Engineering and Remote Sensing}, 63\penalty0
+  (7):\penalty0 839--852, 1997.
+
+\bibitem[Jackson(1997)]{jackson1997system}
+Bill Jackson.
+\newblock System concept for electro-optical imaging of sea ice from space in
+  the visible and infrared spectra.
+\newblock In \emph{1997 IEEE Aerospace Conference}, volume~2, pages 263--284.
+  IEEE, 1997.
+
+\bibitem[Teleti and Luis(2013)]{teleti2013sea}
+Praveen~Rao Teleti and Alvarinho~J Luis.
+\newblock Sea ice observations in polar regions: Evolution of technologies in
+  remote sensing.
+\newblock \emph{International Journal of Geosciences}, 2013.
+
+\bibitem[Peighani-Asl et~al.(2010)Peighani-Asl, Abbasi-Moghadam, Ghafary, and
+  Tabataba-Vakili]{peighani2010electro}
+E~Peighani-Asl, D~Abbasi-Moghadam, B~Ghafary, and V~Tabataba-Vakili.
+\newblock Electro-optical design of imaging payload for a remote sensing
+  satellite.
+\newblock \emph{Journal of Space Science and Technology}, 2\penalty0 (5), 2010.
+
+\bibitem[Sandau(2010)]{sandau2010status}
+Rainer Sandau.
+\newblock Status and trends of small satellite missions for earth observation.
+\newblock \emph{Acta astronautica}, 66\penalty0 (1-2):\penalty0 1--12, 2010.
+
+\bibitem[Heo et~al.(2012)Heo, Park, Shin, and Yong]{heo2012design}
+Haeng-Pal Heo, Jong-Euk Park, Sang-Youn Shin, and Sang-Soon Yong.
+\newblock Design \& test of stereo camera ground model for lunar exploration.
+\newblock \emph{Korean Journal of Remote Sensing}, 28\penalty0 (6):\penalty0
+  693--704, 2012.
+
+\bibitem[Haghshenas(2014)]{haghshenas2014electro}
+Javad Haghshenas.
+\newblock Electro optical design for a space camera based on modtran data
+  analysis.
+\newblock In \emph{Earth Observing Missions and Sensors: Development,
+  Implementation, and Characterization III}, volume 9264, pages 95--104. SPIE,
+  2014.
+
+\bibitem[Tedesco(2015)]{tedesco2015remote}
+Marco Tedesco.
+\newblock Remote sensing and the cryosphere.
+\newblock \emph{Remote Sensing of the Cryosphere}, pages 1--16, 2015.
+
+\bibitem[Chauhan et~al.(2015)Chauhan, Kaur, Srivastava, Sinha, Jain, and
+  Murty]{chauhan2015hyperspectral}
+Prakash Chauhan, Prabhjot Kaur, N~Srivastava, Rishitosh~K Sinha, Nirmala Jain,
+  and SVS Murty.
+\newblock Hyperspectral remote sensing of planetary surfaces: an insight into
+  composition of inner planets and small bodies in the solar system.
+\newblock \emph{Current Science}, pages 915--924, 2015.
+
+\bibitem[Bannister and Neyland(2015)]{bannister2015maritime}
+Nigel~P Bannister and David~L Neyland.
+\newblock Maritime domain awareness with commercially accessible
+  electro-optical sensors in space.
+\newblock \emph{International Journal of Remote Sensing}, 36\penalty0
+  (1):\penalty0 211--243, 2015.
+
+\bibitem[Toth and J{\'o}{\'z}k{\'o}w(2016)]{toth2016remote}
+Charles Toth and Grzegorz J{\'o}{\'z}k{\'o}w.
+\newblock Remote sensing platforms and sensors: A survey.
+\newblock \emph{ISPRS Journal of Photogrammetry and Remote Sensing},
+  115:\penalty0 22--36, 2016.
+
+\bibitem[Zhu et~al.(2018)Zhu, Suomalainen, Liu, Hyypp{\"a}, Kaartinen, Haggren,
+  et~al.]{zhu2018review}
+Lingli Zhu, Juha Suomalainen, Jingbin Liu, Juha Hyypp{\"a}, Harri Kaartinen,
+  Henrik Haggren, et~al.
+\newblock A review: Remote sensing sensors.
+\newblock \emph{Multi-purposeful application of geospatial data}, pages 19--42,
+  2018.
+
+\bibitem[Siddiqi(2018)]{siddiqi2018beyond}
+Asif~A Siddiqi.
+\newblock \emph{Beyond Earth: A chronicle of deep space exploration,
+  1958-2016}, volume 4041.
+\newblock National Aeronautis \& Space Administration, 2018.
+
+\bibitem[Pernechele et~al.(2018)Pernechele, Dionisio, Munari, Opromolla,
+  Rufino, Fasano, Grassi, and Pastore]{pernechele2018hyper}
+Claudio Pernechele, Cesare Dionisio, Matteo Munari, Roberto Opromolla,
+  Giancarlo Rufino, Giancarmine Fasano, Michele Grassi, and Serena Pastore.
+\newblock Hyper hemispheric lens applications in small and micro satellites.
+\newblock \emph{Advances in Space Research}, 62\penalty0 (12):\penalty0
+  3449--3461, 2018.
+
+\bibitem[Corpino and Stesina(2020)]{corpino2020inspection}
+Sabrina Corpino and Fabrizio Stesina.
+\newblock Inspection of the cis-lunar station using multi-purpose autonomous
+  cubesats.
+\newblock \emph{Acta Astronautica}, 175:\penalty0 591--605, 2020.
+
+\bibitem[Sastry et~al.(2020)Sastry, Jiji, Raghavamurthy, and
+  Rao]{sastry2020advances}
+PSR~Srinivasa Sastry, CV~Jiji, DVA Raghavamurthy, and Samba~Siva Rao.
+\newblock Advances in small satellite technologies, 2020.
+
+\bibitem[Cronje(2023)]{cronje2023}
+Thys Cronje.
+\newblock Trends to shape the eo payload industry over the next 5 years, 2023.
+\newblock \url{https://simera-sense.com/company/blog/} retrieved on 2023-03-31.
+
+\bibitem[Cho et~al.(2019)Cho, Choi, Kim, Kim, Sim, and Kim]{cho2019high}
+Dong-Hyun Cho, Won-Sub Choi, Min-Ki Kim, Jin-Hyung Kim, Eunsup Sim, and
+  Hae-Dong Kim.
+\newblock High-resolution image and video cubesat (hirev): Development of space
+  technology test platform using a low-cost cubesat platform.
+\newblock \emph{International Journal of Aerospace Engineering}, 2019, 2019.
+
+\bibitem[Thatavarthi(2020)]{thatavarthi2020payload}
+Rohan Thatavarthi.
+\newblock Payload system design of a cubesat distributed telescope.
+\newblock \emph{AE}, 8900:\penalty0 8, 2020.
+
+\bibitem[Willoughby et~al.(1996)Willoughby, Marmo, and
+  Folkman]{willoughby1996hyperspectral}
+Charles~T Willoughby, Jay Marmo, and Mark~A Folkman.
+\newblock Hyperspectral imaging payload for the nasa small satellite technology
+  initiative program.
+\newblock In \emph{1996 IEEE Aerospace Applications Conference. Proceedings},
+  volume~2, pages 67--79. IEEE, 1996.
+
+\bibitem[Mughal et~al.(2021)Mughal, Praks, Vainio, Janhunen, Envall,
+  N{\"a}sil{\"a}, Oleynik, Niemel{\"a}, Nyman, Slavinskis,
+  et~al.]{mughal2021aalto}
+M~Rizwan Mughal, Jaan Praks, R~Vainio, P~Janhunen, J~Envall, Antti
+  N{\"a}sil{\"a}, P~Oleynik, P~Niemel{\"a}, S~Nyman, A~Slavinskis, et~al.
+\newblock Aalto-1, multi-payload cubesat: In-orbit results and lessons learned.
+\newblock \emph{Acta Astronautica}, 187:\penalty0 557--568, 2021.
+
+\bibitem[Swenson and Marchant(2015)]{swenson2015electro}
+Charles Swenson and Alan Marchant.
+\newblock Electro-optical payloads and cubesat missions for earth and space
+  science.
+\newblock In \emph{AGU Fall Meeting Abstracts}, volume 2015, pages EP53C--1040,
+  2015.
+
+\bibitem[Prentice et~al.(2021)Prentice, Gr{\o}tte, Sigernes, and
+  Johansen]{prentice2021design}
+Elizabeth~Frances Prentice, Mariusz~Eivind Gr{\o}tte, Fred Sigernes, and
+  Tor~Arne Johansen.
+\newblock Design of a hyperspectral imager using cots optics for small
+  satellite applications.
+\newblock In \emph{International Conference on Space Optics—ICSO 2020},
+  volume 11852, pages 2154--2171. SPIE, 2021.
+
+\bibitem[Boyd and Danson(2005)]{boyd2005satellite}
+DS~Boyd and FM~Danson.
+\newblock Satellite remote sensing of forest resources: three decades of
+  research development.
+\newblock \emph{Progress in Physical Geography}, 29\penalty0 (1):\penalty0
+  1--26, 2005.
+
+\bibitem[Fahey et~al.(2020)Fahey, Pham, Gardi, Sabatini, Stefanelli, Goodwin,
+  and Lamb]{fahey2020active}
+Thomas Fahey, Hai Pham, Alessandro Gardi, Roberto Sabatini, Dario Stefanelli,
+  Ian Goodwin, and David~William Lamb.
+\newblock Active and passive electro-optical sensors for health assessment in
+  food crops.
+\newblock \emph{Sensors}, 21\penalty0 (1):\penalty0 171, 2020.
+
+\bibitem[Santos(2000)]{santos2000fisheries}
+A~Miguel~P Santos.
+\newblock Fisheries oceanography using satellite and airborne remote sensing
+  methods: a review.
+\newblock \emph{Fisheries Research}, 49\penalty0 (1):\penalty0 1--20, 2000.
+
+\bibitem[Turner et~al.(2003)Turner, Spector, Gardiner, Fladeland, Sterling, and
+  Steininger]{turner2003remote}
+Woody Turner, Sacha Spector, Ned Gardiner, Matthew Fladeland, Eleanor Sterling,
+  and Marc Steininger.
+\newblock Remote sensing for biodiversity science and conservation.
+\newblock \emph{Trends in ecology \& evolution}, 18\penalty0 (6):\penalty0
+  306--314, 2003.
+
+\bibitem[Giardino(2011)]{giardino2011history}
+Marco~J Giardino.
+\newblock A history of nasa remote sensing contributions to archaeology.
+\newblock \emph{Journal of Archaeological Science}, 38\penalty0 (9):\penalty0
+  2003--2009, 2011.
+
+\bibitem[Fingas and Brown(1997)]{fingas1997review}
+Mervin~F Fingas and Carl~E Brown.
+\newblock Review of oil spill remote sensing.
+\newblock \emph{Spill Science \& Technology Bulletin}, 4\penalty0 (4):\penalty0
+  199--208, 1997.
+
+\bibitem[Teizer(2008)]{teizer20083d}
+Jochen Teizer.
+\newblock 3d range imaging camera sensing for active safety in construction.
+\newblock \emph{Journal of Information Technology in Construction (ITcon)},
+  13\penalty0 (8):\penalty0 103--117, 2008.
+
+\bibitem[Filacchione et~al.(2022)Filacchione, Tarabini, Epifani, Ciarniello,
+  Piccioni, Raponi, Saggin, Kanuchova, Palumbo, Guerri,
+  et~al.]{filacchione2022integral}
+G~Filacchione, M~Tarabini, E~Mazzotta Epifani, M~Ciarniello, G~Piccioni,
+  A~Raponi, B~Saggin, Z~Kanuchova, P~Palumbo, I~Guerri, et~al.
+\newblock The integral-field imager and spectrometer for planetary exploration
+  (ƒispex).
+\newblock In \emph{Advances in Optical and Mechanical Technologies for
+  Telescopes and Instrumentation V}, volume 12188, pages 71--89. SPIE, 2022.
+
+\bibitem[Altmaier and Kany(2002)]{altmaier2002digital}
+Angela Altmaier and Christoph Kany.
+\newblock Digital surface model generation from corona satellite images.
+\newblock \emph{ISPRS Journal of photogrammetry and remote sensing},
+  56\penalty0 (4):\penalty0 221--235, 2002.
+
+\bibitem[Day(1999)]{day1999eye}
+Dwayne Day.
+\newblock \emph{Eye in the sky: the story of the CORONA spy satellites}.
+\newblock Smithsonian Institution, 1999.
+
+\bibitem[Ur(2003)]{ur2003corona}
+Jason Ur.
+\newblock Corona satellite photography and ancient road networks: A northern
+  mesopotamian case study.
+\newblock \emph{Antiquity}, 77\penalty0 (295):\penalty0 102--115, 2003.
+
+\bibitem[House et~al.(1986)House, Gruber, Hunt, and
+  Mecherikunnel]{house1986history}
+Frederick~B House, Arnold Gruber, Garry~E Hunt, and Ann~T Mecherikunnel.
+\newblock History of satellite missions and measurements of the earth radiation
+  budget (1957--1984).
+\newblock \emph{Reviews of geophysics}, 24\penalty0 (2):\penalty0 357--377,
+  1986.
+
+\bibitem[Madry and Pelton(2013)]{madry2013electro}
+Scott Madry and Joseph~N Pelton.
+\newblock Electro-optical and hyper-spectral remote sensing.
+\newblock In \emph{Handbook of Satellite Applications}, pages 729--738.
+  Springer, 2013.
+
+\bibitem[Tatem et~al.(2008)Tatem, Goetz, and Hay]{Tatem2008FiftyYO}
+Andrew~J. Tatem, S.~Goetz, and Simon~I. Hay.
+\newblock Fifty years of earth observation satellites: Views from above have
+  lead to countless advances on the ground in both scientific knowledge and
+  daily life.
+\newblock \emph{American scientist}, 96 5:\penalty0 390--398, 2008.
+
+\bibitem[Neeck et~al.(2005)Neeck, Magner, and Paules]{neeck2005nasa}
+Steven~P Neeck, Thomas~J Magner, and Granville~E Paules.
+\newblock Nasa's small satellite missions for earth observation.
+\newblock \emph{Acta Astronautica}, 56\penalty0 (1-2):\penalty0 187--192, 2005.
+
+\bibitem[Oesterheld et~al.(1998)Oesterheld, DiBella, and
+  Kerdiles]{oesterheld1998relation}
+M~Oesterheld, CM~DiBella, and H~Kerdiles.
+\newblock Relation between noaa-avhrr satellite data and stocking rate of
+  rangelands.
+\newblock \emph{Ecological applications}, 8\penalty0 (1):\penalty0 207--212,
+  1998.
+
+\bibitem[Demirel and Bayir(2005)]{demirel2005one}
+A~Demirel and I~Bayir.
+\newblock One meter and below high resolution satellites in production.
+\newblock In \emph{Proceedings of ISPRS Workshop on High-Resolution Earth
+  Imaging for Geospatial Information}, 2005.
+
+\bibitem[Andraitis and Jr.(1993)]{arthur1997}
+Arthur~A. Andraitis and Alfred C.~Crane Jr.
+\newblock {State-of-the-art review of sensor technology}.
+\newblock In Paul~A. Henkel, Thomas~W. Augustyn, and Wallace~G. Fishell,
+  editors, \emph{Airborne Reconnaissance XVII}, volume 2023, pages 113 -- 115.
+  International Society for Optics and Photonics, SPIE, 1993.
+\newblock \doi{10.1117/12.165516}.
+\newblock URL \url{https://doi.org/10.1117/12.165516}.
+
+\bibitem[Roemer(2003)]{roemer2003flight}
+Stephan Roemer.
+\newblock Flight experience with the micro satellite maroc-tubsat.
+\newblock In \emph{54th International Astronautical Congress of the
+  International Astronautical Federation, the International Academy of
+  Astronautics, and the International Institute of Space Law}, pages IAA--11,
+  2003.
+
+\bibitem[Selva and Krejci(2012)]{selva2012survey}
+Daniel Selva and David Krejci.
+\newblock A survey and assessment of the capabilities of cubesats for earth
+  observation.
+\newblock \emph{Acta Astronautica}, 74:\penalty0 50--68, 2012.
+
+\bibitem[Denis et~al.(2017)Denis, Claverie, Pasco, Darnis, de~Maupeou, Lafaye,
+  and Morel]{denis2017towards}
+Gil Denis, Alain Claverie, Xavier Pasco, Jean-Pierre Darnis, Beno{\^\i}t
+  de~Maupeou, Murielle Lafaye, and Eric Morel.
+\newblock Towards disruptions in earth observation? new earth observation
+  systems and markets evolution: Possible scenarios and impacts.
+\newblock \emph{Acta Astronautica}, 137:\penalty0 415--433, 2017.
+
+\bibitem[Sudmanns et~al.(2020)Sudmanns, Tiede, Lang, Bergstedt, Trost,
+  Augustin, Baraldi, and Blaschke]{sudmanns2020big}
+Martin Sudmanns, Dirk Tiede, Stefan Lang, Helena Bergstedt, Georg Trost, Hannah
+  Augustin, Andrea Baraldi, and Thomas Blaschke.
+\newblock Big earth data: disruptive changes in earth observation data
+  management and analysis?
+\newblock \emph{International Journal of Digital Earth}, 13\penalty0
+  (7):\penalty0 832--850, 2020.
+
+\bibitem[Fouquet(1992)]{fouquet1992uosat}
+Marc Fouquet.
+\newblock Uosat-5 earth imaging system-in-orbit results.
+\newblock In \emph{Small Satellite Technologies and Applications II}, volume
+  1691, pages 52--62. SPIE, 1992.
+
+\bibitem[Kramer and Cracknell(2008)]{kramer2008overview}
+Herbert~J Kramer and Arthur~P Cracknell.
+\newblock An overview of small satellites in remote sensing.
+\newblock \emph{International journal of remote Sensing}, 29\penalty0
+  (15):\penalty0 4285--4337, 2008.
+
+\bibitem[eoPortal(2012)]{eo2012}
+eoPortal.
+\newblock Tubsat (technical university of berlin satellite program), 2012.
+\newblock
+  \url{https://www.eoportal.org/satellite-missions/tubsat#eop-quick-facts-section}
+  retrieved on 2023-04-25.
+
+\bibitem[EOP(2012)]{eoportal}
+EOP.
+\newblock Satellite missions catalogue; landsat-4 and 5, 2012.
+\newblock
+  \url{https://www.eoportal.org/satellite-missions/landsat-4-5#sensor-complement}
+  retrieved on 2023-03-29.
+
+\bibitem[Bankston(1994)]{bankston1994seds}
+Cheryl~Dawn Bankston.
+\newblock Seds, earth, atmosphere, and space imaging system (seasis).
+\newblock In \emph{Space Instrumentation and Dual-Use Technologies}, volume
+  2214, pages 257--268. SPIE, 1994.
+
+\bibitem[Sweeting and Pookyaudom(1997)]{SWEETING1997423}
+M.N. Sweeting and Sitthichai Pookyaudom.
+\newblock Tmsat: Thailand's first microsatellite for communications and earth
+  observation.
+\newblock \emph{Acta Astronautica}, 40\penalty0 (2):\penalty0 423--427, 1997.
+\newblock ISSN 0094-5765.
+\newblock \doi{https://doi.org/10.1016/S0094-5765(97)00151-3}.
+\newblock URL
+  \url{https://www.sciencedirect.com/science/article/pii/S0094576597001513}.
+\newblock Enlarging The Scope of Space Applications.
+
+\bibitem[Kim et~al.(1999)Kim, Kim, Sung, and Choi]{kim1999development}
+Ee-Eul Kim, Sungheon Kim, Dan~Keum Sung, and Soon~Dal Choi.
+\newblock Development of an engineering test satellite-kitsat-3.
+\newblock \emph{Cooperation in Space}, 430:\penalty0 453, 1999.
+
+\bibitem[Kramer et~al.(2002)]{kramer2002observation}
+Herbert~J Kramer et~al.
+\newblock \emph{Observation of the Earth and its Environment: Survey of
+  Missions and Sensors}, volume 1982.
+\newblock Springer, 2002.
+
+\bibitem[Bekhti(2008)]{bekhti2008power}
+MN~Bekhti.
+\newblock Power system design and in orbit performance of algeria's first micro
+  satellite alsat-1.
+\newblock \emph{Electric power systems research}, 78\penalty0 (7):\penalty0
+  1175--1180, 2008.
+
+\bibitem[Rachedi et~al.(2004)Rachedi, Hadj-Sahraoui, and
+  Brewer]{rachedi2004alsat}
+A~Rachedi, N~Hadj-Sahraoui, and A~Brewer.
+\newblock Alsat-1: First results of multispectral imager.
+\newblock In \emph{The XXth international Congress for Photogrammetric and
+  remote sensing, Turkey}. Citeseer, 2004.
+
+\bibitem[Ikpaya et~al.(2017)Ikpaya, Onuh, Achem, Okehie, and
+  Madalla]{ikpaya2017pursuit}
+Ikpaya~O Ikpaya, Spencer~O Onuh, Christopher~U Achem, Baslem~M Okehie, and
+  Fidelis~Y Madalla.
+\newblock Pursuit of nigeria into space for sustainable development.
+\newblock \emph{Space Operations: Contributions from the Global Community},
+  pages 233--251, 2017.
+
+\bibitem[Yuksel et~al.(2005)Yuksel, Belce, and Urhan]{yuksel2005bilsat}
+Gokhan Yuksel, Onder Belce, and Hakan Urhan.
+\newblock Bilsat-1: First earth observation satellite of turkey-operations and
+  lessons learned.
+\newblock In \emph{Proceedings of 2nd International Conference on Recent
+  Advances in Space Technologies, 2005. RAST 2005.}, pages 846--851. IEEE,
+  2005.
+
+\bibitem[Funase et~al.(2007)Funase, Takei, Nakamura, Nagai, Enokuchi, Yuliang,
+  Nakada, Nojiri, Sasaki, Funane, Eishima, and Nakasuka]{FUNASE2007707}
+Ryu Funase, Ernesto Takei, Yuya Nakamura, Masaki Nagai, Akito Enokuchi, Cheng
+  Yuliang, Kenji Nakada, Yuta Nojiri, Fumiki Sasaki, Tsukasa Funane, Takeshi
+  Eishima, and Shinichi Nakasuka.
+\newblock Technology demonstration on university of tokyo's pico-satellite
+  “xi-v” and its effective operation result using ground station network.
+\newblock \emph{Acta Astronautica}, 61\penalty0 (7):\penalty0 707--711, 2007.
+\newblock ISSN 0094-5765.
+\newblock \doi{https://doi.org/10.1016/j.actaastro.2006.12.032}.
+\newblock URL
+  \url{https://www.sciencedirect.com/science/article/pii/S0094576507001786}.
+
+\bibitem[Abolghasemi(2012)]{abolghasemi2012design}
+Dariush Abolghasemi.
+\newblock Design and performance evaluation of the imaging payload for a remote
+  sensing satellite.
+\newblock \emph{Optics \& Laser Technology}, 44\penalty0 (8):\penalty0
+  2418--2426, 2012.
+
+\bibitem[Price(2002)]{price2002topsat}
+Michael Price.
+\newblock Topsat: a small-satellite approach to high-resolution optical
+  imaging.
+\newblock In \emph{Earth Observing Systems VII}, volume 4814, pages 162--172.
+  SPIE, 2002.
+
+\bibitem[da~Silva~Curiel(2006)]{da2006small}
+Martin da~Silva~Curiel.
+\newblock Small satellites for real operational missions in earth observation.
+\newblock In \emph{57th International Astronautical Congress}, pages B5--3,
+  2006.
+
+\bibitem[Hardhienata and Triharjanto(2007)]{hardhienata2007lapan}
+Soewarto Hardhienata and Robertus~Heru Triharjanto.
+\newblock Lapan-tubsat: From concept to early operation.
+\newblock \emph{Lembaga Penerbangan dan Antariksa Nasional}, 2007.
+
+\bibitem[Metwalli et~al.(2012)Metwalli, Nasr, Faragallah, El-Rabaie, and Abd
+  El-Samie]{metwalli2012combining}
+Mohamed~R Metwalli, Ayman~H Nasr, Osama~S Faragallah, S~El-Rabaie, and Fathi~E
+  Abd El-Samie.
+\newblock Combining superresolution and fusion methods for sharpening misrsat-1
+  data.
+\newblock \emph{IEEE transactions on geoscience and remote sensing},
+  51\penalty0 (4):\penalty0 2292--2301, 2012.
+
+\bibitem[Scholz et~al.(2009)Scholz, K{\"o}nig, Fr{\"o}hlich, and
+  Piepenbrock]{scholz2009flight}
+Artur Scholz, Felix K{\"o}nig, Steve Fr{\"o}hlich, and Johannes Piepenbrock.
+\newblock Flight results of the compass-1 mission.
+\newblock \emph{URL http://www. raumfahrt. fh-aachen.
+  de/compass-1/download/COMPASS-1\% 20Flight\% 20Results. pdf}, 2009.
+
+\bibitem[Rankin et~al.(2005)Rankin, Kekez, Zee, Pranajaya, Foisy, and
+  Beattie]{rankin2005canx}
+Daniel Rankin, Daniel~D Kekez, Robert~E Zee, Freddy~M Pranajaya, Daniel~G
+  Foisy, and Alexander~M Beattie.
+\newblock The canx-2 nanosatellite: expanding the science abilities of
+  nanosatellites.
+\newblock \emph{Acta Astronautica}, 57\penalty0 (2-8):\penalty0 167--174, 2005.
+
+\bibitem[Noca et~al.(2009)Noca, Jordan, Steiner, Choueiri, George,
+  Roethlisberger, Scheidegger, Peter-Contesse, Borgeaud, Krpoun,
+  et~al.]{noca2009lessons}
+Muriel Noca, Fabien Jordan, Nicolas Steiner, Ted Choueiri, Florian George,
+  Guillaume Roethlisberger, No{\'e}my Scheidegger, Herv{\'e} Peter-Contesse,
+  Maurice Borgeaud, Renato Krpoun, et~al.
+\newblock Lessons learned from the first swiss pico-satellite: Swisscube.
+\newblock 2009.
+
+\bibitem[Al~Rais et~al.(2009)Al~Rais, Al~Suwaidi, and Ghedira]{al2009dubaisat}
+Adnan Al~Rais, Ali Al~Suwaidi, and Hosni Ghedira.
+\newblock Dubaisat-1: mission overview, development status and future
+  applications.
+\newblock In \emph{2009 IEEE International Geoscience and Remote Sensing
+  Symposium}, volume~5, pages V--196. IEEE, 2009.
+
+\bibitem[Burger(2006)]{burger2006south}
+Hendrik Burger.
+\newblock South africa to play active role in developing africa's space
+  capabilities.
+\newblock \emph{CSIR Science Scope}, 1\penalty0 (5):\penalty0 22--25, 2006.
+
+\bibitem[Mouroulis et~al.(2014)Mouroulis, Van~Gorp, Green, Dierssen, Wilson,
+  Eastwood, Boardman, Gao, Cohen, Franklin, et~al.]{mouroulis2014portable}
+Pantazis Mouroulis, Byron Van~Gorp, Robert~O Green, Heidi Dierssen, Daniel~W
+  Wilson, Michael Eastwood, Joseph Boardman, Bo-Cai Gao, David Cohen, Brian
+  Franklin, et~al.
+\newblock Portable remote imaging spectrometer coastal ocean sensor: design,
+  characteristics, and first flight results.
+\newblock \emph{Applied optics}, 53\penalty0 (7):\penalty0 1363--1380, 2014.
+
+\bibitem[Kameche and Benmostefa(2016)]{kameche2016flight}
+M~Kameche and S~Benmostefa.
+\newblock In-flight mtf stability assessment of alsat-2a satellite.
+\newblock \emph{Advances in Space Research}, 58\penalty0 (1):\penalty0
+  117--130, 2016.
+
+\bibitem[Teke(2016)]{teke2016satellite}
+Mustafa Teke.
+\newblock Satellite image processing workflow for rasat and g{\"o}kt{\"u}rk-2.
+\newblock \emph{Journal of Aeronautics and Space Technologies}, 9\penalty0
+  (1):\penalty0 1--13, 2016.
+
+\bibitem[Lee et~al.(2007)Lee, Lee, Kang, Jang, Yang, Han, Park, and
+  Rhee]{lee2007compact}
+JH~Lee, CW~Lee, KI~Kang, TS~Jang, HS~Yang, W~Han, JO~Park, and SW~Rhee.
+\newblock A compact imaging spectrometer (comis) for the microsatellite stsat3.
+\newblock In \emph{Sensors, Systems, and Next-Generation Satellites XI}, volume
+  6744, pages 333--340. SPIE, 2007.
+
+\bibitem[Bushahab et~al.(2014)Bushahab, Al-Mansoori, Al-Suwaidi, Al~Matroushi,
+  Al-Tunaiji, and Al~Shamsi]{bushahab2014cal}
+A~Bushahab, S~Al-Mansoori, K~Al-Suwaidi, Hessa Al~Matroushi, E~Al-Tunaiji, and
+  Meera Al~Shamsi.
+\newblock Cal/val activities for dubaisat-2 performance assessment.
+\newblock In \emph{Sensors, Systems, and Next-Generation Satellites XVIII},
+  volume 9241, pages 319--327. SPIE, 2014.
+
+\bibitem[GomSapce(2023)]{gomspace2023}
+GomSapce.
+\newblock High performing camera-system for earth observation, 2023.
+\newblock
+  \url{https://gomspace.com/shop/subsystems/payloads/earth-observation.aspx}
+  retrieved on 2023-04-06.
+
+\bibitem[Bekker et~al.(2010)Bekker, Werne, Wilson, Pingree, Dontchev, Heywood,
+  Ramos, Freyberg, Saca, Gilchrist, et~al.]{bekker2010cubesat}
+Dmitriy~L Bekker, Thomas~A Werne, Thor~O Wilson, Paula~J Pingree, Kiril
+  Dontchev, Michael Heywood, Rafael Ramos, Brad Freyberg, Fernando Saca, Brian
+  Gilchrist, et~al.
+\newblock A cubesat design to validate the virtex-5 fpga for spaceborne image
+  processing.
+\newblock In \emph{2010 IEEE Aerospace Conference}, pages 1--9. IEEE, 2010.
+
+\bibitem[Narusawa et~al.(2012)Narusawa, Tajima, Mizoguchi, Matsubara, and
+  Kosaka]{Narusawa2012DEVELOPMENTOC}
+Yasutaka Narusawa, Hiroyasu Tajima, Masanobu Mizoguchi, Isao Matsubara, and
+  Hirotaka Kosaka.
+\newblock Development of chubusat-1 small satellite.
+\newblock 2012.
+
+\bibitem[Sakamoto et~al.(2010)Sakamoto, Takahashi, Yoshida, Fukuda, Nakano,
+  Batazzo, Fukuhara, and Kurihara]{sakamoto2010development}
+Yuji Sakamoto, Yukihiro Takahashi, Kazuya Yoshida, Kazufumi Fukuda, Toshihiko
+  Nakano, S~Batazzo, Tetsuya Fukuhara, and Junichi Kurihara.
+\newblock Development of the microsatellite rising-2 by tohoku university and
+  hokkaido university.
+\newblock In \emph{Proceedings of the 61st International Aeronautical Congress,
+  No. IAC-10-B4}, volume~2, 2010.
+
+\bibitem[Kurczy{\'n}ski et~al.(2016)Kurczy{\'n}ski, Kaltaevna, Kenesovna,
+  Vladimirovna, Elibaevna, and Kerimbaevich]{kurczynski2016possibilities}
+Z~Kurczy{\'n}ski, Abeldina~R Kaltaevna, Kurmanova~G Kenesovna, Smunyova~L
+  Vladimirovna, Moldumarova~Z Elibaevna, and Yermekov~F Kerimbaevich.
+\newblock Possibilities of applying modern photogrammetry for the modernization
+  of cadastral maps in poland and kazakhstan.
+\newblock \emph{Archiwum Fotogrametrii, Kartografii i Teledetekcji},
+  28:\penalty0 53--64, 2016.
+
+\bibitem[Pirondini et~al.(2014)Pirondini, L{\'o}pez, Gonz{\'a}lez, and
+  Gonz{\'a}lez]{pirondini2014deimos}
+Fabrizio Pirondini, Julio L{\'o}pez, Enrique Gonz{\'a}lez, and Jos{\'e}~Antonio
+  Gonz{\'a}lez.
+\newblock Deimos-2: cost-effective, very-high resolution multispectral imagery.
+\newblock In \emph{Sensors, Systems, and Next-Generation Satellites XVIII},
+  volume 9241, pages 344--357. SPIE, 2014.
+
+\bibitem[Bui et~al.(2015)Bui, Low, Lau, Pham, et~al.]{bui2015system}
+TDV Bui, KS~Low, Z~Lau, VHP Pham, et~al.
+\newblock System design and development of velox-i nanosatellite.
+\newblock In \emph{2015 IEEE Aerospace Conference}, pages 1--7. IEEE, 2015.
+
+\bibitem[Serief(2017)]{serief2017estimate}
+Chahira Serief.
+\newblock Estimate of the effect of micro-vibration on the performance of the
+  algerian satellite (alsat-1b) imager.
+\newblock \emph{Optics \& Laser Technology}, 96:\penalty0 147--152, 2017.
+
+\bibitem[Wahballah et~al.(2020)Wahballah, El-Tohamy, and
+  Bazan]{wahballah2020survey}
+Walid~A Wahballah, Fawzy El-Tohamy, and Taher~M Bazan.
+\newblock A survey and trade-off-study for optical remote sensing satellite
+  camera design.
+\newblock In \emph{2020 12th International Conference on Electrical Engineering
+  (ICEENG)}, pages 298--305. IEEE, 2020.
+
+\bibitem[Jervis et~al.(2021)Jervis, McKeever, Durak, Sloan, Gains, Varon,
+  Ramier, Strupler, and Tarrant]{jervis2021ghgsat}
+Dylan Jervis, Jason McKeever, Berke~OA Durak, James~J Sloan, David Gains,
+  Daniel~J Varon, Antoine Ramier, Mathias Strupler, and Ewan Tarrant.
+\newblock The ghgsat-d imaging spectrometer.
+\newblock \emph{Atmospheric Measurement Techniques}, 14\penalty0 (3):\penalty0
+  2127--2140, 2021.
+
+\bibitem[Lorenz et~al.(2015)Lorenz, Mitchell, S{\"a}uberlich, Paproth, Halle,
+  and Frauenberger]{lorenz2015remote}
+Eckehard Lorenz, Simon Mitchell, Thomas S{\"a}uberlich, Carsten Paproth,
+  Winfried Halle, and Olaf Frauenberger.
+\newblock Remote sensing of high temperature events by the firebird mission.
+\newblock \emph{International Archives of the Photogrammetry, Remote Sensing \&
+  Spatial Information Sciences}, 2015.
+
+\bibitem[Khamsah et~al.(2019)Khamsah, Utama, Surayuda, and
+  Hakim]{khamsah2019development}
+Nova Maras~Nurul Khamsah, Satriya Utama, Rise~Hapshary Surayuda, and
+  Patria~Rachman Hakim.
+\newblock The development of lapan-a3 satellite off-nadir imaging mission.
+\newblock In \emph{2019 IEEE International Conference on Aerospace Electronics
+  and Remote Sensing Technology (ICARES)}, pages 1--6. IEEE, 2019.
+
+\bibitem[Qian(2015)]{qian2015optical}
+Shen-En Qian.
+\newblock \emph{Optical payloads for space missions}.
+\newblock John Wiley \& Sons, 2015.
+
+\bibitem[Spaceflight101(2018)]{spacef2018}
+Spaceflight101.
+\newblock Tubsat (technical university of berlin satellite program), 2018.
+\newblock \url{https://spaceflight101.com/soyuz-kanopus-v-3-4/kanopus-v/}
+  retrieved on 2023-05-05.
+
+\bibitem[Sita et~al.(2019)Sita, Srinivas, Devi, Mahalingam, and
+  Devi]{sita2019automatic}
+D~Sita, P~Srinivas, P~Kameswari Devi, S~Mahalingam, and PV~Radha Devi.
+\newblock Automatic labelling of end members extracted from hyperspectral data.
+\newblock In \emph{2019 IEEE Recent Advances in Geoscience and Remote Sensing:
+  Technologies, Standards and Applications (TENGARSS)}, pages 26--29. IEEE,
+  2019.
+
+\bibitem[Violan et~al.(2021)Violan, Fujita, Sato, Sakamoto, Banatao, Kuwahara,
+  and Yoshida]{violan2021flight}
+Edgar~Paolo Violan, Shinya Fujita, Yuji Sato, Yuji Sakamoto, Julie~Ann Banatao,
+  Toshinori Kuwahara, and Kazuya Yoshida.
+\newblock In-flight target pointing calibration of the diwata-2 earth
+  observation microsatellite.
+\newblock In \emph{2021 IEEE Aerospace Conference (50100)}, pages 1--15. IEEE,
+  2021.
+
+\bibitem[Jiang et~al.(2018)Jiang, He, Long, Guo, Yin, Leng, Liu, and
+  Wang]{jiang2018potentiality}
+Wei Jiang, Guojin He, Tengfei Long, Hongxiang Guo, Ranyu Yin, Wanchun Leng,
+  Huichan Liu, and Guizhou Wang.
+\newblock Potentiality of using luojia 1-01 nighttime light imagery to
+  investigate artificial light pollution.
+\newblock \emph{Sensors}, 18\penalty0 (9):\penalty0 2900, 2018.
+
+\bibitem[Saggese and Gerace()]{saggesenanosatellite}
+Antonella Simonetti1 Alberto Franzoso2~Enrico Saggese and Fabio Gerace.
+\newblock Nanosatellite eaglet-1 ready for launch.
+
+\bibitem[S{\"u}nter et~al.(2016)S{\"u}nter, Kuuste, Slavinskis, Agu, Ilbis,
+  Olent{\v{s}}enko, Iakubivskyi, Seco, K{\"u}tt, Vendt,
+  et~al.]{sunter2016design}
+Indrek S{\"u}nter, Henri Kuuste, Andris Slavinskis, Ants Agu, Erik Ilbis,
+  Georgi Olent{\v{s}}enko, Iaroslav Iakubivskyi, Jacob Luis~L{\'o}pez Seco,
+  Johan K{\"u}tt, Riho Vendt, et~al.
+\newblock Design and testing of a dual-camera payload for eseo.
+\newblock In \emph{67th International Astronautical Congress}, page~B4, 2016.
+
+\bibitem[Verspieren et~al.(2020)Verspieren, Matsumoto, Aoyanagi, Fukuyo, Obata,
+  Nakasuka, Kwizera, and Abakunda]{verspieren2020store}
+Quentin Verspieren, Takeshi Matsumoto, Yoshihide Aoyanagi, Takayoshi Fukuyo,
+  Toshihiro Obata, Shinichi Nakasuka, Georges Kwizera, and Joseph Abakunda.
+\newblock Store-and-forward 3u cubesat project tricom and its utilization for
+  development and education: The cases of tricom-1r and jprwasat.
+\newblock \emph{Transactions of the Japan Society for Aeronautical and Space
+  Sciences}, 63\penalty0 (5):\penalty0 206--211, 2020.
+
+\bibitem[Jacobsen(2004)]{jacobsen2004use}
+Karsten Jacobsen.
+\newblock Use of very high resolution satellite imagery.
+\newblock \emph{Archiwum Fotogrametrii, Kartografii i Teledetekcji}, 14, 2004.
+
+\bibitem[Gadisa(2023)]{gadisa2023etrss1}
+Tesfaye Gadisa, Dinaol;~Fufa.
+\newblock Etrss-1 attitude and orbit control subsystem and on-orbit performance
+  analysis.
+\newblock 2023.
+\newblock \doi{https://doi.org/10.36227/techrxiv.22124462.v2}.
+\newblock URL
+  \url{https://www.techrxiv.org/articles/preprint/ETRSS-1_attitude_and_orbit_control_subsystem_and_on-orbit_performance_analysis/22124462}.
+
+\bibitem[Mauerhan et~al.(2021)Mauerhan, Pack, Santiago, Hardy, and
+  Zittel]{mauerhan2021radiometric}
+Jon Mauerhan, Dee Pack, John Santiago, Brian Hardy, and Paul Zittel.
+\newblock Radiometric calibration of aerocube 15 (rogue-alpha/beta).
+\newblock 2021.
+
+\bibitem[Osterman et~al.(2016)Osterman, Collins, Ferguson, Good, Kampe,
+  Rohrschneider, and Warden]{osterman2016ciris}
+DP~Osterman, S~Collins, J~Ferguson, W~Good, T~Kampe, R~Rohrschneider, and
+  R~Warden.
+\newblock Ciris: compact infrared radiometer in space.
+\newblock In \emph{CubeSats and NanoSats for Remote Sensing}, volume 9978,
+  pages 56--65. SPIE, 2016.
+
+\bibitem[Esposito et~al.(2019)Esposito, Conticello, Pastena, and
+  Dom{\'\i}nguez]{esposito2019orbit}
+Marco Esposito, Simon~S Conticello, Massimiliano Pastena, and B~Carnicero
+  Dom{\'\i}nguez.
+\newblock In-orbit demonstration of artificial intelligence applied to
+  hyperspectral and thermal sensing from space.
+\newblock In \emph{CubeSats and SmallSats for remote sensing III}, volume
+  11131, pages 88--96. SPIE, 2019.
+
+\bibitem[Brouwer et~al.(2021)Brouwer, Oei, Aalbers, Garcia, Verdugo, Cavalli,
+  Strobino, and Cronje]{brouwer2021earth}
+HSB Brouwer, HY~Oei, GT~Aalbers, L~Garcia, M~Verdugo, D~Cavalli, L~Strobino,
+  and T~Cronje.
+\newblock Earth through the eyes of napa-1: Commissioning results and the next
+  steps in cubesat earth observation.
+\newblock 2021.
+
+\bibitem[Krebs(2012)]{gunter2023}
+Gunter~D. Krebs.
+\newblock Gunter's space page, trisat, 2012.
+\newblock \url{https://space.skyrocket.de/doc_sdat/trisat.htm} retrieved on May
+  08, 2023.
+
+\bibitem[Matsuzawa et~al.(2021)Matsuzawa, Shibata, Inakawa, Niwa, and
+  Sako]{matsuzawa2021night}
+Shinji Matsuzawa, Takuma Shibata, Tomoya Inakawa, Yoshito Niwa, and Nobutada
+  Sako.
+\newblock Night-time color imaging with high resolution from a 35 kg
+  microsatellite.
+\newblock 2021.
+
+\bibitem[Brouwer et~al.(2022)Brouwer, Dimitriadis, Oei, Groot, Nemeth, Bouwer,
+  and Prinsloo]{brouwer2022multi}
+Hugo Brouwer, George Dimitriadis, Hong~Yang Oei, Zeger~de Groot, Ferenc Nemeth,
+  Philip Bouwer, and Thinus Prinsloo.
+\newblock Multi-spectral imaging from leo: High-resolution images and data from
+  the napa-2 turn-key mission.
+\newblock 2022.
+
+\bibitem[SFL(2021)]{dmsat2021}
+SFL.
+\newblock Space flight laboratory, 2021.
+\newblock \url{https://www.utias-sfl.net/dmsat-1/} retrieved on May 08, 2023.
+
+\bibitem[Bhattarai et~al.(2021)Bhattarai, Go, Kim, and
+  Oh]{bhattarai2021development}
+Shankar Bhattarai, Ji-Seong Go, Hongrae Kim, and Hyun-Ung Oh.
+\newblock Development of a novel deployable solar panel and mechanism for 6u
+  cubesat of step cube lab-ii.
+\newblock \emph{Aerospace}, 8\penalty0 (3):\penalty0 64, 2021.
+
+\bibitem[Love et~al.(2021)Love, Ott, Post, Dale, Safi, Boyd, Mohr, Ward,
+  Caffrey, Theiler, et~al.]{love2021nachos}
+Steven~P Love, Logan~A Ott, Kirk~W Post, Magdalena~E Dale, Claira~L Safi,
+  Kerry~G Boyd, Hannah~D Mohr, Christian~R Ward, Michael~P Caffrey, James~P
+  Theiler, et~al.
+\newblock Nachos, a cubesat-based high-resolution uv-visible hyperspectral
+  imager for remote sensing of trace gases: system overview and science
+  objectives.
+\newblock In \emph{CubeSats and SmallSats for Remote Sensing V}, volume 11832,
+  pages 85--99. SPIE, 2021.
+
+\bibitem[Gr{\o}tte et~al.(2021)Gr{\o}tte, Birkeland, Honor{\'e}-Livermore,
+  Bakken, Garrett, Prentice, Sigernes, Orlandi{\'c}, Gravdahl, and
+  Johansen]{grotte2021ocean}
+Mariusz~E Gr{\o}tte, Roger Birkeland, Evelyn Honor{\'e}-Livermore, Sivert
+  Bakken, Joseph~L Garrett, Elizabeth~F Prentice, Fred Sigernes, Milica
+  Orlandi{\'c}, J~Tommy Gravdahl, and Tor~A Johansen.
+\newblock Ocean color hyperspectral remote sensing with high resolution and low
+  latency—the hypso-1 cubesat mission.
+\newblock \emph{IEEE Transactions on Geoscience and Remote Sensing},
+  60:\penalty0 1--19, 2021.
+
+\bibitem[Hammar et~al.(2019)Hammar, Park, Chang, Pak, Emrich, and
+  Stake]{hammar2019wide}
+Arvid Hammar, Woojin Park, Seunghyuk Chang, Soojong Pak, Anders Emrich, and Jan
+  Stake.
+\newblock Wide-field off-axis telescope for the mesospheric airglow/aerosol
+  tomography spectroscopy satellite.
+\newblock \emph{Applied Optics}, 58\penalty0 (6):\penalty0 1393--1399, 2019.
+
+\bibitem[Dragonfly(2023)]{dragonfly2023}
+Aerospace Dragonfly.
+\newblock Reliable cubesat camera for superior earth observation, 2023.
+\newblock \url{https://dragonflyaerospace.com/products/} retrieved on
+  2023-04-03.
+
+\bibitem[Sandau et~al.(2010)Sandau, Brie{\ss}, and D’Errico]{sandau2010small}
+Rainer Sandau, Klaus Brie{\ss}, and Marco D’Errico.
+\newblock Small satellites for global coverage: Potential and limits.
+\newblock \emph{ISPRS Journal of photogrammetry and Remote Sensing},
+  65\penalty0 (6):\penalty0 492--504, 2010.
+
+\bibitem[Bandyopadhyay et~al.(2016)Bandyopadhyay, Foust, Subramanian, Chung,
+  and Hadaegh]{bandyopadhyay2016review}
+Saptarshi Bandyopadhyay, Rebecca Foust, Giri~P Subramanian, Soon-Jo Chung, and
+  Fred~Y Hadaegh.
+\newblock Review of formation flying and constellation missions using
+  nanosatellites.
+\newblock \emph{Journal of Spacecraft and Rockets}, 53\penalty0 (3):\penalty0
+  567--578, 2016.
+
+\bibitem[Blackwell et~al.(2018)Blackwell, Braun, Bennartz, Velden, DeMaria,
+  Atlas, Dunion, Marks, Rogers, Annane, et~al.]{blackwell2018overview}
+William~J Blackwell, S~Braun, R~Bennartz, C~Velden, M~DeMaria, R~Atlas,
+  J~Dunion, F~Marks, R~Rogers, B~Annane, et~al.
+\newblock An overview of the tropics nasa earth venture mission.
+\newblock \emph{Quarterly Journal of the Royal Meteorological Society},
+  144:\penalty0 16--26, 2018.
+
+\bibitem[Surrey(2023)]{surry2002}
+Surrey.
+\newblock Beijing-1 and the dmc mission, 2023.
+\newblock \url{https://www.surrey.ac.uk/surrey-space-centre/missions/beijing-1}
+  retrieved on May 17, 2023.
+
+\bibitem[Gutierrez~Ahumada et~al.(2021)Gutierrez~Ahumada, Doerksen, and
+  Zeller]{gutierrez2021automated}
+Jose~Angel Gutierrez~Ahumada, Kelsey Doerksen, and Stefan Zeller.
+\newblock Automated fleet commissioning workflows at planet.
+\newblock \emph{small satellite conference}, 2021.
+
+\bibitem[Lab(2023)]{planet2023}
+Planet Lab.
+\newblock Small spacecraft constellation, 2023.
+\newblock \url{https://www.planet.com/our-constellations/} retrieved on May 10,
+  2023.
+
+\bibitem[Schoolcraft et~al.(2017)Schoolcraft, Klesh, and
+  Werne]{schoolcraft2017marco}
+Josh Schoolcraft, Andrew Klesh, and Thomas Werne.
+\newblock Marco: interplanetary mission development on a cubesat scale.
+\newblock \emph{Space Operations: Contributions from the Global Community},
+  pages 221--231, 2017.
+
+\bibitem[nasa(2023)]{nas2023}
+nasa.
+\newblock Basics of space flight: science instruments, 2023.
+\newblock \url{https://solarsystem.nasa.gov/basics/chapter12-1/#remote}
+  retrieved on 2023-04-07.
+
+\bibitem[Behnke et~al.(2015)Behnke, K{\"u}hrt, Lichopoj, Michaelis, Mottola,
+  Schr{\"o}dter, and Tschentscher]{Behnke2015IMAGINGSF}
+Thomas Behnke, E.~K{\"u}hrt, Alexander Lichopoj, Harald Michaelis, Stefano
+  Mottola, Rolf Schr{\"o}dter, and Matthias Tschentscher.
+\newblock Imaging systems for planetary exploration.
+\newblock Institute of planetary research, 2015.
+
+\bibitem[Williams(2023)]{david2023}
+David~R. Williams.
+\newblock Nasa space science data coordinated archieve, 2023.
+\newblock \url{https://nssdc.gsfc.nasa.gov/nmc/} retrieved on 2023-04-01.
+
+\bibitem[Mesner and Gravel(1965)]{mesner1965tv}
+MH~Mesner and AJ~Gravel.
+\newblock The tv-camera system for ranger.
+\newblock \emph{IEEE Transactions on Broadcasting}, \penalty0 (1):\penalty0
+  1--5, 1965.
+
+\bibitem[Allen(1966)]{allen1966mariner}
+J~Denton Allen.
+\newblock The mariner iv spacecraft television system.
+\newblock In \emph{Advances in Electronics and Electron Physics}, volume~22,
+  pages 849--864. Elsevier, 1966.
+
+\bibitem[Henin(2021)]{Henin2021ImagingOS}
+Bernard Henin.
+\newblock Imaging our solar system: The evolution of space mission cameras and
+  instruments.
+\newblock 2021.
+
+\bibitem[Gehrels et~al.(1974)Gehrels, Coffeen, Tomasko, Doose, Swindell,
+  Castillo, Kendall, Clements, Hmeen-Anttila, Knight,
+  et~al.]{gehrels1974imaging}
+T~Gehrels, D~Coffeen, M~Tomasko, L~Doose, W~Swindell, N~Castillo, J~Kendall,
+  A~Clements, J~Hmeen-Anttila, C~Ken Knight, et~al.
+\newblock The imaging photopolarimeter experiment on pioneer 10.
+\newblock \emph{Science}, 183\penalty0 (4122):\penalty0 318--320, 1974.
+
+\bibitem[Fimmel et~al.(1977)Fimmel, Swindell, and Burgess]{fimmel1977pioneer}
+Richard~O Fimmel, William Swindell, and Eric Burgess.
+\newblock \emph{Pioneer odyssey}, volume 396.
+\newblock Scientific and Technical Information Office, National Aeronautics and
+  Space~…, 1977.
+
+\bibitem[Nozette et~al.(1994)Nozette, Rustan, Pleasance, Kordas, Lewis, Park,
+  Priest, Horan, Regeon, Lichtenberg, et~al.]{nozette1994clementine}
+Stewart Nozette, P~Rustan, LP~Pleasance, JF~Kordas, IT~Lewis, HS~Park,
+  RE~Priest, DM~Horan, P~Regeon, CL~Lichtenberg, et~al.
+\newblock The clementine mission to the moon: Scientific overview.
+\newblock \emph{Science}, 266\penalty0 (5192):\penalty0 1835--1839, 1994.
+
+\bibitem[Rodgers et~al.(2007)Rodgers, Beauchamp, Soderblom, Brown, Chen, Lee,
+  Sandel, Thomas, Benoit, and Yelle]{rodgers2007advanced}
+David~H Rodgers, Patricia~M Beauchamp, Laurence~A Soderblom, Robert~H Brown,
+  Gun-Shing Chen, Meemong Lee, Bill~R Sandel, David~A Thomas, Robert~T Benoit,
+  and Roger~V Yelle.
+\newblock Advanced technologies demonstrated by the miniature integrated camera
+  and spectrometer (micas) aboard deep space 1.
+\newblock \emph{Space science reviews}, 129:\penalty0 309--326, 2007.
+
+\bibitem[Sandford et~al.(2006)Sandford, Brownlee, and
+  Brucato]{sandford2006organics}
+John~P Sandford, Scott~A, Donald~E Brownlee, and Brucato.
+\newblock Organics captured from comet 81p/wild 2 by the stardust spacecraft.
+\newblock \emph{Science}, 314\penalty0 (5806):\penalty0 1720--1724, 2006.
+
+\bibitem[Racca et~al.(2002)Racca, Marini, Stagnaro, Van~Dooren, Di~Napoli,
+  Foing, Lumb, Volp, Brinkmann, Gr{\"u}nagel, et~al.]{racca2002smart}
+GD~Racca, A~Marini, L~Stagnaro, J~Van~Dooren, L~Di~Napoli, BH~Foing, R~Lumb,
+  J~Volp, J~Brinkmann, R~Gr{\"u}nagel, et~al.
+\newblock Smart-1 mission description and development status.
+\newblock \emph{Planetary and space science}, 50\penalty0 (14-15):\penalty0
+  1323--1337, 2002.
+
+\bibitem[Bibring et~al.(2007)Bibring, Rosenbauer, Boehnhardt, Ulamec, Biele,
+  Espinasse, Feuerbacher, Gaudon, Hemmerich, Kletzkine,
+  et~al.]{bibring2007rosetta}
+J-P Bibring, Helmut Rosenbauer, Hermann Boehnhardt, Stephan Ulamec, Jens Biele,
+  Sylvie Espinasse, Berndt Feuerbacher, Philippe Gaudon, P~Hemmerich,
+  P~Kletzkine, et~al.
+\newblock The rosetta lander (“philae”) investigations.
+\newblock \emph{Space science reviews}, 128:\penalty0 205--220, 2007.
+
+\bibitem[Boehnhardt et~al.(2017)Boehnhardt, Bibring, Apathy, Auster,
+  Ercoli~Finzi, Goesmann, Klingelh{\"o}fer, Knapmeyer, Kofman, Kr{\"u}ger,
+  et~al.]{boehnhardt2017philae}
+Hermann Boehnhardt, Jean-Pierre Bibring, Istvan Apathy, Hans~Ulrich Auster,
+  Amalia Ercoli~Finzi, Fred Goesmann, G{\"o}star Klingelh{\"o}fer, Martin
+  Knapmeyer, Wlodek Kofman, Harald Kr{\"u}ger, et~al.
+\newblock The philae lander mission and science overview.
+\newblock \emph{Philosophical Transactions of the Royal Society A:
+  Mathematical, Physical and Engineering Sciences}, 375\penalty0
+  (2097):\penalty0 20160248, 2017.
+
+\bibitem[Stern et~al.(2015)Stern, Bagenal, Ennico, Gladstone, Grundy, McKinnon,
+  Moore, Olkin, Spencer, Weaver, et~al.]{stern2015pluto}
+S~Alan Stern, F~Bagenal, K~Ennico, GR~Gladstone, WM~Grundy, WB~McKinnon,
+  JM~Moore, CB~Olkin, JR~Spencer, HA~Weaver, et~al.
+\newblock The pluto system: Initial results from its exploration by new
+  horizons.
+\newblock \emph{Science}, 350\penalty0 (6258):\penalty0 aad1815, 2015.
+
+\bibitem[Weaver et~al.(2009)Weaver, Gibson, Tapley, Young, and
+  Stern]{weaver2009overview}
+HA~Weaver, WC~Gibson, MB~Tapley, LA~Young, and SA~Stern.
+\newblock Overview of the new horizons science payload.
+\newblock \emph{New Horizons: Reconnaissance of the pluto-charon system and the
+  kuiper Belt}, pages 75--91, 2009.
+
+\bibitem[Zuber et~al.(2013)Zuber, Smith, Watkins, Asmar, Konopliv, Lemoine,
+  Melosh, Neumann, Phillips, Solomon, et~al.]{zuber2013gravity}
+Maria~T Zuber, David~E Smith, Michael~M Watkins, Sami~W Asmar, Alexander~S
+  Konopliv, Frank~G Lemoine, H~Jay Melosh, Gregory~A Neumann, Roger~J Phillips,
+  Sean~C Solomon, et~al.
+\newblock Gravity field of the moon from the gravity recovery and interior
+  laboratory (grail) mission.
+\newblock \emph{Science}, 339\penalty0 (6120):\penalty0 668--671, 2013.
+
+\bibitem[Williams et~al.(2014)Williams, Konopliv, Boggs, Park, Yuan, Lemoine,
+  Goossens, Mazarico, Nimmo, Weber, et~al.]{williams2014lunar}
+James~G Williams, Alexander~S Konopliv, Dale~H Boggs, Ryan~S Park, Dah-Ning
+  Yuan, Frank~G Lemoine, Sander Goossens, Erwan Mazarico, Francis Nimmo,
+  Renee~C Weber, et~al.
+\newblock Lunar interior properties from the grail mission.
+\newblock \emph{Journal of Geophysical Research: Planets}, 119\penalty0
+  (7):\penalty0 1546--1578, 2014.
+
+\bibitem[Zheng et~al.(2013)Zheng, Hsu, Zhong, and Yun]{zheng2013china}
+Wei Zheng, Houtse Hsu, Min Zhong, and Meijuan Yun.
+\newblock China's first-phase mars exploration program: Yinghuo-1 orbiter.
+\newblock \emph{Planetary and Space Science}, 86:\penalty0 155--159, 2013.
+
+\bibitem[Hua(2008)]{hua2008yinghuo}
+ZHAO Hua.
+\newblock Yinghuo-1——martian space environment exploration orbiter.
+\newblock \emph{Journal of Space Science}, 28\penalty0 (5):\penalty0 395--401,
+  2008.
+
+\bibitem[Marshak et~al.(2018)Marshak, Herman, Adam, Karin, Carn, Cede,
+  Geogdzhayev, Huang, Huang, Knyazikhin, et~al.]{marshak2018earth}
+Alexander Marshak, Jay Herman, Szabo Adam, Blank Karin, Simon Carn, Alexander
+  Cede, Igor Geogdzhayev, Dong Huang, Liang-Kang Huang, Yuri Knyazikhin, et~al.
+\newblock Earth observations from dscovr epic instrument.
+\newblock \emph{Bulletin of the American Meteorological Society}, 99\penalty0
+  (9):\penalty0 1829--1850, 2018.
+
+\bibitem[JPL(2018)]{jpl2018}
+JPL.
+\newblock Mars cube one telecommunications subsystem design, 2018.
+\newblock \url{https://descanso.jpl.nasa.gov/DPSummary/DESCANSO18_MarCO.pdf}
+  retrieved on 2023-04-11.
+
+\bibitem[Broeg et~al.(2013)Broeg, Fortier, Ehrenreich, Alibert, Baumjohann,
+  Benz, Deleuil, Gillon, Ivanov, Liseau, et~al.]{broeg2013cheops}
+C~Broeg, A~Fortier, D~Ehrenreich, Yann Alibert, W~Baumjohann, Willy Benz,
+  Magali Deleuil, Micha{\"e}l Gillon, A~Ivanov, Ren{\'e} Liseau, et~al.
+\newblock Cheops: A transit photometry mission for esa's small mission
+  programme.
+\newblock In \emph{EPJ Web of Conferences}, volume~47, page 03005. EDP
+  Sciences, 2013.
+
+\bibitem[Fortier et~al.(2014)Fortier, Beck, Benz, Broeg, Cessa, Ehrenreich, and
+  Thomas]{fortier2014cheops}
+Andrea Fortier, Thomas Beck, Willy Benz, Christopher Broeg, Virginie Cessa,
+  David Ehrenreich, and Nicolas Thomas.
+\newblock Cheops: a space telescope for ultra-high precision photometry of
+  exoplanet transits.
+\newblock In \emph{Space Telescopes and Instrumentation 2014: Optical,
+  Infrared, and Millimeter Wave}, volume 9143, pages 750--761. SPIE, 2014.
+
+\bibitem[Funase et~al.(2020)Funase, Ikari, Miyoshi, Kawabata, Nakajima, Nomura,
+  Funabiki, Ishikawa, Kakihara, Matsushita, et~al.]{funase2020mission}
+Ryu Funase, Satoshi Ikari, Kota Miyoshi, Yosuke Kawabata, Shintaro Nakajima,
+  Shunichiro Nomura, Nobuhiro Funabiki, Akihiro Ishikawa, Kota Kakihara, Shuhei
+  Matsushita, et~al.
+\newblock Mission to earth--moon lagrange point by a 6u cubesat: Equuleus.
+\newblock \emph{IEEE Aerospace and Electronic Systems Magazine}, 35\penalty0
+  (3):\penalty0 30--44, 2020.
+
+\bibitem[Ikari et~al.(2019)Ikari, Fujiwara, Kondo, Matsushita, Yoshikawa,
+  Yoshioka, Hikida, Kawabata, Nakajima, Funase, et~al.]{ikari2019solar}
+Satoshi Ikari, Masahiro Fujiwara, Hirotaka Kondo, Shuhei Matsushita, Ichiro
+  Yoshikawa, Kazuo Yoshioka, Reina Hikida, Yosuke Kawabata, Shintaro Nakajima,
+  Ryu Funase, et~al.
+\newblock Solar system exploration sciences by equuleus on sls em-1 and science
+  instruments development status.
+\newblock 2019.
+
+\bibitem[Martinez(2021)]{martinez2021advanced}
+Andres Martinez.
+\newblock Advanced exploration systems (aes) small spacecraft missions.
+\newblock In \emph{Spanish Small Satellites International Forum}, 2021.
+
+\bibitem[Crusan and Galica(2019)]{crusan2019nasa}
+Jason Crusan and Carol Galica.
+\newblock Nasa's cubesat launch initiative: Enabling broad access to space.
+\newblock \emph{Acta Astronautica}, 157:\penalty0 51--60, 2019.
+
+\bibitem[Johnson et~al.(2022)Johnson, Betts, Heaton, Jones, McNutt, Pruitt,
+  Stott, Wallace, Wilson, Castillo-Rogez, et~al.]{johnson2022near}
+Les Johnson, Erin Betts, Andrew Heaton, Clif Jones, Leslie McNutt, Matt Pruitt,
+  Jim Stott, Darren Wallace, Rick Wilson, Julie Castillo-Rogez, et~al.
+\newblock Near earth asteroid scout-mission update.
+\newblock 2022.
+
+\bibitem[McNutt et~al.(2014)McNutt, Johnson, Kahn, Castillo-Rogez, and
+  Frick]{mcnutt2014near}
+Leslie McNutt, Les Johnson, Pater Kahn, Julie Castillo-Rogez, and Andreas
+  Frick.
+\newblock Near-earth asteroid (nea) scout.
+\newblock In \emph{AIAA Space 2014 Conference and Exposition}, page 4435, 2014.
+
+\bibitem[Di~Tana et~al.(2019)Di~Tana, Cotugno, Simonetti, Mascetti, Scorzafava,
+  and Pirrotta]{di2019argomoon}
+Valerio Di~Tana, Biagio Cotugno, Simone Simonetti, Gabriele Mascetti, Edmondo
+  Scorzafava, and Simone Pirrotta.
+\newblock Argomoon: There is a nano-eyewitness on the sls.
+\newblock \emph{IEEE Aerospace and Electronic Systems Magazine}, 34\penalty0
+  (4):\penalty0 30--36, 2019.
+
+\bibitem[Molli et~al.(2023)Molli, Durante, Boscagli, Cascioli, Racioppa,
+  Alessi, Simonetti, Vigna, and Iess]{molli2023design}
+S~Molli, D~Durante, G~Boscagli, Gael Cascioli, P~Racioppa, EM~Alessi,
+  S~Simonetti, L~Vigna, and L~Iess.
+\newblock Design and performance of a martian autonomous navigation system
+  based on a smallsat constellation.
+\newblock \emph{Acta Astronautica}, 203:\penalty0 112--124, 2023.
+
+\bibitem[Hambleton et~al.(2016)Hambleton, Henry, and
+  McMahan]{hambleton2016international}
+K~Hambleton, K~Henry, and T~McMahan.
+\newblock International partners provide science satellites for america's space
+  launch system maiden flight, 2016.
+
+\bibitem[Simonetti et~al.(2020)Simonetti, Tana, Mascetti, Pirrotta, and
+  Scorzafava]{simonetti2020argomoon}
+Simone Simonetti, Valerio~Di Tana, Gabriele Mascetti, Simone Pirrotta, and
+  Edmondo Scorzafava.
+\newblock Argomoon: Italian cubesat technology to record the maiden flight of
+  sls towards the moon.
+\newblock \emph{small satellite conference}, 2020.
+
+\bibitem[Neasneas()]{mission2022nea}
+Mission Neasneas.
+\newblock Nea scout (near earth asteroid scout).
+
+\bibitem[Klesh et~al.(2013)Klesh, Baker, Bellardo, Castillo-Rogez, Cutler,
+  Halatek, Lightsey, Murphy, and Raymond]{klesh2013inspire}
+Andrew~T Klesh, John~D Baker, John Bellardo, Julie Castillo-Rogez, James
+  Cutler, Lauren Halatek, E~Glenn Lightsey, Neil Murphy, and Carol Raymond.
+\newblock Inspire: Interplanetary nanospacecraft pathfinder in relevant
+  environment.
+\newblock In \emph{AIAA SPACE 2013 Conference and Exposition}, page 5323, 2013.
+
+\bibitem[JPL(2023)]{jpl2023}
+JPL.
+\newblock Jet propulsion laboratory future missions, 2023.
+\newblock \url{https://www.jpl.nasa.gov/missions?mission_status=future}
+  retrieved on 2023-04-09.
+
+\bibitem[Liu and Diner(2017)]{liu2017multi}
+Yang Liu and David~J Diner.
+\newblock Multi-angle imager for aerosols: a satellite investigation to benefit
+  public health.
+\newblock \emph{Public Health Reports}, 132\penalty0 (1):\penalty0 14--17,
+  2017.
+
+\bibitem[Shoer et~al.(2021)Shoer, Hopkins, and Bierhaus]{shoer2021janus}
+Joseph Shoer, Joshua~B Hopkins, and Edward~B Bierhaus.
+\newblock Janus and lunar trailblazer: Lockheed martin deep space smallsats for
+  nasa simplex missions.
+\newblock \emph{small satellite conference}, 2021.
+
+\bibitem[Euroconsult(2022)]{euro2022}
+Euroconsult.
+\newblock Prospects for the small satellite market 2022, 2022.
+\newblock
+  \url{https://newspaceeconomy.ca/2022/07/15/prospects-for-the-small-satellite-market-2022-euroconsult-report-published-july-2022/}
+  retrieved on 2023-04-13.
+
+\bibitem[Curtis(2023)]{curtis2023}
+Hywel Curtis.
+\newblock Cubesat cameras and optical payloads for small satellites on the
+  global marketplace, 2023.
+\newblock
+  \url{https://blog.satsearch.co/2020-03-25-optical-payloads-for-small-satellites-a-sector-overview#optical-payloads-on-the-global-market}
+  retrieved on 2023-04-03.
+
+\bibitem[Simera(2023{\natexlab{a}})]{simer2023}
+Sense Simera.
+\newblock 3 trends to impact the design of optical payloads for smaller
+  satellites, 2023{\natexlab{a}}.
+\newblock \url{https://simera-sense.com/company/blog/} retrieved on 2023-04-05.
+
+\bibitem[Guzm{\'a}n et~al.(2020)Guzm{\'a}n, L{\'o}pez, Ocerin, Davis, Hernani,
+  Brennan-Craddock, Kelleman, Pastena, Melega, and Mariani]{guzman2020compact}
+Rafael Guzm{\'a}n, Ricardo L{\'o}pez, Eider Ocerin, Stuart Davis,
+  Juan~Tom{\'a}s Hernani, Rob Brennan-Craddock, Nick Kelleman, Massimiliano
+  Pastena, Nicola Melega, and Flavio Mariani.
+\newblock A compact multispectral imager for the mantis mission 12u cubesat.
+\newblock In \emph{CubeSats and SmallSats for Remote Sensing IV}, volume 11505,
+  page 1150507. SPIE, 2020.
+
+\bibitem[Satlantis(2023)]{Satlantis2023}
+Satlantis.
+\newblock Solutions for cubesats, 2023.
+\newblock \url{https://satlantis.com/solution-for-cubesats/} retrieved on
+  2023-04-03.
+
+\bibitem[Casini et~al.(2020)Casini, Fodde, Engelen, Monna, Cervone, and
+  Gill]{casini2020towards}
+Stefano Casini, Iosto Fodde, Steven Engelen, Bert Monna, Angelo Cervone, and
+  Eberhard Gill.
+\newblock Towards the use of commercialoff-the-shelf small-satellite components
+  for deep-space cubesats: a feasibility and performance analysis.
+\newblock In \emph{SmallSat 2020-34th Small Satellite Conference}, 2020.
+
+\bibitem[Simera(2023{\natexlab{b}})]{Simera2023}
+Sense Simera.
+\newblock New generation of optical payloads, 2023{\natexlab{b}}.
+\newblock \url{https://simera-sense.com/products/} retrieved on 2023-04-03.
+
+\bibitem[Clyde(2023)]{clyde2023}
+Space Clyde.
+\newblock Im200 optical imager, 2023.
+\newblock
+  \url{https://www.aac-clyde.space/what-we-do/space-products-components/payloads/im200}
+  retrieved on 2023-04-03.
+
+\bibitem[XCAM(2023)]{xcam2023}
+XCAM.
+\newblock Xcam camera system, 2023.
+\newblock \url{https://www.xcam.co.uk/camera-systems} retrieved on 2023-04-04.
+
+\bibitem[Technologies(2023)]{bst2023}
+Berlin~Space Technologies.
+\newblock Hyper spectral camera, 2023.
+\newblock \url{https://www.berlin-space-tech.com/portfolio/1951/} retrieved on
+  2023-04-03.
+
+\bibitem[Safran(2023)]{safran2023}
+Safran.
+\newblock High performance optomechnaical systems, 2023.
+\newblock \url{https://www.safran-group.com/companies/safran-reosc} retrieved
+  on 2023-04-04.
+
+\bibitem[SCSspace(2023)]{scs2023}
+SCSspace.
+\newblock Scs space heritage, 2023.
+\newblock \url{http://www.scs-space.com/clients} retrieved on 2023-04-04.
+
+\bibitem[kairospace(2023)]{kairo2023}
+kairospace.
+\newblock Kairospace products, 2023.
+\newblock \url{http://kairo.space/} retrieved on 2023-04-04.
+
+\bibitem[Cosine(2023)]{cosine2023}
+Remote~Sensing Cosine.
+\newblock Cosine remote sensing, 2023.
+\newblock \url{https://www.cosine.nl/technologies/} retrieved on 2023-04-04.
+
+\bibitem[Slavinskis et~al.(2015)Slavinskis, Pajusalu, Kuuste, Ilbis,
+  Eenm{\"a}e, S{\"u}nter, Laizans, Ehrpais, Liias, Kulu,
+  et~al.]{slavinskis2015estcube}
+Andris Slavinskis, Mihkel Pajusalu, Henri Kuuste, Erik Ilbis, Tonis Eenm{\"a}e,
+  Indrek S{\"u}nter, Kaspars Laizans, Hendrik Ehrpais, Paul Liias, Erik Kulu,
+  et~al.
+\newblock Estcube-1 in-orbit experience and lessons learned.
+\newblock \emph{IEEE aerospace and electronic systems magazine}, 30\penalty0
+  (8):\penalty0 12--22, 2015.
+
+\bibitem[CGsatellite(2023)]{cgsat2023}
+CGsatellite.
+\newblock Satellite borne camera, 2023.
+\newblock
+  \url{https://www.cgsatellite.com/satellite-borne-visible-spectral-push-broom-camera/}
+  retrieved on 2023-04-04.
+
+\bibitem[MSSS(2023)]{malin2023}
+MSSS.
+\newblock Malin space science systems, 2023.
+\newblock \url{https://www.msss.com/space-cameras/} retrieved on 2023-04-04.
+
+\bibitem[SDL(2023)]{sdl2023}
+SDL.
+\newblock Sensors and instruments for air, space and ground, 2023.
+\newblock \url{https://www.sdl.usu.edu/capabilities/sensors-instruments}
+  retrieved on 2023-04-04.
+
+\bibitem[L3harris(2023)]{harris2023}
+L3harris.
+\newblock Space solutions, 2023.
+\newblock \url{https://www.l3harris.com/capabilities/space} retrieved on
+  2023-04-04.
+
+\bibitem[Meisei(2023)]{meisei2023}
+Meisei.
+\newblock Monitor camera for satellite, 2023.
+\newblock
+  \url{https://www.meisei.co.jp/english/products/space/satellite-components/p586}
+  retrieved on 2023-04-04.
+
+\bibitem[SkyFox(2023)]{skyfox2023}
+SkyFox.
+\newblock Digital cubesat camera, 2023.
+\newblock \url{https://www.skyfoxlabs.com/product/27-digital-cubesat-camera}
+  retrieved on 2023-04-04.
+
+\bibitem[Microgic(2023)]{micro2023}
+Microgic.
+\newblock Selfie camera for space (scs), 2023.
+\newblock \url{https://www.microgic.com/scs/} retrieved on 2023-04-06.
+
+\bibitem[Shahin(2021)]{shahin2021design}
+AA~Shahin.
+\newblock Design of an electro-optical imaging payload for a small spacecraft.
+\newblock \emph{PAN}, 6:\penalty0 1--5, 2021.
+
+\bibitem[Lomheim and Hernandez-Baquero(2002)]{lomheim2002translation}
+Terrence~S Lomheim and Erich~D Hernandez-Baquero.
+\newblock Translation of spectral radiance levels, band choices, and
+  signal-to-noise requirements to focal plane specifications and design
+  constraints.
+\newblock In \emph{Infrared Spaceborne Remote Sensing IX}, volume 4486, pages
+  263--307. SPIE, 2002.
+
+\bibitem[Shaw and Burke(2003)]{shaw2003spectral}
+Gary~A Shaw and Hsiaohua~K Burke.
+\newblock Spectral imaging for remote sensing.
+\newblock \emph{Lincoln laboratory journal}, 14\penalty0 (1):\penalty0 3--28,
+  2003.
+
+\bibitem[Simera(2023{\natexlab{c}})]{sim2023}
+Sense Simera.
+\newblock Design, launch and operate optical earth observation mission,
+  2023{\natexlab{c}}.
+\newblock
+  \url{https://simera-sense.com/part-one-design-launch-and-operate-optical-earth-observation-missions/}
+  retrieved on 2023-04-17.
+
+\bibitem[CRISP(2001)]{crisp2001}
+CRISP.
+\newblock Spot (satellite pour l'observation de la terre), france, 2001.
+\newblock \url{https://crisp.nus.edu.sg/~research/tutorial/spot.htm} retrieved
+  on 2023-03-29.
+
+\bibitem[Camps(2020)]{camps2020nanosatellites}
+Adriano Camps.
+\newblock Nanosatellites and applications to commercial and scientific
+  missions.
+\newblock \emph{Satell. Mission. Technol. Geosci}, pages 145--169, 2020.
+
+\end{thebibliography}

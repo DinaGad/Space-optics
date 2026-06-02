@@ -1,0 +1,42 @@
+#Date: 04/28/2023
+#SNPS ID: PRD
+#                                                                        SYNOPSYS INC. KEY CERTIFICATE
+#                                                                        Site ID: 39641
+#                                                                        KAIST
+#                                                                        373-1 Kusong-Dong
+#                                                                        Daejon
+#                                                                        305-701
+#                                                                        KR
+#--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#Use of the license keys provided herewith is governed by your Synopsys End User Software License Agreement, including any applicable supplements and addenda thereto.
+#
+#If you feel that keys are missing (or incorrect), please contact your Synopsys account manager.
+#
+#License keys will be transmitted in clear text, over public and private networks. Synopsys does not warrant or guarantee that these networks provide privacy and accepts no liability of
+#any kind if a third party intercepts the transmission.
+#
+#--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#                                                                        Lic      Lic  Lic   Lic        Lic        Maint      Maint      Key        Key        OM  WAN  WAN        WAN
+# Product:Serial Number         Description                              Qty      Type Mode  Start      End        Start      End        Start      End        Key Type Start      End
+#--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# 8768-0:4709919                CODE V                                   00000001 SUB  UN    05/10/2023 05/09/2027 05/10/2023 05/09/2027 05/10/2023 05/09/2027
+#----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#Server Config: 0000346734
+#Locking Code: 400-*1CSL7Q7SZG8ETQA
+#License Mode: Uncounted Nodelock
+#----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#
+#Each license code is at least 70 characters long and begins with an alphanumeric character.  Any line in this file starting with a pound sign (#) is a comment.
+#Any characters following a pound sign (#) on a given line are ignored as comments.  For more information on Synopsys licensing setup and installation, go to
+#http://www.synopsys.com/licensing
+#
+#----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#
+# Synopsys License file created by SNETKIF 12.8 on April 28, 2023 at 00:22:54 from OSGKEYPRD-LB1 for daemon ORA
+#Locking Code: 400-*1CSL7Q7SZG8ETQA
+# License file version: ~skf001
+#----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+*F SBbvxAxlkQ,8o6F5YWJ9fW:XJM5NRjLFWPtdvQXc1Nf8Bd:J:z31,tkXHXoLs25s3XbqMAQbGmoHIjkq7nq7Se32PAyJGdFeCRZJA8Bn7YDyLAO,QqV:0eG77pNP5jG\
+o2M3iigkrei3bsNWCwCzEthMvVhaKbILJ3KRRrnX7XXHyVGfV3yY2miuZjxBDlzYx5Ho23XtSnRGD4pTb:HZa1w1DHTfD#
+### Module "CODE_V" version "2023.03" expires on 9-May-2027
+#----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

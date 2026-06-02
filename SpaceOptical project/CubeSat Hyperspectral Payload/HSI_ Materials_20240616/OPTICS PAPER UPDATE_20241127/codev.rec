@@ -1,0 +1,74 @@
+SEE 0
+LEN NEW
+GBL NUM ^CV_BACKEND_STARTUP_SEQUENCE; ^CV_BACKEND_STARTUP_SEQUENCE == 1
+RES "C:\Users\Dinaol\Desktop\KAIST\PhD\EO project\Review article to journals\HSI_ Materials_20240616\OPTICS PAPER UPDATE_20241127\NEW.len"
+V3D; CAN;
+V3D
+GO
+SPO; CAN;
+SPO
+GO
+in cv_macro:cvquickrim
+in cv_macro:cvquickrim OPD
+FIE; CAN;
+FIE
+GO
+PSF; CAN;
+PSF
+GO
+MTF; CAN;
+MTF
+GEO NO
+GO
+V3D; CAN;
+V3D
+GO
+VIE; CAN;
+VIE
+GO
+V3D; CAN;
+V3D
+GO
+! Field of View (Semi-FOV, deg): individual values over ZA; direction - Y
+in cv_macro:\spec\specFOV 'ZA' 'Y' 'SEMI' 'IND'
+WAV ; BES; RFO; GO
+WAV ; BES; RFO; GO
+PSF; CAN;
+PSF
+GO
+in cv_macro:cvquickrim OPD
+PSF; CAN;
+PSF
+GO
+in cv_macro:cvquickrim
+MTF; CAN;
+MTF
+GEO NO
+GO
+WAV ; BES; RFO; GO
+SPO; CAN;
+SPO
+GO
+in cv_macro:cvquickrim
+V3D; CAN;
+V3D
+GO
+V3D; CAN;
+V3D
+RAT DEF;RFR
+RAT DEF;FAN 0 11
+GO
+V3D; CAN;
+V3D
+GO
+V3D; CAN;
+V3D
+RAT DEF;RFR
+RAT DEF;FAN 0 20
+GO
+V3D; CAN;
+V3D
+RAT DEF;RFR
+RAT DEF;FAN 0 40
+RAT DEF;FAN 0 11
+GO

@@ -1,0 +1,8 @@
+SEE 0
+LEN NEW
+GBL NUM ^CV_BACKEND_STARTUP_SEQUENCE; ^CV_BACKEND_STARTUP_SEQUENCE == 1
+RES "C:\Users\Dinaol\Desktop\KAIST\PhD\EO project\CubeSat Hyperspectral Payload\HSI_ Materials_20240616\SCRATCH.2.len"
+V3D; CAN;
+V3D
+GO
+EXI Y

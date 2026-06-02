@@ -1,0 +1,37 @@
+#Date: 03/20/2023
+#SNPS ID: PRD
+#                                                                        SYNOPSYS INC. KEY CERTIFICATE
+#                                                                        Site ID: 39641
+#                                                                        KAIST
+#                                                                        373-1 Kusong-Dong
+#                                                                        Daejon
+#                                                                        305-701
+#                                                                        KR
+#--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#Use of the license keys provided herewith is governed by your Synopsys End User Software License Agreement, including any applicable supplements and addenda thereto.
+#
+#If you feel that keys are missing (or incorrect), please contact your Synopsys account manager.
+#
+#License keys will be transmitted in clear text, over public and private networks. Synopsys does not warrant or guarantee that these networks provide privacy and accepts no liability of
+#any kind if a third party intercepts the transmission.
+#
+#--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#Server Config: 0000345659
+#Locking Code: C-*1YL25ULKCZPC2MQ
+#License Mode: Uncounted Nodelock
+#----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#
+#Each license code is at least 70 characters long and begins with an alphanumeric character.  Any line in this file starting with a pound sign (#) is a comment.
+#Any characters following a pound sign (#) on a given line are ignored as comments.  For more information on Synopsys licensing setup and installation, go to
+#http://www.synopsys.com/licensing
+#
+#----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#
+# Synopsys License file created by SNETKIF 12.8 on March 20, 2023 at 23:14:58 from OSGKEYPRD-LB1 for daemon ORA
+#Locking Code: C-*1YL25ULKCZPC2MQ
+# License file version: ~skf001
+#----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+*D xbjWHlip0n6YVUSVvXqAfdU68YgpseZSQlw9NpVD:z3fF2pXa4WBePL9wztcJO2ffxDC9bV6y8PLlA8vbVCERRVlAuCoNL1vzvHzyZi0i8FnVPB9Vlr5t6xpilt8vQh\
+GtQLSsyNgdpkPTVvNwgZo0w9cV,AfQfF9Ak8piVP42cX79G3hvzZfvuSzTwL,zKAWl,HF3,aLrhu8gBFQRrJl0Im:TLfl#
+### Module "CODE_V" version "2023.03" expires on 20-Apr-2023
+#----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

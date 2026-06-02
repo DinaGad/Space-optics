@@ -1,0 +1,197 @@
+%% 
+%% Copyright 2007-2020 Elsevier Ltd
+%% 
+%% This file is part of the 'Elsarticle Bundle'.
+%% ---------------------------------------------
+%% 
+%% It may be distributed under the conditions of the LaTeX Project Public
+%% License, either version 1.2 of this license or (at your option) any
+%% later version.  The latest version of this license is in
+%%    http://www.latex-project.org/lppl.txt
+%% and version 1.2 or later is part of all distributions of LaTeX
+%% version 1999/12/01 or later.
+%% 
+%% The list of all files belonging to the 'Elsarticle Bundle' is
+%% given in the file `manifest.txt'.
+%% 
+%% Template article for Elsevier's document class `elsarticle'
+%% with harvard style bibliographic references
+
+
+\documentclass[final,5p,times,sort&compress,twocolumn]{elsarticle}
+
+%% Use the options 1p,twocolumn; 3p; 3p,twocolumn; 5p; or 5p,twocolumn
+%% for a journal layout:
+%% \documentclass[final,1p,times]{elsarticle}
+%% \documentclass[final,1p,times,twocolumn]{elsarticle}
+%% \documentclass[final,3p,times]{elsarticle}
+%% \documentclass[final,3p,times,twocolumn]{elsarticle}
+%% \documentclass[final,5p,times]{elsarticle}
+%% \documentclass[final,5p,times,twocolumn]{elsarticle}
+
+%% For including figures, graphicx.sty has been loaded in
+%% elsarticle.cls. If you prefer to use the old commands
+%% please give \usepackage{epsfig}
+
+%% The amssymb package provides various useful mathematical symbols
+\usepackage[utf8]{inputenc}
+\usepackage{textcomp}
+
+\usepackage{graphicx}
+\usepackage{float}
+
+\usepackage{times}
+\usepackage{color}
+\usepackage{xcolor}
+\usepackage{natbib} 
+\usepackage{enumerate}
+\usepackage{caption}
+%\usepackage[separator = {;}]{credits}
+\usepackage{lscape}
+\usepackage{subcaption}
+\usepackage{wrapfig}
+\usepackage{orcidlink}
+\usepackage{amssymb}
+\usepackage{amsthm}
+\usepackage{enumitem}
+\usepackage{hyperref}
+\hypersetup{colorlinks=true,
+	citecolor=cyan,
+	pdfauthor=cyan,
+	linkcolor=cyan}
+
+
+\journal{Journal of  Acta Astronautica}
+
+\begin{document}
+
+\begin{frontmatter}
+
+\title{The design and performance evaluation of 3U CubeSat first-order optical imaging payload system}
+\tnotetext[t1]{This document is the results of the research project funded by the Aerospace System and Control Lab, ASCL}
+
+\author[1]{Gadisa Dianol\corref{cor1}}
+\fnref{fn1}
+\ead{gdina@kaist.ac.kr}
+%\credit{Conceptualization,  Writing - Original draft, Methodology, Data curation, Writing -review and editing, and Visualization }
+\author[1]{Hyochoong Bang\fnref{fn2}}
+\ead{hcbnag@kaist.ac.kr}
+%\credit{Reviewing and editing,  Supervision, and Funding acquisition}
+\cortext[cor1]{Corresponding author}
+\fntext[fn1]{PhD student in Aerospace System and Control Lab, at the Department Aerospace engineering, KAIST, 34141, Republic of Korea}
+\fntext[fn2]{Professor of Aerospace Engineering at Korean Advanced Institute of Science and Technology (KAIST), Daejeon, 34141, Republic of Korea}
+
+\affiliation[1]{organization={Aerospace System and Control Lab, Korean Advanced Institute of Science and Technology, KAIST},%Department and Organization
+            addressline={291}, 
+            city={Daejoen},
+            postcode={34141}, 
+            country={Republic of Korea}}
+%\affiliation[2]{}
+\begin{abstract}
+The recent advancements in CubeSat-based technologies have revolutionized how we monitor the environment for studying Earth's atmosphere, ocean, and surfaces of land from space. These platform are equipped with advanced imaging capabilities, allowing them to capture high resolution images of Earth surface as well as to investigate other celestial bodies.  In parallel, imaging system utilized by this platform have evolved over time, with advances in optics, electronics, and materials science leading to the development of more sophisticated and capable  optical imaging sensors. And today, optical instruments are how we see the world, from corrective eyewear to medical endoscopes to cell phone cameras to orbiting space telescopes. This article presents the design and performance evaluation of a 3U CubeSat first-order electro-optical imaging payload system based on the flat-field Schimdt-Cassegrain of Catadioptric telescope (SCT) that produces enlarged images of distant objects. The design process involves top-down approach from mission definition to payload requirements to its operation concept which defines how the specific CubeSat optical instrument will be used to meet the end goals. The selection of an appropriate imaging sensor, opto-mechanical design within the CubeSat form factor, and parameters that describe the capabilities and limitations of the CubeSat's optical instruments are also examined in order to assess the system's spatial resolution, modulation transfer function, noise characteristics, radiometric accuracy, and distortion levels.
+\end{abstract}
+
+%%Research highlights
+%\begin{highlights}
+%\item Optical sensors and instruments were tuned to acquire black and white images of Earth
+%\item Evolution of electro-optical imaging system
+%\item Improvement and advancement of electro-optical imaging system
+%\item Growing demand for high quality imagery data
+%\item Electro-optical based spacecraft in various orbital regimes
+%\item Small satellites such as mini-satellites, microsatellites, and nanosatellites
+%\item Growing technological and commercial expansion of electro-optical systems of small satellites
+%\end{highlights}
+
+\begin{keyword}
+	CubeSat \sep Electro-optical \sep Optical imaging  \sep  FoV \sep GSD \sep MTF \sep Small spacecraft \sep  SNR \sep  Sensor 
+
+\end{keyword}
+\end{frontmatter}
+%% main text
+\section{Introduction}
+The way we monitor the environment from space is being completely transformed by recent advancements in CubeSat-based technologies. They are reasonably inexpensive and can be used for a variety of space-based environmental monitoring tasks, such as measuring the amount of pollutants in the air, keeping an eye on ocean temperatures and current patterns, measuring variations in plant life and land cover, and monitoring natural disasters like wildfires, floods, and hurricanes \citep{chadalavada2021regional}. Furthermore, as the world grapples with the effects of climate change, the need for dependable, up-to-date monitoring of the Earth's environment has become more and more apparent. To address this problem, CubeSat technologies are emerging as a strong instrument for the environment observation and climate change monitoring. \\ 
+The original CubeSat conceptual design was developed in 1999 at Stanford University and California Polytechnic State University in San Luis Obispo (CalPoly) to enable low-cost access to space as a piggyback secondary payload on a large vehicle using the Poly Picosat Deployer (P-POD) \citep{welle2020overview, jin2013optical}. These platform are equipped with advanced imaging capabilities, allowing them to capture high resolution images of Earth surface as well as to investigate other celestial bodies. In parallel, advances in sensors, optics, and image processing algorithms have allowed optical imaging payloads to become smaller, lighter, and more efficient while still providing high-quality imagery.\\
+A variety of research papers on the design and performance evaluation of an optical imaging system can be found in literature. Dong-hyun \citep{cho2019high} presented a high-resolution image and video 6U CubeSat platform with locally manufactured components, having the goal of building a domestic commercial-off-the-shelf infrastructure for CubeSat and 3m resolution camera payload development which as the function of acquiring color images of earth using small reflecting telescope. Rutwik \citep{jain2018modes} discussed the modes of operation of a 3U CubeSat with a hyperspectral camera as its primary payload and a field programmable gate array as its secondary payload, as well as the components utilized, sustainable modes of operation, and redundancy added to the system to combat the harsh environment.  Muhammad \citep{azami2022earth} presented a 6U CubeSat with a 5-meter resolution to capture man-made patterns on the ground as  primary mission, as well as utilizing a convolution neural network approach for wildfire image classification. Andersen \citep{dearborn2014deployable} presented the design and development of a deployable membrane telescope for imaging missions to collect images of the sun that are appropriate for integration on 3U CubeSats. William \citep{schwartz2022}discussed recent improvements in deployable optics for hosting a 0.3-meter diameter telescope in a 6U CubeSat, with 4U dedicated to the payload and 2U allocated to the spacecraft bus. Mughal \citep{mughal2021aalto} presented the in-orbit results and lessons acquired of Aalto-1, the first Finnish spacecraft with a spectral imaging payload.  \\
+However, due to the fact that 3U CubeSat is limited in size and volume there is still a gap that presents opportunities for further research and development, such as miniaturization, optical design for compact systems, image enhancement, on-board data processing, and real-time analysis, to mention a few. In this article the design and performance evaluation of a 3U CubeSat first-order electro-optical imaging payload system based on the flat-field Schimdt-Cassegrain of Catadioptric telescope (SCT) that produces enlarged images of distant objects can be investigated . The selection of an appropriate imaging sensor, opto-mechanical design within the CubeSat form factor, and parameters that describe the capabilities and limitations of the CubeSat's optical instruments are also examined in order to assess the system's spatial resolution, modulation transfer function, noise characteristics, radiometric accuracy, and distortion levels.
+\begin{itemize}
+	\item Requirement definition
+	\item System architecture
+	\item Imaging sensor selection
+	\item optical design
+\end{itemize} 
+\section{Materials and methods}
+\subsection{Systematic optical imaging payload design}
+\subsection{Optical design}
+\textbf{Specification}
+
+	\scalebox{0.8}{
+\begin{tabular}{ |c |c |c| } 
+	\hline
+	GSD (m) at 500 -700km & Swath (km)  & Spectral BW (nm)\\ 
+	\hline
+	3 - 5  & 20  & 15 - 30 \\ 
+	\hline
+	Volume & Spectral range  & Spectrum\\ 
+	\hline
+	1.5 U & 450 - 900 nm & 32 bands\\
+	\hline
+	Focal length (mm) & Aperture (mm) & FOV ($^{\circ}$ )\\
+	\hline
+	580 $\pm$ 1 & 95 & 2.22 (across track)\\
+	\hline
+	Config & Sensor & Res\\
+	\hline
+	push broom & CMOS & 4096\\
+	\hline
+	Pixel size & Pixel depth & spectral bands\\
+	\hline
+	5.5 $\mu$m & 10-bit & up to 32\\
+	\hline
+	Spectral range & Storage & image processing\\
+	\hline
+	442 - 884 nm & 128 GB & Binning, thumbnails\\
+	\hline
+	image compression & Con. interface & Data inter\\
+	\hline
+	CCSDS 1220 & I2C, SPI & LVDS\\
+	\hline 
+	power supply &  power consu & mass\\
+	\hline
+	5V DC $\pm$ 250mV & 2.5/5.8 (imaging)  & 1.1 $\pm$ 5$\%$ \\
+	\hline
+	Dimension & temp &  \\
+	\hline 
+	98 $\times$ 98 $\times$ 176 mm & -10 up to +50 &\\
+	\hline
+\end{tabular}
+}
+
+\subsection{Sensor technology}
+\section{Results}
+\subsection{Imaging payload performance analysis}
+\section{Conclusion}
+\section*{CRediT authorship contribution }
+\textbf{Gadisa Dinaol }: Conceptualization,  Writing - Original draft, Methodology, Data curation, Writing -review and editing, and Visualization.\\
+\textbf{Prof. Hyochoong Bang}: Reviewing and editing,  Supervision, and Funding acquisition.
+\section*{Acknowledgment}
+This work was supported by Institute of Information $\&$ Communications Technology Planning $\&$ Evaluation (IITP) grant funded by the Korea government(MSIT) (No.2018-0-01658, Key Technologies Development for Next-Generation Satellites).
+\section*{Declaration of competing interest}
+The authors declare that they have no known competing financial interests or personal relationships that could appear to have influenced the work described in this paper.
+\section*{Funding sources}
+This study received no specific funding from public, commercial, or non-profit funding agencies.
+%\printcredits
+\bibliographystyle{agsm} 
+\bibliography{sample}
+%% else use the following coding to input the bibitems directly in the
+%% TeX file.
+
+%\begin{thebibliography}{00}
+
+%% \bibitem[Author(year)]{label}
+%% Text of bibliographic item
+
+%\bibitem[ ()]{}
+
+%\end{thebibliography}
+\end{document}
+

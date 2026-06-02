@@ -1,0 +1,56 @@
+This is BibTeX, Version 0.99d (TeX Live 2023)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: ACTA-review.aux
+The style file: agsm.bst
+Database file #1: sample.bib
+I was expecting a `,' or a `}'---line 853 of file sample.bib
+ :   
+ :   year ={2022},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--empty booktitle in Behnke2015IMAGINGSF
+Warning--empty booktitle in Henin2021ImagingOS
+Warning--there's a number but no volume in mesner1965tv
+Warning--empty booktitle in Narusawa2012DEVELOPMENTOC
+You've used 190 entries,
+            2909 wiz_defined-function locations,
+            1648 strings with 44187 characters,
+and the built_in function-call counts, 1195120 in all, are:
+= -- 196801
+> -- 17289
+< -- 26
++ -- 97435
+- -- 5428
+* -- 106372
+:= -- 233623
+add.period$ -- 227
+call.type$ -- 190
+change.case$ -- 2655
+chr.to.int$ -- 188
+cite$ -- 194
+duplicate$ -- 3168
+empty$ -- 6401
+format.name$ -- 6002
+if$ -- 215044
+int.to.chr$ -- 7
+int.to.str$ -- 0
+missing$ -- 157
+newline$ -- 614
+num.names$ -- 1998
+pop$ -- 991
+preamble$ -- 1
+purify$ -- 2850
+quote$ -- 0
+skip$ -- 2805
+stack$ -- 0
+substring$ -- 283691
+swap$ -- 686
+text.length$ -- 2686
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 748
+warning$ -- 4
+while$ -- 4244
+width$ -- 0
+write$ -- 2595
+(There was 1 error message)

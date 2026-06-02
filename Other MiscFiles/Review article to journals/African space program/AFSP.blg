@@ -1,0 +1,49 @@
+This is BibTeX, Version 0.99d (TeX Live 2024)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: AFSP.aux
+The style file: unsrt.bst
+Database file #1: sample.bib
+Warning--empty journal in bediaerospace
+Warning--empty year in bediaerospace
+You've used 12 entries,
+            1791 wiz_defined-function locations,
+            512 strings with 5055 characters,
+and the built_in function-call counts, 1992 in all, are:
+= -- 180
+> -- 48
+< -- 0
++ -- 24
+- -- 12
+* -- 98
+:= -- 320
+add.period$ -- 34
+call.type$ -- 12
+change.case$ -- 11
+chr.to.int$ -- 0
+cite$ -- 14
+duplicate$ -- 92
+empty$ -- 236
+format.name$ -- 12
+if$ -- 439
+int.to.chr$ -- 0
+int.to.str$ -- 12
+missing$ -- 9
+newline$ -- 61
+num.names$ -- 12
+pop$ -- 47
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 35
+stack$ -- 0
+substring$ -- 110
+swap$ -- 11
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 2
+while$ -- 23
+width$ -- 14
+write$ -- 123
+(There were 2 warnings)

@@ -1,0 +1,72 @@
+\begin{thebibliography}{xx}
+
+\harvarditem[Azami et~al.]{Azami, Orger, Schulz, Oshiro \harvardand\
+  Cho}{2022}{azami2022earth}
+Azami, M. H.~b., Orger, N.~C., Schulz, V.~H., Oshiro, T. \harvardand\ Cho, M.
+  \harvardyearleft 2022\harvardyearright , `Earth observation mission of a 6u
+  cubesat with a 5-meter resolution for wildfire image classification using
+  convolution neural network approach', {\em Remote Sensing} {\bf 14}(8),~1874.
+
+\harvarditem{Chadalavada \harvardand\ Dutta}{2021}{chadalavada2021regional}
+Chadalavada, P. \harvardand\ Dutta, A.  \harvardyearleft 2021\harvardyearright
+  , `Regional cubesat constellation design to monitor hurricanes', {\em IEEE
+  Transactions on Geoscience and Remote Sensing} {\bf 60},~1--8.
+
+\harvarditem[Cho et~al.]{Cho, Choi, Kim, Kim, Sim, Kim
+  et~al.}{2019}{cho2019high}
+Cho, D.-H., Choi, W.-S., Kim, M.-K., Kim, J.-H., Sim, E., Kim, H.-D. et~al.
+  \harvardyearleft 2019\harvardyearright , `High-resolution image and video
+  cubesat (hirev): Development of space technology test platform using a
+  low-cost cubesat platform', {\em International Journal of Aerospace
+  Engineering} {\bf 2019}.
+
+\harvarditem[Dearborn et~al.]{Dearborn, Andersen, Asmolova, Balthazor, McHarg,
+  Nelson, Quiller, Wilson, Harvey \harvardand\
+  Murphey}{2014}{dearborn2014deployable}
+Dearborn, M.~E., Andersen, G.~P., Asmolova, O., Balthazor, R.~L., McHarg,
+  M.~G., Nelson, H.~C., Quiller, T.~S., Wilson, G.~R., Harvey, T.~J.
+  \harvardand\ Murphey, T.~W.  \harvardyearleft 2014\harvardyearright , `A
+  deployable membrane telescope payload for cubesats', {\em Journal of Small
+  Satellites} {\bf 3}(1),~253--264.
+
+\harvarditem[Jain et~al.]{Jain, Sharma, Aggarwal, Goyal, Sundhar, Anand, Sahu
+  \harvardand\ Parikh}{2018}{jain2018modes}
+Jain, R., Sharma, S., Aggarwal, K., Goyal, T., Sundhar, A., Anand, U., Sahu, N.
+  \harvardand\ Parikh, J.  \harvardyearleft 2018\harvardyearright , Modes of
+  operation for a 3u cubesat with hyperspectral imaging payload, {\em in} `69th
+  International Astronautical Congress'.
+
+\harvarditem[Jin et~al.]{Jin, Lim, Kim \harvardand\ Kim}{2013}{jin2013optical}
+Jin, H., Lim, J., Kim, Y. \harvardand\ Kim, S.  \harvardyearleft
+  2013\harvardyearright , `Optical design of a reflecting telescope for
+  cubesat', {\em Journal of the Optical Society of Korea} {\bf
+  17}(6),~533--537.
+
+\harvarditem[Mughal et~al.]{Mughal, Praks, Vainio, Janhunen, Envall,
+  N{\"a}sil{\"a}, Oleynik, Niemel{\"a}, Nyman, Slavinskis
+  et~al.}{2021}{mughal2021aalto}
+Mughal, M.~R., Praks, J., Vainio, R., Janhunen, P., Envall, J., N{\"a}sil{\"a},
+  A., Oleynik, P., Niemel{\"a}, P., Nyman, S., Slavinskis, A. et~al.
+  \harvardyearleft 2021\harvardyearright , `Aalto-1, multi-payload cubesat:
+  In-orbit results and lessons learned', {\em Acta Astronautica} {\bf
+  187},~557--568.
+
+\harvarditem[Schwartz et~al.]{Schwartz, Brzozowski, Ali, Milanova, Morris,
+  Bond, Keogh, Harvey, Bissell, Sauvage, Dumont, Correia, Rees \harvardand\
+  Bruce}{2022}{schwartz2022}
+Schwartz, N., Brzozowski, W., Ali, Z., Milanova, M., Morris, K., Bond, C.,
+  Keogh, J., Harvey, D., Bissell, L., Sauvage, J.-F., Dumont, M., Correia, C.,
+  Rees, P. \harvardand\ Bruce, H.  \harvardyearleft 2022\harvardyearright , {6U
+  CubeSat deployable telescope for optical Earth observation and astronomical
+  optical imaging}, {\em in} L.~E. Coyle, S.~Matsuura \harvardand\ M.~D.
+  Perrin, eds, `Space Telescopes and Instrumentation 2022: Optical, Infrared,
+  and Millimeter Wave', Vol. 12180, International Society for Optics and
+  Photonics, SPIE, p.~1218031.
+\newline\harvardurl{https://doi.org/10.1117/12.2627248}
+
+\harvarditem{Welle}{2020}{welle2020overview}
+Welle, R.~P.  \harvardyearleft 2020\harvardyearright , `Overview of cubesat
+  technology', {\em Handbook of Small Satellites: Technology, Design,
+  Manufacture, Applications, Economics and Regulation} pp.~1--17.
+
+\end{thebibliography}
