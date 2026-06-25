@@ -1,0 +1,69 @@
+\begin{thebibliography}{12}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\href}[2]{#2}
+\providecommand{\path}[1]{#1}
+\providecommand{\DOIprefix}{doi:}
+\providecommand{\ArXivprefix}{arXiv:}
+\providecommand{\URLprefix}{URL: }
+\providecommand{\Pubmedprefix}{pmid:}
+\providecommand{\doi}[1]{\href{http://dx.doi.org/#1}{\path{#1}}}
+\providecommand{\Pubmed}[1]{\href{pmid:#1}{\path{#1}}}
+\providecommand{\bibinfo}[2]{#2}
+\ifx\xfnm\relax \def\xfnm[#1]{\unskip,\space#1}\fi
+%Type = Article
+\bibitem[{Kaushal and Kaddoum(2017)}]{kaushal2017optical}
+\bibinfo{author}{H.~Kaushal}, \bibinfo{author}{G.~Kaddoum},
+\newblock \bibinfo{title}{Optical communication in space: Challenges and mitigation techniques},
+\newblock \textit{\bibinfo{journal}{IEEE Communications Surveys \& Tutorials}} \bibinfo{volume}{19} (\bibinfo{year}{2017}) \bibinfo{pages}{57--96}.
+%Type = Article
+\bibitem[{Sodnik \emph{et al.}(2010)Sodnik, Furch, and Lutz}]{sodnik2010optical}
+\bibinfo{author}{Z.~Sodnik}, \bibinfo{author}{B.~Furch}, \bibinfo{author}{H.~Lutz},
+\newblock \bibinfo{title}{Optical intersatellite communication},
+\newblock \textit{\bibinfo{journal}{IEEE Journal of Selected Topics in Quantum Electronics}} \bibinfo{volume}{16} (\bibinfo{year}{2010}) \bibinfo{pages}{1051--1057}.
+%Type = Article
+\bibitem[{Chaudhry and Yanikomeroglu(2021)}]{chaudhry2021free}
+\bibinfo{author}{A.~U. Chaudhry}, \bibinfo{author}{H.~Yanikomeroglu},
+\newblock \bibinfo{title}{Free space optics for next-generation satellite networks},
+\newblock \textit{\bibinfo{journal}{IEEE Consumer Electronics Magazine}} \bibinfo{volume}{10} (\bibinfo{year}{2021}) \bibinfo{pages}{21--31}.
+%Type = Misc
+\bibitem[{{Space Development Agency}(2022)}]{sda2022oct}
+\bibinfo{author}{{Space Development Agency}}, \bibinfo{title}{Optical communications terminal ({OCT}) standard}, \bibinfo{year}{2022}. \bibinfo{note}{U.S. Space Development Agency, Standard Rev.~3}.
+%Type = Article
+\bibitem[{Toyoshima(2021)}]{toyoshima2021trends}
+\bibinfo{author}{M.~Toyoshima},
+\newblock \bibinfo{title}{Recent trends in space laser communications for small satellites and constellations},
+\newblock \textit{\bibinfo{journal}{Journal of Lightwave Technology}} \bibinfo{volume}{39} (\bibinfo{year}{2021}) \bibinfo{pages}{693--699}.
+%Type = Inproceedings
+\bibitem[{Cahoy \emph{et al.}(2020)Cahoy, Grenfell, Crews, Long, Serra \emph{et al.}}]{cahoy2020click}
+\bibinfo{author}{K.~Cahoy}, \bibinfo{author}{P.~Grenfell}, \bibinfo{author}{A.~Crews}, \bibinfo{author}{M.~Long}, \bibinfo{author}{P.~Serra}, \emph{et al.},
+\newblock \bibinfo{title}{The {CubeSat} laser infrared {CrosslinK} ({CLICK}) mission},
+\newblock in: \bibinfo{booktitle}{34th Annual AIAA/USU Conference on Small Satellites}, \bibinfo{year}{2020}. \bibinfo{note}{SSC20-XII-07}.
+%Type = Book
+\bibitem[{Hemmati(2009)}]{hemmati2009near}
+\bibinfo{editor}{H.~Hemmati} (Ed.), \bibinfo{title}{Near-Earth Laser Communications}, \bibinfo{publisher}{CRC Press}, \bibinfo{address}{Boca Raton, FL}, \bibinfo{year}{2009}.
+%Type = Article
+\bibitem[{Caplan(2007)}]{caplan2007laser}
+\bibinfo{author}{D.~O. Caplan},
+\newblock \bibinfo{title}{Laser communication transmitter and receiver design},
+\newblock \textit{\bibinfo{journal}{Journal of Optical and Fiber Communications Reports}} \bibinfo{volume}{4} (\bibinfo{year}{2007}) \bibinfo{pages}{225--362}.
+%Type = Inproceedings
+\bibitem[{Boroson \emph{et al.}(2014)Boroson, Robinson, Murphy, Burianek \emph{et al.}}]{boroson2014llcd}
+\bibinfo{author}{D.~M. Boroson}, \bibinfo{author}{B.~S. Robinson}, \bibinfo{author}{D.~V. Murphy}, \bibinfo{author}{D.~A. Burianek}, \emph{et al.},
+\newblock \bibinfo{title}{Overview and results of the lunar laser communication demonstration},
+\newblock in: \bibinfo{booktitle}{Free-Space Laser Communication and Atmospheric Propagation XXVI}, volume \bibinfo{volume}{8971}, \bibinfo{organization}{SPIE}, \bibinfo{year}{2014}, p. \bibinfo{pages}{89710S}.
+%Type = Book
+\bibitem[{Born and Wolf(1999)}]{born1999principles}
+\bibinfo{author}{M.~Born}, \bibinfo{author}{E.~Wolf}, \bibinfo{title}{Principles of Optics}, \bibinfo{edition}{7th} ed., \bibinfo{publisher}{Cambridge University Press}, \bibinfo{address}{Cambridge, UK}, \bibinfo{year}{1999}.
+%Type = Inproceedings
+\bibitem[{Robinson \emph{et al.}(2018)Robinson, Boroson, Schieler, Khatri \emph{et al.}}]{robinson2018tbird}
+\bibinfo{author}{B.~S. Robinson}, \bibinfo{author}{D.~M. Boroson}, \bibinfo{author}{C.~M. Schieler}, \bibinfo{author}{F.~I. Khatri}, \emph{et al.},
+\newblock \bibinfo{title}{{TeraByte InfraRed Delivery (TBIRD)}: a demonstration of large-volume direct-to-earth data transfer from low-earth orbit},
+\newblock in: \bibinfo{booktitle}{Free-Space Laser Communication and Atmospheric Propagation XXX}, volume \bibinfo{volume}{10524}, \bibinfo{organization}{SPIE}, \bibinfo{year}{2018}, p. \bibinfo{pages}{105240V}.
+%Type = Inproceedings
+\bibitem[{Schieler \emph{et al.}(2023)Schieler, Riesing, Bilyeu, Chang \emph{et al.}}]{schieler2023tbird}
+\bibinfo{author}{C.~M. Schieler}, \bibinfo{author}{K.~M. Riesing}, \bibinfo{author}{B.~C. Bilyeu}, \bibinfo{author}{J.~P. Chang}, \emph{et al.},
+\newblock \bibinfo{title}{On-orbit demonstration of 200-gbps laser communication downlink from the tbird cubesat},
+\newblock in: \bibinfo{booktitle}{Free-Space Laser Communications XXXV}, volume \bibinfo{volume}{12413}, \bibinfo{organization}{SPIE}, \bibinfo{year}{2023}, p. \bibinfo{pages}{1241302}.
+
+\end{thebibliography}
