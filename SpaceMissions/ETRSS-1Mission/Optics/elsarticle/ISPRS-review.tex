@@ -1,0 +1,155 @@
+%% 
+%% Copyright 2007-2020 Elsevier Ltd
+%% 
+%% This file is part of the 'Elsarticle Bundle'.
+%% ---------------------------------------------
+%% 
+%% It may be distributed under the conditions of the LaTeX Project Public
+%% License, either version 1.2 of this license or (at your option) any
+%% later version.  The latest version of this license is in
+%%    http://www.latex-project.org/lppl.txt
+%% and version 1.2 or later is part of all distributions of LaTeX
+%% version 1999/12/01 or later.
+%% 
+%% The list of all files belonging to the 'Elsarticle Bundle' is
+%% given in the file `manifest.txt'.
+%% 
+%% Template article for Elsevier's document class `elsarticle'
+%% with harvard style bibliographic references
+
+\documentclass[final,5p,times,twocolumn]{elsarticle}
+
+%% Use the options 1p,twocolumn; 3p; 3p,twocolumn; 5p; or 5p,twocolumn
+%% for a journal layout:
+%% \documentclass[final,1p,times]{elsarticle}
+%% \documentclass[final,1p,times,twocolumn]{elsarticle}
+%% \documentclass[final,3p,times]{elsarticle}
+%% \documentclass[final,3p,times,twocolumn]{elsarticle}
+%% \documentclass[final,5p,times]{elsarticle}
+%% \documentclass[final,5p,times,twocolumn]{elsarticle}
+
+%% For including figures, graphicx.sty has been loaded in
+%% elsarticle.cls. If you prefer to use the old commands
+%% please give \usepackage{epsfig}
+
+%% The amssymb package provides various useful mathematical symbols
+\usepackage[utf8]{inputenc}
+\usepackage{textcomp}
+
+\usepackage{graphicx}
+\usepackage{float}
+
+\usepackage{times}
+\usepackage{color}
+\usepackage{xcolor}
+\usepackage{natbib} 
+\usepackage{enumerate}
+\usepackage{caption}
+%\usepackage[separator = {;}]{credits}
+\usepackage{lscape}
+\usepackage{subcaption}
+\usepackage{wrapfig}
+\usepackage{orcidlink}
+\usepackage{amssymb}
+\usepackage{amsthm}
+\usepackage{enumitem}
+\usepackage{hyperref}
+\hypersetup{colorlinks=true,
+	 citecolor=cyan,
+	 pdfauthor=cyan,
+	 linkcolor=cyan}
+
+
+\journal{Journal of Space Safet Engineering}
+
+\begin{document}
+
+\begin{frontmatter}
+
+\title{Analysis of ETRSS-1 on-orbit performance and collision avoidance}
+%\tnotetext[t1]{This document is the results of the research project funded by the Aerospace System and Control Lab, ASCL}
+
+\author[1]{Gadisa Dianol\corref{cor1}}
+\fnref{fn1}
+\ead{gdina@kaist.ac.kr}
+%\credit{Conceptualization,  Writing - Original draft, Methodology, Data curation, Writing -review and editing, and Visualization }
+%\author[1]{Hyochoong Bang\fnref{fn2}}
+%\ead{hcbnag@kaist.ac.kr}
+%\credit{Reviewing and editing,  Supervision, and Funding acquisition}
+\cortext[cor1]{Corresponding author}
+\fntext[fn1]{Researcher at Aerospace System and Control Lab, Department Aerospace engineering, KAIST, 34141, Republic of Korea}
+%\fntext[fn2]{Professor of Aerospace Engineering at Korean Advanced Institute of Science and Technology (KAIST), Daejeon, 34141, Republic of Korea}
+
+\affiliation[1]{organization={Aerospace System and Control Lab, Korean Advanced Institute of Science and Technology, KAIST},%Department and Organization
+            addressline={291}, 
+            city={Daejoen},
+            postcode={34141}, 
+            country={Republic of Korea}}
+%\affiliation[2]{}
+\begin{abstract}
+This article is aimed  to present an overview of the ETRSS-1 satellite system, including its development and integration with the hardware utilized in the development of subsystems such as AOCS, communication, PSS, and payload operation, as well as its on-orbit performance and overall condition It will additionally assess its ability in acquiring remote sensing data and adhering to desired operational criteria. Overall, the analysis of ETRSS-1's on-orbit performance and collision avoidance provides valuable insights into the operational capabilities and safety measures used by Ethiopia's space program, contributing to a broader understanding of satellite operations in the context of space exploration and utilization.
+\end{abstract}
+
+%%Research highlights
+%\begin{highlights}
+%\item Optical sensors and instruments were tuned to acquire black and white images of Earth
+%\item Evolution of electro-optical imaging system
+%\item Improvement and advancement of electro-optical imaging system
+%\item Growing demand for high quality imagery data
+%\item Electro-optical based spacecraft in various orbital regimes
+%\item Small satellites such as mini-satellites, microsatellites, and nanosatellites
+%\item Growing technological and commercial expansion of electro-optical systems of small satellites
+%\end{highlights}
+
+\begin{keyword}
+	Attitude \sep Collision Avoidance \sep Microsatellite \sep  Workmode
+
+\end{keyword}
+\end{frontmatter}
+
+
+%% main text
+\section{Introduction}
+\label{}
+The Ethiopian remote sensing microsatellite, weighing 65 kilograms, was successfully launched into space  in December 2019 from the Taiyuan launch facility, with the mission of collecting earth imagery data to assist Ethiopia in combating climate change. The satellite is controlled from a sun-synchronous orbit at an altitude of 628 kilometers by a ground control station on Mount Entoto. Furthermore, the 65 kg multispectral Ethiopian remote sensing satellite was made up of two distinct modules: the satellite bus module (platform) and the payload (instrument module), as shown in Figure 1. The platform module of the ETRSS-1 includes attitude and orbit control, onboard data handling, power supply, telemetry and telecommand, thermal control, and a structural subsystem, while the payload includes a multispectral camera and a data transmission system that provides imagery data. The key technical parameters required for the ETRSS-1 system design and development are listed in Table 1.
+\subsection{Review of the ETRSS-1 orbital mission }
+\section{Methodology}
+\subsection{ETRSS-1 AOCS hardware system}
+\subsubsection{AOCS harware sensors and actuators}
+\subsection{ETRSS-1 AOCS control algorithm}
+\subsection{Satellite attitude dynamics}
+\section{On-orbit performance evaluation}
+\section{Collision avoidance }
+Collision Avoidance and Launch Collision Avoidance\\
+How does ETRSS-1 mitigate orbital debris?  Were there design considerations for small debris?  Is there a process for large debris?  During the three years (maybe four now) have their been debris avoidance manuevers?  How was the launch process managed to make sure the satellite was not launched into another object of space debrs?
+\section{Fault detection}
+Could you describe the system for managing system faults? Has the system experienced on-orbit failure of components?  What was the automated response of the satellite?  What was the ground system?
+\section{End of Life}
+What is the plan at the end of life of the satellite?  Will it have a controlled entry?  Will it end its life and naturally decay?  If this is the case, what is the expected time to decay after the end of the service life?
+\section{Conclusion}
+\section*{CRediT authorship contribution }
+\textbf{Gadisa Dinaol }: Conceptualization,  Writing - Original draft, Methodology, Data curation, Writing -review and editing, and Visualization.\\
+
+\section*{Acknowledgment}
+The authors would like to express special thanks to ETRSS-1 engineers team for the successful launch and operation of the satellite.
+\section*{Declaration of competing interest}
+The authors declare that they have no known competing financial interests or personal relationships that could appear to have influenced the work described in this paper.
+\section*{Funding sources}
+This study received no specific funding from public, commercial, or non-profit funding agencies.
+%\printcredits
+\bibliographystyle{unsrtnat} 
+\bibliography{sample}
+
+%% else use the following coding to input the bibitems directly in the
+%% TeX file.
+
+%\begin{thebibliography}{00}
+
+%% \bibitem[Author(year)]{label}
+%% Text of bibliographic item
+
+%\bibitem[ ()]{}
+
+%\end{thebibliography}
+\end{document}
+
