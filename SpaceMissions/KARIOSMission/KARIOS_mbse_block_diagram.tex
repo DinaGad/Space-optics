@@ -74,16 +74,16 @@
 \end{scope}
 
 % ================= BAND 3 : KARIOS SysML MODEL (4 pillars) =================
-\node[chip, draw=creq, line width=1pt, below=1.2cm of spinebox.south, xshift=-6.0cm] (p1)
+\node[chip, draw=creq, line width=2.5pt, below=1.2cm of spinebox.south, xshift=-6.0cm] (p1)
    {\textbf{\textcolor{creq}{Requirements}}\\ Mission $\to$ system $\to$ subsystem; \emph{Satisfy} \& \emph{Verify} traceability (RVM)};
-\node[chip, draw=cstr, line width=1pt, right=5mm of p1] (p2)
+\node[chip, draw=cstr, line width=2pt, right=5mm of p1] (p2)
    {\textbf{\textcolor{cstr}{Structure}}\\ BDD/IBD: Space $\cdot$ Ground $\cdot$ Launch segments; bus (OBC, EPS, ADCS, COMM UHF/LoRaWAN, STR, TCS); payloads (SIGINT + CyberSec)};
-\node[chip, draw=cbeh, line width=1pt, right=5mm of p2] (p3)
+\node[chip, draw=cbeh, line width=2pt, right=5mm of p2] (p3)
    {\textbf{\textcolor{cbeh}{Behavior}}\\ Use cases; activities (Collect \& Distribute Mission Data); state machine (Orbit / Solar / Payload / Download)};
-\node[chip, draw=cpar, line width=1pt, right=5mm of p3] (p4)
+\node[chip, draw=cpar, line width=2pt, right=5mm of p3] (p4)
    {\textbf{\textcolor{cpar}{Parametrics}}\\ Power, data, link \& coverage budgets as constraint blocks};
-\node[gtitle, text width=15cm] (mttl) at ([yshift=7mm]$(p1.north)!0.5!(p4.north)$)
-   {KARIOS SysML System Model --- instantiated from the CRM; authored in SysML (MagicDraw / Cameo Systems Modeler)};
+\node[gtitle, text width=16.5cm] (mttl) at ([yshift=8mm]$(p1.north)!0.5!(p4.north)$)
+   {KARIOS SysML System Model -- instantiated from the CRM (MagicDraw / Cameo Systems Modeler)};
 \begin{scope}[on background layer]
   \node[keygroup, fit=(mttl)(p1)(p4)] (modelbox) {};
 \end{scope}
@@ -94,7 +94,7 @@
 \node[chip, right=5mm of t1] (t2) {\textbf{MATLAB}\\ Power, thermal \& link analytics};
 \node[chip, right=5mm of t2] (t3) {\textbf{ModelCenter + MBSE Analyzer}\\ SysML $\leftrightarrow$ analysis bridge};
 \node[chip, right=5mm of t3] (t4) {\textbf{Cameo Simulation Toolkit}\\ Execute behavior \& parametrics};
-\node[gtitle, text width=15cm] (tttl) at ([yshift=6.5mm]$(t1.north)!0.5!(t4.north)$)
+\node[gtitle, text width=18cm] (tttl) at ([yshift=6.5mm]$(t1.north)!0.5!(t4.north)$)
    {Integrated Engineering Analyses --- linked to the SysML model and time-stepped as an executable simulation};
 \begin{scope}[on background layer]
   \node[group, fit=(tttl)(t1)(t4)] (toolbox) {};
