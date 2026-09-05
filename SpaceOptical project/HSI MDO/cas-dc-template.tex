@@ -70,14 +70,14 @@
 \def\textpagefraction{.001}
 
 % Short title
-\shorttitle{Optimization and Performance Evaluation of CubeSat Imaging Payload}
+\shorttitle{Onboard Hyperspectral Segmentation in Downlink-Constrained LEO SmallSat Constellations}
 
 % Short author
-\shortauthors{G. Dinaol and H. Bang}
+\shortauthors{Keon-Woo, et al}
 
 % Main title of the paper
 %\title [mode = title]{Mission Architecture for Result-Centric Hyperspectral Downlink in Low-Earth-Orbit Constellations}     
-\title [mode = title]{Lightweight Mamba–Transformer Hyperspectral Segmentation for Downlink-Constrained LEO Constellations Operations}      
+\title [mode = title]{Mamba-Transformer Fusion for Onboard Hyperspectral Segmentation in Downlink-Constrained LEO SmallSat Constellations Operations}      
 % Title footnote mark
 % eg: \tnotemark[1]
 % \tnotemark[1,2]
@@ -89,56 +89,50 @@
 % Design and performance evalaution of Hhyperspectral 
 % eg: \tnotetext[1]{Title footnote text}
 
-\author[4]{Keon-Woo Koo}
+\author[4]{Keon-Woo Koo\orcidlink{0000-0001-9468-368x}}
 %\fnmark[1]
-\corref{cor1}
-\ead{gdina@kaist.ac.kr}
-\author[1]{Haruna M. Mohammed}
+%\corref{cor1}
+\ead{rnrjsdnspace@skku.edu }
+\author[1]{Haruna H. Mohammed\orcidlink{0009-0004-5825-9784}}
 %\fnmark[1]
-\corref{cor1}
+%\corref{cor1}
 \ead{starcold@kaist.ac.kr}
 \author[1]{Dinaol Gadisa\orcidlink{0000-0002-6614-7852}}
 %\fnmark[1]
-\corref{cor1}
-\ead{gdina@kaist.ac.kr}
-\author[2]{Myungchul Choi}
-%\fnmark[1]
 %\corref{cor1}
 \ead{gdina@kaist.ac.kr}
-\author[3]{Jaehwan Park}
+\author[2]{Myungchul Choi\orcidlink{0009-0004-3801-6232}}
 %\fnmark[1]
 %\corref{cor1}
-\ead{gdina@kaist.ac.kr}
-\author[1]{Hyochoong Bang}
+\ead{ myho0103@ust.ac.kr}
+\author[3]{Jaehwan Park\orcidlink{0009-0008-9423-6458}}
+%\fnmark[1]
+%\corref{cor1}
+\ead{abcjack41@gmail.com}
+\author[1]{Hyochoong Bang\orcidlink{0000-0001-6016-8102}}
 %\fnmark[3]
-%\corref{cor1}
+\corref{cor1}
 \ead{hcbang@kaist.ac.kr}
-\author[4]{Jaekwang Kim}
+\author[4]{Jaekwang Kim\orcidlink{0000-0001-5174-0074}}
 %\fnmark[1]
 %\corref{cor1}
-\ead{gdina@kaist.ac.kr}
-\author[2]{Dong-Ho Yun}
+\ead{linux@skku.edu}
+\author[2]{Dongho Yun\orcidlink{0000-0001-9757-2571}}
 %\fnmark[1]
 %\corref{cor1}
-\ead{gdina@kaist.ac.kr}
+\ead{lipo123@ust.ac.kr}
 \cortext[cor1]{Corresponding authors}
 % \cortext[cor1]{Corresponding author}
 
-%\affiliation[1]{organization={Department of Aeronautics and Astronautics, Graduate School of Engineering, Kyushu University},%Department and Organization
-%	addressline={744 Motooka, Nishi-ku}, 
-%	city={Fukuoka},
-%	postcode={819-03951}, 
-%	country={Japan}}
-	
 \affiliation[1]{organization={Department of Aerospace Engineering, Korean Advanced Institute of Science and Technology, KAIST},%Department and Organization
             addressline={291}, 
             city={Daejoen},
             postcode={34141}, 
             country={Republic of Korea}}
 \affiliation[2]{organization={Robotics, University of Science and Technology},%Department and Organization
-            addressline={208}, 
-            city={Gwangju},
-            postcode={61012}, 
+            addressline={217}, 
+            city={Gajeong-ro, Yuseong-gu, Daejeon},
+            postcode={34113}, 
             country={Republic of Korea}}
 \affiliation[3]{organization={Space Robotics and Deep Learning Institute, KL.Space Co., Ltd.},%Department and Organization
 		addressline={2066}, 
@@ -150,9 +144,9 @@
 	city={Suwon},
 	postcode={16419}, 
 	country={Republic of Korea}}		
-\fntext[fn1]{PhD Candidate, Aerospace System and Control Lab}
-\fntext[fn2]{PhD Candidate, Aerospace System and Control Lab}
-\fntext[fn3]{Professor, Aerospace System and Control Lab, KAIST}
+%\fntext[fn1]{PhD Candidate, Aerospace System and Control Lab}
+%\fntext[fn2]{PhD Candidate, Aerospace System and Control Lab}
+%\fntext[fn3]{Professor, Aerospace System and Control Lab, KAIST}
 % First author
 %
 % Options: Use if required
@@ -169,7 +163,9 @@
 
 % Here goes the abstract
 \begin{abstract}
-Earth-observation constellations are increasingly constrained by intermittent downlink opportunities rather than sensing capacity, particularly when hyperspectral payloads generate large data cubes. Existing workflows typically downlink raw imagery before analysis, delaying actionable delivery and increasing contact demand. This study proposes a result-centric mission architecture that performs onboard segmentation, extracts regions of interest, packages a compact semantic alert, retains raw data locally, and schedules later evidence retrieval when needed. Mamba-OpticSatNet is implemented in two configurations: Full, an accuracy-oriented model combining parallel Transformer and selective state-space branches through adaptive gated fusion; and Lite, a deployment-oriented model that reduces token-processing cost and complexity. On a four-class derivative of OHID-1, Full achieved an mIoU of 0.908, while Lite achieved 0.877 with 0.288 million parameters and 0.066 giga multiply–accumulate operations (GMACs). Lite processed an evaluated cube in 1.698 s on Jetson AGX Orin at 25 W, consuming 42.44 J per inference. In an STK scenario with 20 satellites at 450 km and 76° inclination, average ground-station access was 302 s. At an illustrative 1 Mbit/s S-band application-layer throughput, a 1.64 GB cube required 13,120 s and 44 mean-duration contacts, whereas a 100 kB semantic alert required 0.8 s and one contact, reducing initial alert-downlink volume by 99.9939 \%. These results support an alert-first, evidence-later concept of operations, while absolute mission latency remains dependent on contact chronology, scheduling, protocol overhead, and link-budget conditions.
+	Earth-observation constellations are increasingly constrained by intermittent downlink opportunities rather than sensing capability, as hyperspectral payloads generate multi-gigabyte cubes that exceed available contact-window bandwidth. Existing workflows transmit raw imagery before analysis, increasing alert latency and incurring a high contact demand. This paper proposes Mamba-OpticSatNet, a result-centric mission architecture that performs onboard semantic segmentation, detects regions of interest (ROI), transmits a compact semantic alert, stores raw data locally, and defers evidence retrieval until a subsequent contact.
+	The Mamba-OpticSatNet architecture is evaluated in two configurations: Full is accuracy-oriented, fusing parallel Transformer and selective state-space branches through an adaptive gate, while Lite is deployment-oriented, employing a lightweight Mamba-residual stream similar to MRNet's hybrid CNN-Mamba design for edge-constrained detection that reduces token-processing cost and complexity. On a four-class derivative of OHID-1, Full achieved a mean Intersection-over-Union (mIoU) of 0.908, whereas Lite achieved 0.877 with 0.288 M parameters and 0.066 GMACs. On an NVIDIA Jetson AGX Orin at 25 W, Lite processed a hyperspectral cube in 1.698 seconds at 42.44 J per inference.
+	In an STK scenario with 20 satellites at 450 km and 76° inclination, average ground-station access was 302 s. At an illustrative 1 Mbit/s S-band application-layer throughput, a 1.64 GB cube required 13,120 s and 44 mean-duration contacts, whereas a 100 kB semantic alert required 0.8 s and one contact, reducing initial alert-downlink volume by 99.9939 \%. These results support an alert-first, evidence-later concept of operations, while absolute mission latency remains dependent on contact chronology, scheduling, protocol overhead, and link-budget conditions.
 \end{abstract}
 
 
@@ -191,7 +187,7 @@ Earth Observation \sep Satellite Constellation \sep Hyperspectral Imaging \sep O
 \maketitle
 
 \section{Introduction}
-\subsection{Earth observation smallsat constellation \& downlink challenges}
+%\subsection{Earth observation smallsat constellation \& downlink challenges}
 Small satellites and CubeSat-class platforms have lowered the cost and schedule barriers associated with Earth-observation missions. Standardized buses, commercial components, and repeatable manufacturing make it practical to distribute sensing capability across multiple spacecraft rather than concentrating it in a single large observatory. Constellation geometry can then be selected to improve revisit time, temporal sampling, resilience, and service continuity \cite{woellert2011cubesats}. The architectural advantage is particularly strong for transient phenomena such as floods, wildfires, coastal contamination, algal blooms, and rapidly changing land-surface conditions, for which the value of an observation decreases as the delay between acquisition and actionable delivery increases.
 
 %\begin{table*}[pos=h!]
@@ -241,14 +237,12 @@ This paper adopts that system view. The proposed mission does not treat segmenta
 
 %\citet{lee2008optical} presented a compact imaging spectrometer for the STSAT3 microsatellite that incorporates a catadioptric telescope, Offner-type configuration, customized prism, and curved grating element. By reducing the number of optical elements and shortening the optical route, the system achieved compact Earth observation capability with 30 m GSD spanning the 400-1050 nm spectral range.
 
-
-\textcolor{purple}{This study is structured as follows: Section~2 presents the hyperspectral optical payload design methodology, requirement definition, sensor selection, and optomechanical analysis. Section~3 discusses performance optimization, including image quality, aberration control, spatial and spectral resolution, SNR, sensitivity, and optical tolerancing. Section~4 summarizes the main results and conclusions.}
-\subsection{Onboard processing for Hyperspectral mission}
+%\subsection{Onboard processing for Hyperspectral mission}
 Autonomous science-event detection has a long flight heritage. Work on Earth Observing-1 demonstrated that onboard classifiers could identify science events and alter the downstream observation workflow before ground analysis \cite{castano2006onboard}. More recently, Phi-Sat-1 demonstrated deep neural-network inference for Earth-observation cloud filtering in orbit, showing that compact commercial accelerators can support useful payload decisions when integrated with appropriate mission safeguards \cite{giuffrida2022phisat1}. These demonstrations established the operational principle that not every acquired pixel needs equal downlink priority.
 
 Hyperspectral missions impose a harder version of the same problem because spectral richness creates both scientific value and large data volume. Robust, reconfigurable onboard-processing architectures have been developed for hyperspectral small satellites, with attention to data handling, fault recovery, and flexible processing chains \cite{langer2023robust}. HYPSO-1 studies have also used onboard classification to guide image capture and downlink selection, directly linking inference outputs to operations \cite{berg2024hypso}. A recent survey of onboard hyperspectral processing identifies model size, computational throughput, power, radiation effects, limited labels, domain shift, and verification as persistent barriers to operational deployment \cite{ghasemi2025onboardreview}.
 
-At the algorithm level, hyperspectral segmentation work has compared one-dimensional spectral networks, two-dimensional spatial-spectral networks, and transformer variants with deployment in mind \cite{justo2025hyperspectral}. In-orbit deployment of a compact 1D-CNN further demonstrated that segmentation can support satellite operations when the model and data path are designed together \cite{justo2025semantic}. Other studies have moved processing closer to raw sensor data to avoid expensive ground-like preprocessing, including onboard use of raw multispectral imagery \cite{meoni2024unlocking}, contaminant monitoring for future PhiSat-2 operations \cite{razzano2024ai, giordano2017roi}, and thermal-hotspot segmentation using raw multispectral measurements \cite{traba2026thermal}.
+At the algorithm level, hyperspectral segmentation work has compared one-dimensional spectral networks, 2D spatial-spectral networks, and transformer variants with deployment in mind \cite{justo2025hyperspectral}. In-orbit deployment of a compact 1D-CNN further demonstrated that segmentation can support satellite operations when the model and data path are designed together \cite{justo2025semantic}. Other studies have moved processing closer to raw sensor data to avoid expensive ground-like preprocessing, including onboard use of raw multispectral imagery \cite{meoni2024unlocking}, contaminant monitoring for future PhiSat-2 operations \cite{razzano2024ai, giordano2017roi}, and thermal-hotspot segmentation using raw multispectral measurements \cite{traba2026thermal}.
 
 Recent applications also emphasize low-demand mission products. Machine-learning approaches have been proposed for global flood mapping on low-cost satellites \cite{mateogarcia2021flood}, lightweight cloud masking in hyperspectral imagery \cite{ali2025cloudmasking}, and onboard change detection for disaster monitoring \cite{herec2026sttorm}. ROI-based hyperspectral compression reduces data volume while retaining selected image regions \cite{giordano2017roi}, but a semantic alert goes further: it sends a task-specific interpretation that cannot reconstruct the original radiance cube. The benefit is a much smaller payload; the cost is greater dependence on model validity, calibration, geolocation, and mission policy.
 
@@ -257,11 +251,13 @@ Parallel advances in lightweight Mamba-based architectures for remote sensing de
 Hardware feasibility must therefore be separated from flight qualification. Hybrid and reconfigurable onboard computing can provide high throughput, but radiation, thermal design, power transients, software faults, and reset behavior remain system concerns \cite{george2018onboard, bruhn2020radiation}. Proton testing of Jetson-class devices and in-orbit evaluations of heterogeneous commercial-off-the-shelf (COTS) architectures show both their promise and their vulnerability \cite{won2026orbit}. A laboratory result on a Jetson module is evidence of computational feasibility; it is not, by itself, evidence that the module is qualified for an operational spacecraft.
 
 The literature therefore contains strong results on onboard event detection, hyperspectral inference, compression, edge hardware, and ground scheduling, but these strands are often evaluated separately. The specific gap addressed here is an end-to-end mission architecture that links a hyperspectral semantic product, an onboard segmentation model, embedded execution, a constellation contact scenario, and a transparent distinction between transmission-time reduction and absolute mission-latency reduction.
+
+%\textcolor{purple}{This study is structured as follows: Section~2 presents the hyperspectral optical payload design methodology, requirement definition, sensor selection, and optomechanical analysis. Section~3 discusses performance optimization, including image quality, aberration control, spatial and spectral resolution, SNR, sensitivity, and optical tolerancing. Section~4 summarizes the main results and conclusions.}
 \section{Methodology}
 \subsection{Problem definition}
 Consider an Earth-observation mission in which each acquisition produces a raw hyperspectral product \(P_0\)
 \begin{figure*}[pos=hbp!]
-	\centering\includegraphics[width=0.9\textwidth]{figs/fig1}
+	\centering\includegraphics[width=0.9\textwidth]{figs/fig10}
 	\caption{Source result-centric downlink concept. The refined concept of operations uses the text product as a high-priority alert while retaining raw and ROI products onboard for later retrieval}% (adapted with permission from Ref. \cite{Cao2020}) (\textcolor{red}{produce your own perspective)}}
 \label{fig:concept}
 \end{figure*}
@@ -306,14 +302,15 @@ Accordingly, the central hypothesis evaluated in this study is that, under the r
 For a product that can be delivered within a single usable contact, the post-acquisition latency is approximated as
 \begin{eqnarray}\label{eq:lantecy}
 	\begin{aligned}
-		L_{post}(m,p) \approx T_{proc}(m,p) + T_{wait}(m,p) + \frac{B_p}{R_{\mathrm{eff}}} + T_{ground}(p)
+		L_{post}(m,p) \approx T_{proc}(m,p) + T_{wait}(m,p) + \frac{B_p}{R_{\mathrm{eff}}}\\
+		 + T_{ground}(p)
 	\end{aligned}
 \end{eqnarray}
 where \(T_{wait}(p)\) is the time between product generation and the beginning of a usable communication window, and \(T_{ground}(p)\) is the ground-side reception, decoding, and processing time. Equation \ref{eq:lantecy} is a single-contact approximation. Products that require multiple contacts additionally experience delays caused by contact spacing, scheduling conflicts, and possible retransmission,
 
 This formulation directly supports the four main contributions of the study including (i)Expresses the hyperspectral downlink bottleneck as a mismatch between onboard data generation and available ground-contact capacity, (ii) Defines result-centric downlink as a change in the transmitted product from the full measurement \(P_0\) to a smaller decision-oriented product \(P_3\), (iii) Correlates the segmentation performance and embedded execution cost of Mamba-OpticSatNet to mission-level resource constraints, and (iv) Defines the quantities required to evaluate transmitted volume, contact demand, and post-acquisition latency through mission-scenario analysis. The present study does not solve the complete optimization problem in Eq. (2); instead, it evaluates the combination of Mamba-OpticSatNet(Lite) and the \(P_3\) semantic-alert product as one candidate operating point.
 \subsection{Hyperpectral data downlink framework}\label{sec:framework}
-\subsubsection{Hyperspectral Data \& Semantic Compression}
+\subsubsection{Hyperspectral data \& semantic compression}
 A calibrated hyperspectral acquisition is represented as \(\mathcal{X} \in \mathbb{R}^{\mathrm{H\times W \times B}}\) where H and W are the spatial dimensions and B is the number of spectral bands. For q-bits samples, the nominal uncompressed radiometric data volume is
 \begin{eqnarray}
 	D_{rad} = \left[\frac{HWBq}{8}\right]
@@ -361,7 +358,7 @@ The semantic data-reduction factor and the percentage reduction in the initial a
 	F_{sem} = \frac{D_0}{D_3}, \quad \eta_{red}[\%] = \left(1- \frac{D_3}{D_0}\right) \times 100
 \end{eqnarray}
 Here, \(F_{sem}\) is a dimensionless semantic reduction factor rather than a reversible source-coding compression ratio. Unlike conventional compression, \(P_3\) cannot be decoded to reconstruct the original radiance cube. Its operational utility therefore depends on segmentation accuracy, probability calibration, geolocation quality, uncertainty representation, and the continued onboard retention of \(P_0\) or \(P_1\) for subsequent verification and scientific analysis \cite{langer2023robust, giordano2017roi}.
-\subsubsection{Communication \& Mission-Latency Modeling}
+\subsubsection{Communication \& mission-latency modeling}
 The product sizes \(D_p\) introduced in Section 2.1 are expressed in bytes. For communication analysis, the corresponding application-layer payload in bits is defined as \(B_p= 8D_p\). 
 For the j-th ground contact, beginning at \(a_j\) and ending at \(b_j\), the useful application layer data volume that can be transferred is
 \begin{eqnarray}
@@ -399,7 +396,7 @@ Reducing the product size directly decreases the ideal continuous airtime, the r
 \subsubsection{Proposed downlink workflow}
 Figure \ref{fig:concept} shows the source concept: a constellation acquires hyperspectral data, runs an onboard segmentation engine, converts the segmentation to ROI information, and transmits a compact text payload. The mission architecture refined here adds three operational rules. First, \(P_0\) is retained locally until a retention deadline or positive ground acknowledgement. Second, \(P_3\) is placed in a high-priority queue only when confidence and quality gates are satisfied; otherwise, the system marks the event uncertain and schedules \(P_1\) or \(P_0\). Third, the ground segment can request evidence products after receiving the alert.
 \begin{figure*}[pos=hbp!]
-	\centering\includegraphics[width=0.9\textwidth]{figs/fig2}
+	\centering\includegraphics[width=0.9\textwidth]{figs/fig20}
 	\caption{Schematic architecture of Mamba-OpticSatNet(Full), consisting of a CNN stem, parallel Transformer and selective SSM branches, adaptive gate fusion, spatial restoration, and a lightweight segmentation head}
 	\label{fig:mambafull}
 \end{figure*}
@@ -407,7 +404,7 @@ The end-to-end workflow is: (1) acquire and calibrate the cube; (2) associate ti
 A practical packet should also include an integrity check, schema version, model hash, processing timestamp, spacecraft and sensor identifiers, and explicit units. Geographic coordinates should not be generated from segmentation alone; they require a validated geolocation chain and associated uncertainty. These fields are minor in volume but central to operational trust, cross-satellite fusion, and post-event audit
 \subsection{Mamba-OpticSatNet architecture}
 Mamba-OpticSatNet serves as the onboard segmentation subsystem of the proposed result-centric downlink architecture. The Full and Lite configurations represent two distinct mission operating points. Mamba-OpticSatNet(Full) prioritizes segmentation fidelity through complementary global-modeling branches, whereas Mamba-OpticSatNet(Lite) prioritizes embedded execution efficiency by reducing the number of tokens processed by its global modules. Both configurations first encode cross-band information and local spatial patterns, then perform global token mixing and produce pixel-wise segmentation logits.
-\subsubsection{Mamba-OpticSatNet full architecture}
+\subsubsection{Mamba-OpticSatNet Full architecture}
 Mamba-OpticSatNet(Full) combines a convolutional neural network (CNN) stem with two parallel global-modeling branches, as illustrated in Fig. \ref{fig:mambafull}. The CNN stem extracts cross-band feature combinations and local spatial patterns from the hyperspectral input. The Transformer branch then provides direct interactions among spatial tokens, whereas the selective state-space model (SSM) branch performs long-range mixing along the flattened token sequence. These two branches provide complementary representations: self-attention supports direct global token interaction but includes a token-interaction term that grows quadratically with sequence length, while selective SSM processing scales approximately linearly with sequence length for a fixed model width and state size \cite{gu2022s4, gu2024mamba}.
 
 Section \ref{sec:framework} represents a single hyperspectral acquisition as \(\mathbf{\mathcal{X}} \in \mathbf{\mathbb{R}}^{\mathbf{\mathrm{H\times W \times B}}}\) where B denotes the number of spectral bands. For network implementation, a minibatch is written in channel-first format \(\mathbf{\mathcal{X}} \in \mathbf{\mathbb{R}}^{\mathbf{\mathrm{N_b \times H\times W \times B}}}\), where \(N_b\) is the minibatch size. The CNN stem and tokenization operation are defined as
@@ -419,7 +416,7 @@ Section \ref{sec:framework} represents a single hyperspectral acquisition as \(\
 \end{eqnarray}
 where \(C_f\) is the number of CNN feature channels, and \(H_f\) and \(W_f\) are the spatial dimensions of the CNN feature map, D is the token embedding dimension, and \(\varnothing (\cdot)\) denotes spatial flattening followed by embedding projection. Importantly, the token count is determined by the feature-map dimensions \(H_f W_f\), rather than necessarily by the original input dimensions HW.
 \begin{figure*}[pos=hbp!]
-	\centering\includegraphics[width=0.9\textwidth]{figs/fig3}
+	\centering\includegraphics[width=0.9\textwidth]{figs/fig30}
 	\caption{Schematic architecture of Mamba-OpticSatNet(Lite). Early spatial downsampling shortens the token sequence before compact Transformer and SSM-inspired global mixing, lightweight token fusion, spatial restoration, and pixel-wise prediction.}
 	\label{fig:mambalite}
 \end{figure*}
@@ -454,7 +451,7 @@ The fused token sequence is first restored to a spatial feature map, \(\rho (\ma
 where \(L\) denotes the per-class pixel logits, \(K\) is the number of segmentation classes, and \(\mathbf{\hat{\mathcal{Y}}}\)is the final discrete segmentation map. The function \(f_{\mathrm{seg}} (\cdot)\) includes any spatial upsampling required to restore the output to the original \(H\times W\) resolution.
 
 Mamba-OpticSatNet(Full) is therefore evaluated as the accuracy-oriented configuration. Its measured advantage is associated with the complete architecture; the individual contributions of the CNN stem, Transformer branch, selective SSM branch, and adaptive gate cannot be established without controlled component-ablation experiments.
-\subsubsection{Mamba-OpticSatNet Lite Architecture}
+\subsubsection{Mamba-OpticSatNet Lite architecture}
 Mamba-OpticSatNet(Lite) is the deployment-oriented configuration shown in Fig. \ref{fig:mambalite}. Rather than uniformly reducing every channel dimension of Mamba-OpticSatNet(Full), Lite introduces early spatial downsampling and compact global-processing modules. The downsampling stem reduces the spatial dimensions of the intermediate feature map before tokenization, thereby decreasing the sequence length processed by the Transformer and SSM-inspired modules.
 
 Let the token-grid dimensions of Full and Lite be \(H_f \times W_f\) and \(H_L \times W_L\), respectively. If Lite applies a relative downsampling factor s to both spatial dimensions,
@@ -471,8 +468,8 @@ For fixed embedding width, state dimension, block count, and implementation, the
 \end{eqnarray}
 where \(C_{\mathrm{attn, int}}\) denotes the quadratic token-interaction term of self-attention and \(C_{\mathrm{SSM, scan}}\) denotes the sequence-length-dependent scan term of the SSM-inspired block.
 Equation (26) describes only the reduction attributable to token count. It does not represent the total computational complexity of either network. The complete GMAC count also depends on embedding width, the number of blocks, linear projections, convolutional stems, normalization layers, fusion operations, and the segmentation head. Measured latency can additionally be affected by memory traffic, tensor layout, kernel implementation, numerical precision, clock configuration, and accelerator utilization. The efficiency of Lite is therefore evaluated empirically rather than inferred solely from Eq. (26).
-\subsubsection{Computational Cost and Onboard Efficiency}
-For the benchmark input configuration, Mamba-OpticSatNet(Full) requires 0.240 giga multiply–accumulate operations (GMACs) and contains 0.681 million trainable parameters. Mamba-OpticSatNet(Lite) requires 0.066 GMACs and contains 0.288 million trainable parameters. The relative reductions from Full to Lite are
+\subsubsection{Computational cost and onboard efficiency}
+For the benchmark input configuration, full Mamba-OpticSatNet requires 0.240 giga multiply–accumulate operations (GMACs) and contains 0.681 million trainable parameters. Mamba-OpticSatNet(Lite) requires 0.066 GMACs and contains 0.288 million trainable parameters. The relative reductions from Full to Lite are
 \begin{eqnarray}
 	\begin{aligned}
 	\Delta_{\mathrm{MAC}} = 1 - \frac{0.066}{0.240} = 0.725 (72.5 \%)\\
@@ -489,11 +486,11 @@ At 32-bit floating-point precision, Eq. (28) gives \(S_{\theta,Full} = 0.681 \ti
 
 A 16-bit representation would nominally halve parameter-tensor storage, but its use would require separate validation of segmentation accuracy, numerical stability, and accelerator compatibility.
 GMAC count and parameter count are architecture-level indicators and are not sufficient predictors of measured onboard throughput or energy consumption. Transformer attention, selective scans, memory access, preprocessing, host-to-device transfer, dynamic allocation, power mode, and thermal conditions can materially affect latency. Accordingly, Section 5 reports workstation-level patch latency separately from embedded cube-level latency because the two measurements correspond to different workloads and execution environments.
-\section{Experimental Setup}
-\subsection{Dataset, Preprocessing and Training setup}
+\section{Experimental setup}
+\subsection{Dataset, preprocessing and training setup}
 Experiments were conducted using OHID-1, a hyperspectral Earth-observation dataset comprising 32 spectral bands with a spatial resolution of 10 m \cite{mani2025ohid1}. The public OHID-1 dataset provides seven native land-cover categories: Building, Farmland, Forest, Road, Water, Bare Land, and Fish Shed. In contrast, the present segmentation experiment uses a four-class derivative benchmark consisting of C0 Vegetation, C1 Cropland, C2 Urban, and C3 Water. Pixels not included in the four evaluated classes are assigned the ignore value 255 and excluded from both training-loss computation and performance evaluation.
 
-The input hyperspectral image was loaded in band–height–width order and standardized independently for each spectral band:
+The input hyperspectral image was loaded in band height–width order and standardized independently for each spectral band:
 \begin{eqnarray}
 	\hat{\mathcal{X}}_b(x,y) = \frac{X_b (x,y) - \mu_b}{\sigma_b + \varepsilon}
 \end{eqnarray}
@@ -501,7 +498,7 @@ where the \(X_b (x,y)\) is the adiometric value at spatial location \((x,y)\) in
 
 The scene was partitioned into non-overlapping \(32\times 32\) patches using a stride of 32. Patches containing only ignore-index pixels were removed. The remaining patches were randomly shuffled and divided into an 80 \% training subset and a 20 \% held-out evaluation subset.
 Because the training and evaluation patches were sampled from the same hyperspectral scene, the adopted protocol constitutes a within-scene random split. Spatially adjacent or spectrally similar regions from the same scene may therefore occur in both subsets. Consequently, the reported results characterize within-scene predictive performance and should not be interpreted as evidence of cross-scene, cross-location, cross-season, or cross-sensor generalization.
-\subsection{Evaluation Metrics and Baseline Models}
+\subsection{Evaluation metrics and baseline models}
  For each evaluated class \(k \in \{0,...,K-1\} \) let \(TP_k\), \(FP_k\), and \(FN_k\) denote the true-positive, false-positive, and false-negative pixel counts, respectively. Pixels assigned the ignore value 255 are excluded from all metric calculations. The intersection over union for class k is defined as
  \begin{eqnarray}
  	IoU_k = \frac{TP_k}{TP_k + FP_k + FN_k}
@@ -517,37 +514,39 @@ Overall accuracy and average class accuracy are defined as
 IoU and mIoU measure class-wise spatial overlap, OA measures the fraction of all valid pixels classified correctly, and AA assigns equal weight to the recall of each class. In the present four-class benchmark, K=4, with C0 corresponding to Vegetation, C1 to Cropland, C2 to Urban, and C3 to Water.
 
 The comparison includes FCN-32s as a canonical fully convolutional segmentation baseline \cite{long2015fcn}; U-Net and UNet++ as encoder–decoder architectures with skip connections \cite{ronneberger2015unet, zhao2024rsmamba}; HybridSN as a hyperspectral spectral–spatial architecture combining three-dimensional and 2D convolutions \cite{roy2020hybridSN}; SpectralFormer and ViT as Transformer-based baselines \cite{hong2022spectralformer, dosovitskiy2021vit}; RS-Mamba as a state-space-based remote-sensing dense-prediction model \cite{zhao2024rsmamba}; and RESSU as a hyperspectral semantic-segmentation network \cite{wu2024fullscale}. HybridSN and SpectralFormer were originally proposed primarily for hyperspectral image classification, while ViT was proposed for image classification. These models were adapted to pixel-wise segmentation for the present benchmark. The final manuscript should describe the output-head replacement, spatial reshaping, upsampling method, and supervision procedure applied to each adapted baseline to ensure reproducibility and comparability.
-\subsection{Embedded Hardware and STK Configuration}
-Training and patch-level benchmarking were performed on the workstation summarized in Table \ref{tab:workstation}. All compared models were evaluated under the same hardware and software environment. The reported workstation inference time represents latency per 32×32 patch and is used only for relative comparison within the segmentation benchmark.
-\begin{table}[htb]
-	\centering
-	\caption{Workstation configuration used for model training and patch-level evaluation.}
-	\label{table:workstation_config}
-	\begin{tabularx}{\linewidth}{l X}
-		\toprule\toprule
-		\textbf{Category} & \textbf{Specification} \\
-		\midrule
-		Operating system & Linux 6.8.0-90-generic (x86\_64, glibc 2.35) \\
-		Python           & 3.10.19 (Conda-forge, GCC 14.3.0) \\
-		CPU              & x86\_64, 8 physical cores / 16 threads \\
-		System memory    & 30.51 GB \\
-		GPU              & NVIDIA GeForce RTX 5090 \\
-		GPU memory       & 31.36 GB \\
-		NVIDIA driver    & 570.195.03 \\
-		CUDA / cuDNN     & 12.8 / 91701 \\
-		PyTorch          & 2.11.0.dev20260207+cu128 \\
-		\bottomrule
-	\end{tabularx}
-	\label{tab:workstation}
-\end{table}
-Embedded evaluation was conducted using Mamba-OpticSatNet(Lite) on NVIDIA Jetson Xavier NX, Jetson AGX Xavier, Jetson Orin NX, and Jetson AGX Orin platforms. Cube-level latency, reported average power, estimated energy per inference, and throughput are presented in Section 5.5.
+\subsection{Embedded hardware configuration}
+Training and patch-level benchmarking were performed on the same workstation. All compared models were evaluated under the same hardware and software environment. The reported workstation inference time represents latency per 32×32 patch and is used only for relative comparison within the segmentation benchmark.
+
+All training and patch-level benchmarking were performed on a single workstation running Linux 6.8.0-90-generic (x86\_64, glibc 2.35), equipped with an eight-core, sixteen-thread x86\_64 CPU, 30.51~GB of system memory, and an NVIDIA GeForce RTX 5090 GPU with 31.36~GB of device memory. The software environment comprised Python 3.10.19 (Conda-forge build, GCC 14.3.0), NVIDIA driver 570.195.03, CUDA 12.8 with cuDNN 9.17.1, and PyTorch 2.11.0.dev20260207+cu128. All compared models were trained and evaluated under this identical hardware and software configuration.
+%\begin{table}[htb]
+%	\centering
+%	\caption{Workstation configuration used for model training and patch-level evaluation.}
+%	\label{table:workstation_config}
+%	\begin{tabularx}{\linewidth}{l X}
+%		\toprule\toprule
+%		\textbf{Category} & \textbf{Specification} \\
+%		\midrule
+%		Operating system & Linux 6.8.0-90-generic (x86\_64, glibc 2.35) \\
+%		Python           & 3.10.19 (Conda-forge, GCC 14.3.0) \\
+%		CPU              & x86\_64, 8 physical cores / 16 threads \\
+%		System memory    & 30.51 GB \\
+%		GPU              & NVIDIA GeForce RTX 5090 \\
+%		GPU memory       & 31.36 GB \\
+%		NVIDIA driver    & 570.195.03 \\
+%		CUDA / cuDNN     & 12.8 / 91701 \\
+%		PyTorch          & 2.11.0.dev20260207+cu128 \\
+%		\bottomrule
+%	\end{tabularx}
+%	\label{tab:workstation}
+%\end{table}
+Embedded evaluation was conducted using Mamba-OpticSatNet(Lite) on NVIDIA Jetson Xavier NX, Jetson AGX Xavier, Jetson Orin NX, and Jetson AGX Orin platforms. Cube-level latency, reported average power, estimated energy per inference, and throughput are presented in Figure \ref{fig:latencyconfusion} (a).
 
 The workstation patch latency and embedded cube-level latency represent different workloads and should not be directly compared. The former measures a single 32×32 patch on an RTX 5090, whereas the latter represents processing of the evaluated cube-level workload on an embedded platform.
-The constellation and ground-contact screening scenario was implemented using Ansys Systems Tool Kit (STK). Table \ref{table:stk_config} summarizes both the orbital configuration and aggregate access-duration statistics.
+The constellation and ground-contact screening scenario was implemented using Ansys Systems Tool Kit (STK) as shown in Figure \ref{fig:stk}. Table \ref{tab:stk_config} summarizes both the orbital configuration and aggregate access-duration statistics.
 \begin{table}[htb]
 	\centering
-	\caption{STK constellation configuration and aggregate ground-contact results.}
-	\label{table:stk_config}
+	\caption{Orbital smallsat constellation configuration and aggregate ground-contact results.}
+	%\label{table:stk_config}
 	\begin{tabularx}{\linewidth}{l X}
 		\toprule\toprule
 		\textbf{Parameter} & \textbf{Value} \\
@@ -557,7 +556,7 @@ The constellation and ground-contact screening scenario was implemented using An
 		Number of orbital planes           & 5 \\
 		Satellites per plane               & 4 \\
 		Total satellites                   & 20 \\
-		Ground station                     & Virtual Station is located at KAIST \\
+		Ground station                     & Virtual GS \\
 		Mean access duration               & 302 s \\
 		Minimum access duration             & 4.6 s \\
 		Maximum access duration             & 420 s \\
@@ -567,10 +566,10 @@ The constellation and ground-contact screening scenario was implemented using An
 	\label{tab:stk_config}
 \end{table}
 The available STK outputs represent geometric access durations. The analysis does not yet include a complete communication link budget, elevation-dependent data rate, antenna gain and pointing constraints, Doppler effects, modulation and coding, packet retransmission, or chronological competition among the 20 satellites. The STK results are therefore interpreted as a contact-availability screening scenario rather than as a fully validated communication-system model.
-\section{Results and Mission-Level Analysis}
+\section{Results and discussion}
 The results are interpreted across three connected layers: segmentation performance, embedded execution, and communication demand. Measured quantities are distinguished from scenario assumptions so that reductions in transmitted volume are not conflated with unverified reductions in absolute end-to-end mission latency.
-\subsection{Quantitative Segmentation Results}
-Table 4 summarizes the segmentation accuracy and patch-level computational characteristics of Mamba-OpticSatNet and the baseline models on the four-class OHID-1 derivative benchmark.
+\subsection{Quantitative segmentation results}
+Table \ref{table:operating_trade} summarizes the segmentation accuracy and patch-level computational characteristics of Mamba-OpticSatNet and the baseline models on the four-class OHID-1 derivative benchmark.
 Mamba-OpticSatNet(Full) achieved the highest reported mIoU, OA, and AA among the evaluated models, with values of 0.908, 0.981, and 0.949, respectively. Its largest class-wise advantage occurred for C2 Urban, for which it achieved an IoU of 0.748. The next-highest C2 result was obtained by HybridSN with an IoU of 0.701.
 
 The stronger C2 Urban performance is consistent with the design objective of combining local spectral–spatial encoding with global interaction and long-range dependency modeling. Urban regions contain spectrally mixed surfaces, fine boundaries, road-like structures, and spatially distributed built-up patterns that can be difficult to distinguish using local features alone. Nevertheless, because controlled component-ablation experiments were not conducted, the C2 improvement cannot be attributed causally to the Transformer branch, selective SSM branch, or adaptive gated-fusion mechanism individually.
@@ -617,7 +616,7 @@ Because the benchmark uses a single within-scene random split and no repeated-ru
 		\end{tabular}
 \end{table*}
 \subsection{Accuracy and efficiency comparison}
-Figure 4 visualizes the relationship between segmentation accuracy and architecture-level resource requirements. The left panel compares mIoU with GMACs, while the right panel compares parameter count with mIoU.
+Figure \ref{fig:accuracycomp} visualizes the relationship between segmentation accuracy and architecture-level resource requirements. The left panel compares mIoU with GMACs, while the right panel compares parameter count with mIoU.
 
 Mamba-OpticSatNet(Lite) represents a resource-efficient operating point in the benchmark, requiring 0.066 GMACs and 0.288 million parameters while achieving an mIoU of 0.877. SpectralFormer requires a similar arithmetic workload of 0.069 GMACs but achieves a substantially lower mIoU of 0.593.
 
@@ -627,26 +626,26 @@ For the proposed alert-first mission concept, Mamba-OpticSatNet(Lite) is the mor
 \begin{figure*}[pos=hbp!]
 	\centering\includegraphics[width=0.9\textwidth]{figs/fig4}
 	\caption{Accuracy–efficiency comparison on the four-class OHID-1 derivative benchmark. Left: mIoU versus GMACs. Right: parameter count versus mIoU. Mamba-OpticSatNet(Full) achieves the highest reported mIoU, whereas Mamba-OpticSatNet(Lite) provides a lower-complexity operating point with competitive segmentation performance}
-	\label{fig:mambalite}
+	\label{fig:accuracycomp}
 \end{figure*}
 \begin{figure*}[pos=hbp!]
 	\centering\includegraphics[width=0.9\textwidth]{figs/fig5}
 	\caption{Per-class IoU comparison on the four-class OHID-1 derivative benchmark (C0 = Vegetation, C1 = Cropland, C2 = Urban, and C3 = Water). The largest performance differences occur for C2 Urban, for which Mamba-OpticSatNet(Full) achieves the highest reported IoU}
-	\label{fig:mambalite}
+	\label{fig:IoUcomp}
 \end{figure*}
-\subsection{Qualitative Segmentation Results}
-\textcolor{blue}{Figure \ref{fig:mambalite} compares the class-wise IoU of the evaluated models for C0 Vegetation, C1 Cropland, C2 Urban, and C3 Water. Performance is relatively consistent across models for C0, C1, and C3, whereas substantially larger differences are observed for C2 Urban. Mamba-OpticSatNet (Full) achieves the highest reported C2 IoU of 0.748, compared with 0.630 for Mamba-OpticSatNet (Lite), 0.701 for HybridSN, 0.603 for RESSU, and 0.586 for RS-Mamba. This indicates that the main performance advantage of the Full model is associated with improved discrimination of the more challenging urban class rather than uniform gains across all categories.
-Figure \ref{fig:mambafull} presents a qualitative comparison of the predicted segmentation maps for C0 Vegetation, C1 Cropland, C2 Urban, and C3 Water. The qualitative results are broadly consistent with the class-wise quantitative comparison in Fig. \ref{fig:mambalite}, particularly for C2 Urban. Mamba-OpticSatNet (Full) preserves more fine-scale urban and road-like structures and produces fewer broad class substitutions than several weaker baselines. Mamba-OpticSatNet (Lite) retains the dominant scene structure but omits some small or spectrally mixed urban regions, which is consistent with its lower C2 IoU compared with the Full model.	U-Net, UNet++, HybridSN, RS-Mamba, and RESSU produce broadly plausible segmentation maps, consistent with their relatively clustered overall mIoU values. However, the qualitative comparison should not be interpreted as establishing statistical superiority because Fig. \ref{fig:mambafull} represents only a selected scene or spatial extent.}
-%Figure 6 presents a qualitative comparison of the predicted segmentation maps for C0 Vegetation, C1 Cropland, C2 Urban, and C3 Water. The qualitative panel is broadly consistent with the quantitative observation that the largest differences among the models occur for C2 Urban. Mamba-OpticSatNet(Full) preserves more fine-scale urban and road-like structures and produces fewer broad class substitutions than several weaker Transformer-based baselines. Mamba-OpticSatNet(Lite) retains the dominant scene structure but omits some small or spectrally mixed urban regions, which is consistent with its lower C2 IoU compared with Full. U-Net, UNet++, HybridSN, RS-Mamba, and RESSU produce broadly plausible segmentation maps, consistent with their clustered mIoU values. However, the qualitative panel should not be used to establish statistical superiority because it represents only a selected scene or spatial extent. For full reproducibility, the final manuscript should report the exact scene identifier, the spectral bands used to generate the pseudo-RGB image, the four-class remapping procedure, the color-map definition, and the spatial extent shown in Fig. 6.
-\subsubsection{Mamba-OpticSatNet (Full) - (Lite) Architecture Trade}
-\textcolor{blue}{The comparison between Mamba-OpticSatNet (Full) and Mamba-OpticSatNet (Lite) evaluates two complete architecture configurations rather than a controlled component ablation. Consequently, it quantifies the practical operating trade between the two configurations but does not establish the independent contribution of the CNN stem, Transformer branch, selective SSM branch, adaptive gate, or early downsampling. A controlled ablation study would require removing or replacing one component at a time while maintaining comparable training conditions and parameter budgets. Repeated training runs and confidence intervals would also be required to separate architecture-related effects from optimization variance.}
-%The comparison between Mamba-OpticSatNet(Full) and Mamba-OpticSatNet(Lite) evaluates two complete architecture configurations rather than a controlled component ablation. Consequently, it quantifies the practical operating trade between the two configurations but does not establish the independent contribution of the CNN stem, Transformer branch, selective SSM branch, adaptive gate, or early downsampling.
-%A controlled ablation study would require removing or replacing one component at a time while maintaining comparable training conditions and parameter budgets. Repeated training runs and confidence intervals would also be required to separate architecture-related effects from optimization variance.
+\subsection{Qualitative segmentation results}
+Figure \ref{fig:IoUcomp} compares the class-wise IoU of the evaluated models for C0 Vegetation, C1 Cropland, C2 Urban, and C3 Water. Performance is relatively consistent across models for C0, C1, and C3, whereas substantially larger differences are observed for C2 Urban. Mamba-OpticSatNet (Full) achieves the highest reported C2 IoU of 0.748, compared with 0.630 for Mamba-OpticSatNet (Lite), 0.701 for HybridSN, 0.603 for RESSU, and 0.586 for RS-Mamba. This indicates that the main performance advantage of the Full model is associated with improved discrimination of the more challenging urban class rather than uniform gains across all categories.
+Figure \ref{fig:segmentcomp} presents a qualitative comparison of the predicted segmentation maps for C0 Vegetation, C1 Cropland, C2 Urban, and C3 Water. The qualitative results are broadly consistent with the class-wise quantitative comparison in Fig. \ref{fig:IoUcomp}, particularly for C2 Urban. Mamba-OpticSatNet (Full) preserves more fine-scale urban and road-like structures and produces fewer broad class substitutions than several weaker baselines. Mamba-OpticSatNet (Lite) retains the dominant scene structure but omits some small or spectrally mixed urban regions, which is consistent with its lower C2 IoU compared with the Full model.	U-Net, UNet++, HybridSN, RS-Mamba, and RESSU produce broadly plausible segmentation maps, consistent with their relatively clustered overall mIoU values. However, the qualitative comparison should not be interpreted as establishing statistical superiority because Fig. \ref{fig:segmentcomp} represents only a selected scene or spatial extent.
 \begin{figure*}[pos=hbp!]
 	\centering\includegraphics[width=0.9\textwidth]{figs/fig6}
 	\caption{Qualitative segmentation comparison on the four-class OHID-1 derivative benchmark. The displayed classes are C0 Vegetation, C1 Cropland, C2 Urban, and C3 Water; pixels assigned the ignore value 255 are displayed as Unknown}
-	\label{fig:mambalite}
+	\label{fig:segmentcomp}
 \end{figure*}
+\subsubsection{Mamba-OpticSatNet (Full) vs. (Lite) config}
+The comparison between Mamba-OpticSatNet (Full) and Mamba-OpticSatNet (Lite) evaluates two complete architecture configurations rather than a controlled component ablation. Consequently, it quantifies the practical operating trade between the two configurations but does not establish the independent contribution of the CNN stem, Transformer branch, selective SSM branch, adaptive gate, or early downsampling. A controlled ablation study would require removing or replacing one component at a time while maintaining comparable training conditions and parameter budgets. Repeated training runs and confidence intervals would also be required to separate architecture-related effects from optimization variance.
+%The comparison between Mamba-OpticSatNet(Full) and Mamba-OpticSatNet(Lite) evaluates two complete architecture configurations rather than a controlled component ablation. Consequently, it quantifies the practical operating trade between the two configurations but does not establish the independent contribution of the CNN stem, Transformer branch, selective SSM branch, adaptive gate, or early downsampling.
+%A controlled ablation study would require removing or replacing one component at a time while maintaining comparable training conditions and parameter budgets. Repeated training runs and confidence intervals would also be required to separate architecture-related effects from optimization variance.
+
 \begin{table}[htb]
 	\centering
 	\caption{Reported operating trade between Mamba-OpticSatNet(Full) and Mamba-OpticSatNet(Lite).}
@@ -663,11 +662,10 @@ Figure \ref{fig:mambafull} presents a qualitative comparison of the predicted se
 		\bottomrule
 	\end{tabularx}
 \end{table}
-\textcolor{blue}{Table \ref{table:operating_trade} summarizes the resulting accuracy–efficiency trade-off between the Full and Lite configurations. Relative to Full, Lite incurs an absolute decrease of 0.031 in mIoU and 0.118 in C2 Urban IoU, while reducing GMACs by 72.5 \% and parameter count by 57.7 \%. Lite also reduces workstation patch latency from 6.016 ms to 0.384 ms, corresponding to an approximately 15.7× speedup. These results indicate that the Lite configuration achieves substantial reductions in computational and model complexity at the cost of a relatively small decrease in overall segmentation accuracy, although the larger degradation in C2 Urban IoU indicates a more pronounced trade-off for the most challenging class. Whether this trade-off is acceptable depends on the operational consequence of missed or under-segmented urban regions in the target mission.}
+Table \ref{table:operating_trade} summarizes the resulting accuracy–efficiency trade-off between the Full and Lite configurations. Relative to Full, Lite incurs an absolute decrease of 0.031 in mIoU and 0.118 in C2 Urban IoU, while reducing GMACs by 72.5 \% and parameter count by 57.7 \%. Lite also reduces workstation patch latency from 6.016 ms to 0.384 ms, corresponding to an approximately 15.7× speedup. These results indicate that the Lite configuration achieves substantial reductions in computational and model complexity at the cost of a relatively small decrease in overall segmentation accuracy, although the larger degradation in C2 Urban IoU indicates a more pronounced trade-off for the most challenging class. Whether this trade-off is acceptable depends on the operational consequence of missed or under-segmented urban regions in the target mission.
 %The Full-to-Lite comparison shows that Lite incurs an absolute decrease of 0.031 in mIoU and 0.118 in C2 Urban IoU while reducing GMACs by 72.5 \%, parameter count by 57.7 \%, and workstation patch latency by a factor of approximately 15.7. Whether this trade is acceptable depends on the operational consequence of missed or under-segmented urban regions in the target mission
-\subsubsection{Embedded Inference Performance}
-\textcolor{blue}{Table \ref{table:embedded_performance} summarizes the cube-level embedded inference performance of Mamba-OpticSatNet (Lite) across the evaluated Jetson platforms in terms of latency, average power, estimated energy per inference, and throughput.}
-Energy per inference is evaluated from mean power and measured processing time as
+\subsubsection{Embedded inference performance}
+Figure \ref{fig:mambalite} summarizes the cube-level embedded inference performance of Mamba-OpticSatNet (Lite) across the evaluated Jetson platforms in terms of latency, average power, estimated energy per inference, and throughput. Energy per inference is evaluated from mean power and measured processing time as
 \begin{eqnarray}
 	E_{\mathrm{inf,est}} = \bar{P}_{\mathrm{inf}}T_{\mathrm{inf}}
 \end{eqnarray}
@@ -675,28 +673,39 @@ where \(\bar{P}_{\mathrm{inf}}\) is the reported average power during inference 
 
 Jetson AGX Orin achieved the shortest reported cube-level latency of 1.6976 s and the lowest estimated energy per inference of 42.44 J. Although its reported average power is higher than those of the NX platforms, its substantially shorter execution time results in lower total energy per evaluated inference.
 This behavior is consistent with a race-to-idle interpretation, in which a higher-power processor may consume less total energy by completing the workload more rapidly. Confirming a complete race-to-idle benefit would nevertheless require time-resolved active and idle power measurements.
-
-\begin{table*}[htb]
+\begin{figure*}[pos=hbp!]
 	\centering
-	\caption{Reported cube-level embedded performance of Mamba-OpticSatNet(Lite).}
-	\label{table:embedded_performance}
-	\begin{tabular}{l S[table-format=4.1] S[table-format=2.2] S[table-format=3.2] S[table-format=1.2]}
-		\toprule
-		\textbf{Platform} & {\textbf{Latency (ms)}} & {\textbf{Power (W)}} & {\textbf{Energy / inference (J)}} & {\textbf{Throughput (cube/s)}} \\
-		\midrule
-		Jetson Xavier NX  & 8826.2 & 12.50 & 110.36 & 0.11 \\
-		Jetson AGX Xavier & 4753.7 & 28.50 & 135.51 & 0.21 \\
-		Jetson Orin NX    & 6620.0 & 15.00 &  99.30 & 0.15 \\
-		Jetson AGX Orin   & 1697.6 & 25.00 &  42.44 & 0.59 \\
-		\bottomrule
+	\begin{minipage}[c]{1\textwidth}
+	\begin{tabular}{cccc}
+	\includegraphics[width=0.4\textwidth]{figs/fig_energy} &
+	\includegraphics[width=0.45\textwidth,height=150px]{figs/fig_confusion.pdf} &\\
+	\textbf{(a)} Energy versus Jetson platforms & \textbf{(b)}  Normalized confusion matrix &\\[6pt]
 	\end{tabular}
-\end{table*}
+	\end{minipage}
+	\caption{Cube-level performance of Mamaba-OpticSatNet energy against latency across various Jetson platforms and normalized confusion matrix showing true class against predicted one}
+	\label{fig:latencyconfusion}
+\end{figure*}
+%\begin{table*}[htb]
+%	\centering
+%	\caption{Reported cube-level embedded performance of Mamba-OpticSatNet(Lite).}
+%	\label{table:embedded_performance}
+%	\begin{tabular}{l S[table-format=4.1] S[table-format=2.2] S[table-format=3.2] S[table-format=1.2]}
+%		\toprule
+%		\textbf{Platform} & {\textbf{Latency (ms)}} & {\textbf{Power (W)}} & {\textbf{Energy / inference (J)}} & {\textbf{Throughput (cube/s)}} \\
+%		\midrule
+%		Jetson Xavier NX  & 8826.2 & 12.50 & 110.36 & 0.11 \\
+%		Jetson AGX Xavier & 4753.7 & 28.50 & 135.51 & 0.21 \\
+%		Jetson Orin NX    & 6620.0 & 15.00 &  99.30 & 0.15 \\
+%		Jetson AGX Orin   & 1697.6 & 25.00 &  42.44 & 0.59 \\
+%		\bottomrule
+%	\end{tabular}
+%\end{table*}
 For the assumed 100 kB semantic-alert product, the corresponding communication payload is \(B_3= 0.80\) Mbit. At an effective application-layer throughput of 1 Mbit/s, the ideal processing-plus-airtime requirement is
 \begin{eqnarray}
 	T_{\mathrm{alert, ideal}} = T_{proc} + \frac{D_3}{R_{\mathrm{eff}}} = 1.6976 + 0.80 = 2.4976 s
 \end{eqnarray}
 Relative to the minimum geometric access duration of 4.6 s, Eq. (34) leaves an idealized margin of approximately 2.10 s. This value is not an end-to-end latency guarantee because it excludes acquisition finalization, calibration, geolocation, ROI extraction, packet generation, radio acquisition, acknowledgements, scheduling, retransmission, and ground processing.
-\subsubsection{STK-Based Communication Analysis}
+\subsubsection{Data communication analysis}
 At the illustrative constant application-layer throughput of 1 Mbit/s, the minimum, mean, and maximum contact capacities are
 \begin{eqnarray}
 	\begin{aligned}
@@ -707,7 +716,14 @@ At the illustrative constant application-layer throughput of 1 Mbit/s, the minim
 \end{eqnarray}
 A 100 kB semantic alert fits within even the reported minimum geometric access duration under the assumed constant-throughput model. In contrast, a 1 MB product requires 8 s of ideal continuous airtime and therefore does not fit within a 4.6 s minimum access, although it fits within the representative mean access duration.
 These values describe idealized geometric-access capacity. Flight-level analysis would additionally require an elevation-dependent link budget, antenna and pointing models, Doppler effects, modulation and coding, radio acquisition time, packet loss, and protocol efficiency.
-\subsubsection{Downlink Reduction and Mission Latency Analysis}
+
+\begin{figure*}[pos=hbp!]
+	\centering
+	\includegraphics[width=0.9\textwidth,height=170px]{figs/Constellation.png}
+	\caption{Trajectories of the defined spacecraft constellation orbits}
+	\label{fig:stk}
+\end{figure*}
+%\subsubsection{Downlink Reduction and Mission Latency Analysis}
 \begin{table*}[htb]
 	\centering
 	\caption{Comparison of raw-cube and initial semantic-alert downlink requirements.}
@@ -757,9 +773,9 @@ Even a 1 MB semantic product fits within one mean contact and reduces transmitte
 	D_{\mathrm{max,min}} = \frac{B_{\mathrm{max,min}}}{8} = 575 kB
 	\end{aligned}
 \end{eqnarray}
-\textcolor{blue}{Table \ref{table:downlink_comparison} summarizes these mission-level downlink results. Under the assumed 1 Mbit/s effective rate, the traditional P0 raw-cube product requires 13,120 s of continuous transmission and approximately 44 mean-duration contacts, whereas the 100 kB P3 semantic-alert product requires only 0.80 s and fits within a single contact, including the 4.6 s minimum-access case. This corresponds to a 16,400:1 reduction factor and a 99.9939 \% reduction in transmitted volume}
+Table \ref{table:downlink_comparison} summarizes these mission-level downlink results. Under the assumed 1 Mbit/s effective rate, the traditional P0 raw-cube product requires 13,120 s of continuous transmission and approximately 44 mean-duration contacts, whereas the 100 kB P3 semantic-alert product requires only 0.80 s and fits within a single contact, including the 4.6 s minimum-access case. This corresponds to a 16,400:1 reduction factor and a 99.9939 \% reduction in transmitted volume
 A bounded semantic-message schema or fragmentation policy is therefore required when P3 contains many ROIs, detailed polygon boundaries, uncertainty arrays, or image thumbnails.
-Result-centric downlink reduces the initial transmitted volume, queue occupancy, ideal airtime, and representative contact demand. However, without chronological access intervals and communication scheduling, neither absolute delivery latency nor a numerical end-to-end speedup can be established. \textcolor{blue}{Additionally, as summarized in Table \ref{tab:comm}, sensitivity analysis across semantic-product sizes from 10 kB to 1 MB shows that the downlink-volume advantage remains substantial across the evaluated range.} 
+Result-centric downlink reduces the initial transmitted volume, queue occupancy, ideal airtime, and representative contact demand. However, without chronological access intervals and communication scheduling, neither absolute delivery latency nor a numerical end-to-end speedup can be established. Additionally, as summarized in Table \ref{tab:comm}, sensitivity analysis across semantic-product sizes from 10 kB to 1 MB shows that the downlink-volume advantage remains substantial across the evaluated range.
 \begin{table*}[htb]
 	\centering
 	\small

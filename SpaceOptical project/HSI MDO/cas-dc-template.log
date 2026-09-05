@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.5.18)  18 AUG 2026 18:58
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.5.18)  4 SEP 2026 18:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1193,17 +1193,7 @@ LaTeX Font Info:    Trying to load font information for T1+stix on input line 6
 
 (c:/texlive/2024/texmf-dist/tex/latex/stix/t1stix.fd
 File: t1stix.fd 2015/04/17 v1.1.2-latex STIX T1 font definitions
-) (./cas-dc-template.aux
-
-LaTeX Warning: Label `fig:mambalite' multiply defined.
-
-
-LaTeX Warning: Label `fig:mambalite' multiply defined.
-
-
-LaTeX Warning: Label `fig:mambalite' multiply defined.
-
-)
+) (./cas-dc-template.aux)
 \openout1 = `cas-dc-template.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 67.
@@ -1223,7 +1213,8 @@ LaTeX Font Info:    ... okay on input line 67.
 LaTeX Font Info:    Checking defaults for LS1/stix/m/n on input line 67.
 LaTeX Font Info:    Trying to load font information for LS1+stix on input line 
 67.
- (c:/texlive/2024/texmf-dist/tex/latex/stix/ls1stix.fd
+
+(c:/texlive/2024/texmf-dist/tex/latex/stix/ls1stix.fd
 File: ls1stix.fd 2015/04/17 v1.1.2-latex STIX LS1 font definitions
 )
 LaTeX Font Info:    ... okay on input line 67.
@@ -1331,104 +1322,104 @@ or `english'. on input line 67.
 \openout5 = `cas-dc-template.abs'.
 
 LaTeX Font Info:    Trying to load font information for LS1+stixscr on input li
-ne 192.
+ne 188.
  (c:/texlive/2024/texmf-dist/tex/latex/stix/ls1stixscr.fd
 File: ls1stixscr.fd 2015/04/17 v1.1.2-latex STIX script LS1 font definitions
 )
 LaTeX Font Info:    Trying to load font information for LS2+stixex on input lin
-e 192.
+e 188.
 
 (c:/texlive/2024/texmf-dist/tex/latex/stix/ls2stixex.fd
 File: ls2stixex.fd 2015/04/17 v1.1.2-latex STIX extentions LS2 font definitions
 
 )
-LaTeX Font Info:    Trying to load font information for U+msa on input line 192
+LaTeX Font Info:    Trying to load font information for U+msa on input line 188
 .
 
 (c:/texlive/2024/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 192
+LaTeX Font Info:    Trying to load font information for U+msb on input line 188
 .
 
 (c:/texlive/2024/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Trying to load font information for LS1+stixfrak on input l
-ine 192.
+ine 188.
 
 (c:/texlive/2024/texmf-dist/tex/latex/stix/ls1stixfrak.fd
 File: ls1stixfrak.fd 2015/04/17 v1.1.2-latex STIX fraktur LS1 font definitions
 )
 LaTeX Font Info:    Trying to load font information for LS1+stixbb on input lin
-e 192.
+e 188.
 
 (c:/texlive/2024/texmf-dist/tex/latex/stix/ls1stixbb.fd
 File: ls1stixbb.fd 2015/04/17 v1.1.2-latex STIX blackboard LS1 font definitions
 
 )
 LaTeX Font Info:    Trying to load font information for LS2+stixcal on input li
-ne 192.
+ne 188.
 
 (c:/texlive/2024/texmf-dist/tex/latex/stix/ls2stixcal.fd
 File: ls2stixcal.fd 2015/04/17 v1.1.2-latex STIX calligraphic LS2 font definiti
 ons
 )
 LaTeX Font Info:    Trying to load font information for LS1+stixsf on input lin
-e 192.
+e 188.
 
 (c:/texlive/2024/texmf-dist/tex/latex/stix/ls1stixsf.fd
 File: ls1stixsf.fd 2015/04/17 v1.1.2-latex STIX sans-serif LS1 font definitions
 
 )
 LaTeX Font Info:    Trying to load font information for LS2+stixtt on input lin
-e 192.
+e 188.
 
 (c:/texlive/2024/texmf-dist/tex/latex/stix/ls2stixtt.fd
 File: ls2stixtt.fd 2015/04/17 v1.1.2-latex STIX typewriter LS2 font definitions
 
 )
-Overfull \hbox (123.62721pt too wide) detected at line 192
+Overfull \hbox (123.62721pt too wide) detected at line 188
 []
  []
 
 (./cas-dc-template.abs
 LaTeX Font Info:    Trying to load font information for TS1+stix on input line 
-1.
+3.
  (c:/texlive/2024/texmf-dist/tex/latex/stix/ts1stix.fd
 File: ts1stix.fd 2015/04/17 v1.1.2-latex STIX TS1 font definitions
 ))
-<thumbnails/cas-email.jpeg, id=8, 225.84375pt x 225.84375pt>
+<thumbnails/cas-email.jpeg, id=15, 225.84375pt x 225.84375pt>
 File: thumbnails/cas-email.jpeg Graphic file (type jpg)
 <use thumbnails/cas-email.jpeg>
-Package pdftex.def Info: thumbnails/cas-email.jpeg  used on input line 192.
+Package pdftex.def Info: thumbnails/cas-email.jpeg  used on input line 188.
 (pdftex.def)             Requested size: 7.99838pt x 8.0pt.
-LaTeX Font Info:    Trying to load font information for T1+zi4 on input line 19
-2.
+LaTeX Font Info:    Trying to load font information for T1+zi4 on input line 18
+8.
 
 (c:/texlive/2024/texmf-dist/tex/latex/inconsolata/t1zi4.fd
 File: t1zi4.fd 2018/01/14 T1/zi4 (Inconsolata)
 )
 LaTeX Font Info:    Font shape `T1/zi4/m/n' will be
-(Font)              scaled to size 6.80005pt on input line 192.
+(Font)              scaled to size 6.80005pt on input line 188.
 
-Underfull \hbox (badness 1033) in paragraph at lines 235--236
+Underfull \hbox (badness 1033) in paragraph at lines 231--232
 \T1/stix/m/n/10 higher-rate ra-dios, op-ti-cal links, or com-mer-cial ground-
  []
 
 
-Underfull \hbox (badness 1194) in paragraph at lines 237--238
+Underfull \hbox (badness 1194) in paragraph at lines 233--234
 \T1/stix/m/n/10 sion does not treat seg-men-ta-tion as an iso-lated image-
  []
 
 
-Underfull \hbox (badness 1668) in paragraph at lines 237--238
+Underfull \hbox (badness 1668) in paragraph at lines 233--234
 \T1/stix/m/n/10 or model re-pro-cess-ing. Ar-chi-tec-ture there-fore cre-ates a
 
  []
 
 LaTeX Font Info:    Trying to load font information for T1+cmss on input line 2
-38.
+34.
 (c:/texlive/2024/texmf-dist/tex/latex/base/t1cmss.fd
 File: t1cmss.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 ) [1{c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2
@@ -1439,225 +1430,208 @@ ts/enc/dvips/stix/stix-ts1.enc}
 {c:/texlive/2024/texmf-dist/fonts/enc/dvips/inconsolata/i4-t1-0.enc}{c:/texlive
 /2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc} <./thumbnails/cas-em
 ail.jpeg>]
-Overfull \hbox (26.29634pt too wide) in paragraph at lines 251--252
-\T1/stix/m/n/10 has com-pared one-dimensional spec-tral net-works, two-dimensio
-nal
+Overfull \hbox (2.66553pt too wide) in paragraph at lines 245--246
+\T1/stix/m/n/10 has com-pared one-dimensional spec-tral net-works, 2D spatial-
  []
 
-
-Underfull \hbox (badness 1668) in paragraph at lines 251--252
-\T1/stix/m/n/10 spatial-spectral net-works, and trans-former vari-ants with
- []
-
-<figs/fig1.png, id=51, 1512.65125pt x 849.1725pt>
-File: figs/fig1.png Graphic file (type png)
-<use figs/fig1.png>
-Package pdftex.def Info: figs/fig1.png  used on input line 264.
-(pdftex.def)             Requested size: 445.05496pt x 249.8429pt.
-[2] [3 <./figs/Fig1.png>]
-Underfull \hbox (badness 1205) in paragraph at lines 301--303
+<figs/fig10.png, id=64, 774.165pt x 434.715pt>
+File: figs/fig10.png Graphic file (type png)
+<use figs/fig10.png>
+Package pdftex.def Info: figs/fig10.png  used on input line 260.
+(pdftex.def)             Requested size: 445.05496pt x 249.91273pt.
+[2]
+Underfull \hbox (badness 1205) in paragraph at lines 297--299
 \T1/stix/m/n/10 is that, un-der the rep-re-sen-ta-tive con-tact con-di-tions, t
 he
  []
 
 
-Overfull \hbox (16.64862pt too wide) in alignment at lines 307--311
- [][][] []
- []
-
-
-Underfull \hbox (badness 1629) in paragraph at lines 311--313
+Underfull \hbox (badness 1629) in paragraph at lines 308--310
 \T1/stix/m/n/10 where $\LS1/stix/m/it/10 T[]\LS1/stix/m/n/10 .\LS1/stix/m/it/10
  p\LS1/stix/m/n/10 /$ \T1/stix/m/n/10 is the time be-tween prod-uct gen-er-a-ti
 on
  []
 
 
-Underfull \hbox (badness 1102) in paragraph at lines 311--313
+Underfull \hbox (badness 1102) in paragraph at lines 308--310
 \T1/stix/m/n/10 and the be-gin-ning of a us-able com-mu-ni-ca-tion win-dow,
  []
 
-
-Underfull \hbox (badness 1484) in paragraph at lines 325--327
+[3 <./figs/Fig10.png>]
+Underfull \hbox (badness 1484) in paragraph at lines 322--324
 \T1/stix/m/n/10 where $\LS1/stix/m/it/10 D[]$ \T1/stix/m/n/10 de-notes an-cil-l
 ary in-for-ma-tion and product-
  []
 
 
-Overfull \hbox (3.30748pt too wide) in paragraph at lines 350--350
+Overfull \hbox (3.30748pt too wide) in paragraph at lines 347--347
 []|\T1/cmss/m/n/9 Raw/calibrated
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 350--350
+Underfull \hbox (badness 10000) in paragraph at lines 347--347
 []|\T1/cmss/m/n/9 ROI-cropped
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 350--350
+Underfull \hbox (badness 10000) in paragraph at lines 347--347
 []|\T1/cmss/m/n/9 Segmentation
  []
 
-[4]
-Underfull \hbox (badness 1173) in paragraph at lines 369--371
+
+Underfull \hbox (badness 1173) in paragraph at lines 366--368
 \T1/stix/m/n/10 where $\LS1/stix/m/it/10 r[]\LS1/stix/m/n/10 .\LS1/stix/m/it/10
  t\LS1/stix/m/n/10 /$ \T1/stix/m/n/10 is he in-stan-ta-neous physical-layer dow
 n-link
  []
 
-
-Underfull \hbox (badness 1231) in paragraph at lines 383--384
+[4]
+Underfull \hbox (badness 1231) in paragraph at lines 380--381
 []\T1/stix/m/n/10 Accordingly, a prod-uct can be com-pletely de-liv-ered
  []
 
-<figs/fig2.png, id=116, 1511.6475pt x 846.16125pt>
-File: figs/fig2.png Graphic file (type png)
-<use figs/fig2.png>
-Package pdftex.def Info: figs/fig2.png  used on input line 402.
-(pdftex.def)             Requested size: 445.05496pt x 249.12477pt.
+<figs/fig20.png, id=130, 766.938pt x 423.765pt>
+File: figs/fig20.png Graphic file (type png)
+<use figs/fig20.png>
+Package pdftex.def Info: figs/fig20.png  used on input line 399.
+(pdftex.def)             Requested size: 445.05496pt x 245.91965pt.
 [5]
-Overfull \hbox (4.25551pt too wide) in paragraph at lines 411--412
+Overfull \hbox (4.25551pt too wide) in paragraph at lines 408--409
 []\T1/stix/m/n/10 Mamba-OpticSatNet(Full) com-bines a con-vo-lu-tional neu-
  []
 
 
-Underfull \hbox (badness 1253) in paragraph at lines 411--412
+Underfull \hbox (badness 1253) in paragraph at lines 408--409
 \T1/stix/m/n/10 the se-lec-tive state-space model (SSM) branch per-forms
  []
 
-<figs/fig3.png, id=135, 1512.65125pt x 848.16875pt>
-File: figs/fig3.png Graphic file (type png)
-<use figs/fig3.png>
-Package pdftex.def Info: figs/fig3.png  used on input line 422.
-(pdftex.def)             Requested size: 445.05496pt x 249.54756pt.
-[6 <./figs/Fig2.png>]
-Underfull \hbox (badness 1184) in paragraph at lines 458--459
+<figs/fig30.png, id=148, 804.825pt x 319.302pt>
+File: figs/fig30.png Graphic file (type png)
+<use figs/fig30.png>
+Package pdftex.def Info: figs/fig30.png  used on input line 419.
+(pdftex.def)             Requested size: 445.05496pt x 176.56671pt.
+[6 <./figs/Fig20.png>]
+Underfull \hbox (badness 1184) in paragraph at lines 455--456
 \T1/stix/m/n/10 global-processing mod-ules. The down-sam-pling stem re-
  []
 
-[7 <./figs/Fig3.png>]
-Overfull \hbox (37.68633pt too wide) in paragraph at lines 475--476
-[]\T1/stix/m/n/10 For the bench-mark in-put con-fig-u-ra-tion, Mamba-OpticSatNe
-t(Full)
- []
-
-
-Overfull \hbox (7.91554pt too wide) in paragraph at lines 475--476
-\T1/stix/m/n/10 re-quires 0.240 giga mul-ti-ply^^Uaccumulate op-er-a-tions (GMA
-Cs)
- []
-
-
-Underfull \hbox (badness 2269) in paragraph at lines 475--476
-\T1/stix/m/n/10 OpticSatNet(Lite) re-quires 0.066 GMACs and con-tains
- []
-
-
-Overfull \hbox (3.79468pt too wide) in paragraph at lines 490--492
+[7 <./figs/Fig30.png>]
+Overfull \hbox (3.79468pt too wide) in paragraph at lines 487--489
 []\T1/stix/m/n/10 A 16-bit rep-re-sen-ta-tion would nom-i-nally halve parameter
 -
  []
 
 
-Overfull \hbox (29.48553pt too wide) in paragraph at lines 496--497
-[]\T1/stix/m/n/10 The in-put hy-per-spec-tral im-age was loaded in band^^Uheigh
-t^^Uwidth
+Underfull \hbox (badness 1708) in paragraph at lines 493--494
+[]\T1/stix/m/n/10 The in-put hy-per-spec-tral im-age was loaded in band
  []
 
-[8]
-Overfull \hbox (6.19714pt too wide) in paragraph at lines 519--520
+
+Overfull \hbox (6.19714pt too wide) in paragraph at lines 516--517
 \T1/stix/m/n/10 con-vo-lu-tional seg-men-ta-tion base-line [[]]; U-Net and UNet
 ++
  []
 
 
-Underfull \hbox (badness 1655) in paragraph at lines 519--520
+Underfull \hbox (badness 1655) in paragraph at lines 516--517
 \T1/stix/m/n/10 as en-coder^^Udecoder ar-chi-tec-tures with skip con-nec-tions
  []
 
-
-Overfull \hbox (24.15553pt too wide) in paragraph at lines 521--544
-\T1/stix/m/n/10 bed-ded eval-u-a-tion was con-ducted us-ing Mamba-OpticSatNet(L
-ite)
+[8]
+Underfull \hbox (badness 1210) in paragraph at lines 572--574
+[]\T1/stix/m/n/10 Table [][]4[][] sum-ma-rizes the seg-men-ta-tion ac-cu-racy a
+nd
  []
 
 
-Underfull \hbox (badness 1584) in paragraph at lines 521--544
-\T1/stix/m/n/10 Orin NX, and Jet-son AGX Orin plat-forms. Cube-level
- []
-
-
-Underfull \hbox (badness 1210) in paragraph at lines 573--575
-[]\T1/stix/m/n/10 Table 4 sum-ma-rizes the seg-men-ta-tion ac-cu-racy and
- []
-
-
-Overfull \hbox (18.11548pt too wide) in paragraph at lines 573--575
+Overfull \hbox (18.11548pt too wide) in paragraph at lines 572--574
 \T1/stix/m/n/10 patch-level com-pu-ta-tional char-ac-ter-is-tics of Mamba-Optic
 SatNet
  []
 
 
-Underfull \hbox (badness 1005) in paragraph at lines 576--577
+Underfull \hbox (badness 1005) in paragraph at lines 575--576
 \T1/stix/m/n/10 en-cod-ing with global in-ter-ac-tion and long-range de-pen-
  []
 
-[9]
-Overfull \hbox (3.5pt too wide) detected at line 615
+
+Overfull \hbox (3.5pt too wide) detected at line 614
 $\LS1/stix/m/n/7 90$
  []
 
 
-Overfull \hbox (1.92554pt too wide) in paragraph at lines 622--623
+Overfull \hbox (1.92554pt too wide) in paragraph at lines 621--622
 []\T1/stix/m/n/10 Mamba-OpticSatNet(Lite) rep-re-sents a resource-efficient
  []
 
-<figs/fig4.png, id=215, 1507.6325pt x 534.99875pt>
+<figs/fig4.png, id=221, 1502.61375pt x 569.12625pt>
 File: figs/fig4.png Graphic file (type png)
 <use figs/fig4.png>
-Package pdftex.def Info: figs/fig4.png  used on input line 628.
-(pdftex.def)             Requested size: 445.05496pt x 157.92938pt.
-<figs/fig5.png, id=216, 1499.6025pt x 554.07pt>
+Package pdftex.def Info: figs/fig4.png  used on input line 627.
+(pdftex.def)             Requested size: 445.05496pt x 168.56815pt.
+<figs/fig5.png, id=222, 1499.6025pt x 554.07pt>
 File: figs/fig5.png Graphic file (type png)
 <use figs/fig5.png>
-Package pdftex.def Info: figs/fig5.png  used on input line 633.
+Package pdftex.def Info: figs/fig5.png  used on input line 632.
 (pdftex.def)             Requested size: 445.05496pt x 164.4384pt.
-<figs/fig6.png, id=221, 1493.58pt x 709.65125pt>
+[9]
+<figs/fig6.png, id=239, 1493.58pt x 709.65125pt>
 File: figs/fig6.png Graphic file (type png)
 <use figs/fig6.png>
-Package pdftex.def Info: figs/fig6.png  used on input line 646.
+Package pdftex.def Info: figs/fig6.png  used on input line 640.
 (pdftex.def)             Requested size: 445.05496pt x 211.45683pt.
 
-Underfull \hbox (badness 1365) in paragraph at lines 642--668
-[][]\T1/stix/m/n/10 The com-par-i-son be-tween Mamba-OpticSatNet (Full)
+Underfull \hbox (badness 1365) in paragraph at lines 645--648
+[]\T1/stix/m/n/10 The com-par-i-son be-tween Mamba-OpticSatNet (Full)
  []
 
 
-Underfull \hbox (badness 2134) in paragraph at lines 642--668
+Underfull \hbox (badness 2134) in paragraph at lines 645--648
 \T1/stix/m/n/10 and Mamba-OpticSatNet (Lite) eval-u-ates two com-plete
  []
 
-[10] [11 <./figs/Fig4.png> <./figs/Fig5.png>] [12 <./figs/Fig6.png>]
-Overfull \hbox (1.17537pt too wide) in alignment at lines 743--745
+
+Underfull \hbox (badness 1383) in paragraph at lines 645--648
+\T1/stix/m/n/10 not es-tab-lish the in-de-pen-dent con-tri-bu-tion of the CNN
+ []
+
+[10 <./figs/Fig4.png>] [11 <./figs/Fig5.png> <./figs/Fig6.png>]
+<figs/fig_energy.pdf, id=261, 231.26274pt x 173.29643pt>
+File: figs/fig_energy.pdf Graphic file (type pdf)
+<use figs/fig_energy.pdf>
+Package pdftex.def Info: figs/fig_energy.pdf  used on input line 680.
+(pdftex.def)             Requested size: 197.80052pt x 148.22815pt.
+<figs/fig_confusion.pdf, id=262, 244.00523pt x 197.73561pt>
+File: figs/fig_confusion.pdf Graphic file (type pdf)
+<use figs/fig_confusion.pdf>
+Package pdftex.def Info: figs/fig_confusion.pdf  used on input line 681.
+(pdftex.def)             Requested size: 222.52911pt x 150.5612pt.
+<figs/Constellation.png, id=263, 858.20625pt x 355.3275pt>
+File: figs/Constellation.png Graphic file (type png)
+<use figs/Constellation.png>
+Package pdftex.def Info: figs/Constellation.png  used on input line 722.
+(pdftex.def)             Requested size: 445.05197pt x 170.642pt.
+
+Overfull \hbox (1.17537pt too wide) in alignment at lines 759--761
  [][][] []
  []
 
-
-Overfull \hbox (7.70645pt too wide) detected at line 777
+[12 <./figs/fig_energy.pdf> <./figs/fig_confusion.pdf>]
+Overfull \hbox (7.70645pt too wide) detected at line 793
  \T1/cmss/m/n/9 % 
  []
 
 
-Overfull \hbox (7.70645pt too wide) detected at line 777
+Overfull \hbox (7.70645pt too wide) detected at line 793
  \T1/cmss/m/n/9 % 
  []
 
 
-Overfull \hbox (7.70645pt too wide) detected at line 777
+Overfull \hbox (7.70645pt too wide) detected at line 793
  \T1/cmss/m/n/9 % 
  []
 
-(./cas-dc-template.bbl [13]
+[13 <./figs/Constellation.png>] (./cas-dc-template.bbl
 Underfull \hbox (badness 1107) in paragraph at lines 137--148
 []\T1/stix/m/n/8 G. Me-oni, R. Del Prete, F. Serva, A. De Beuss-cher, O. Colin,
 
@@ -1668,7 +1642,7 @@ Underfull \hbox (badness 4660) in paragraph at lines 204--211
 []\T1/stix/m/n/8 J. Herec, J. Sed-midub-sky, R. Pito¬ák,  STTORM-CD low-
  []
 
-
+[14]
 Underfull \hbox (badness 1112) in paragraph at lines 241--250
 \T1/stix/m/n/8 of a het-ero-ge-neous COTS ar-chi-tec-ture for on-board AI: Syst
 em-
@@ -1680,28 +1654,24 @@ Underfull \hbox (badness 1460) in paragraph at lines 251--258
 / / arxiv . org / abs / 2111 .
  []
 
-[14]) [15
+) [15
 
 ] (./cas-dc-template.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-04-11>
  ***********
-
-
-LaTeX Warning: There were multiply-defined labels.
-
 Package rerunfilecheck Info: File `cas-dc-template.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 43178 strings out of 474050
- 980998 string characters out of 5746298
- 1995754 words of memory out of 5000000
- 64772 multiletter control sequences out of 15000+600000
+ 43196 strings out of 474050
+ 981671 string characters out of 5746298
+ 1984754 words of memory out of 5000000
+ 64793 multiletter control sequences out of 15000+600000
  658601 words of font info for 173 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 90i,15n,131p,1828b,1107s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 90i,16n,131p,1191b,1099s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2024/texmf-dist/fonts/type1/public/inconsolata/Inconsolata-zi4r.p
 fb><c:/texlive/2024/texmf-dist/fonts/type1/public/stix/STIXGeneral-Bold.pfb><c:
 /texlive/2024/texmf-dist/fonts/type1/public/stix/STIXGeneral-BoldItalic.pfb><c:
@@ -1718,10 +1688,10 @@ cal.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/stix/stix-mathex.pfb><c:
 mf-dist/fonts/type1/public/stix/stix-mathrm.pfb><c:/texlive/2024/texmf-dist/fon
 ts/type1/public/stix/stix-mathscr.pfb><c:/texlive/2024/texmf-dist/fonts/type1/p
 ublic/stix/stix-mathsf.pfb>
-Output written on cas-dc-template.pdf (15 pages, 10150576 bytes).
+Output written on cas-dc-template.pdf (15 pages, 14809269 bytes).
 PDF statistics:
- 435 PDF objects out of 1000 (max. 8388607)
- 366 compressed objects within 4 object streams
- 131 named destinations out of 1000 (max. 500000)
- 48 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 568 PDF objects out of 1000 (max. 8388607)
+ 400 compressed objects within 4 object streams
+ 128 named destinations out of 1000 (max. 500000)
+ 63 words of extra memory for PDF output out of 10000 (max. 10000000)
 
