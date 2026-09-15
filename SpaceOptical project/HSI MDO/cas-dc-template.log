@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.5.18)  4 SEP 2026 18:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.5.18)  7 SEP 2026 15:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1564,49 +1564,34 @@ Overfull \hbox (1.92554pt too wide) in paragraph at lines 621--622
 []\T1/stix/m/n/10 Mamba-OpticSatNet(Lite) rep-re-sents a resource-efficient
  []
 
-<figs/fig4.png, id=221, 1502.61375pt x 569.12625pt>
+<figs/fig4.png, id=222, 1502.61375pt x 569.12625pt>
 File: figs/fig4.png Graphic file (type png)
 <use figs/fig4.png>
 Package pdftex.def Info: figs/fig4.png  used on input line 627.
 (pdftex.def)             Requested size: 445.05496pt x 168.56815pt.
-<figs/fig5.png, id=222, 1499.6025pt x 554.07pt>
+<figs/fig5.png, id=223, 1499.6025pt x 554.07pt>
 File: figs/fig5.png Graphic file (type png)
 <use figs/fig5.png>
 Package pdftex.def Info: figs/fig5.png  used on input line 632.
 (pdftex.def)             Requested size: 445.05496pt x 164.4384pt.
 [9]
-<figs/fig6.png, id=239, 1493.58pt x 709.65125pt>
+<figs/fig6.png, id=240, 1493.58pt x 709.65125pt>
 File: figs/fig6.png Graphic file (type png)
 <use figs/fig6.png>
 Package pdftex.def Info: figs/fig6.png  used on input line 640.
 (pdftex.def)             Requested size: 445.05496pt x 211.45683pt.
-
-Underfull \hbox (badness 1365) in paragraph at lines 645--648
-[]\T1/stix/m/n/10 The com-par-i-son be-tween Mamba-OpticSatNet (Full)
- []
-
-
-Underfull \hbox (badness 2134) in paragraph at lines 645--648
-\T1/stix/m/n/10 and Mamba-OpticSatNet (Lite) eval-u-ates two com-plete
- []
-
-
-Underfull \hbox (badness 1383) in paragraph at lines 645--648
-\T1/stix/m/n/10 not es-tab-lish the in-de-pen-dent con-tri-bu-tion of the CNN
- []
-
-[10 <./figs/Fig4.png>] [11 <./figs/Fig5.png> <./figs/Fig6.png>]
-<figs/fig_energy.pdf, id=261, 231.26274pt x 173.29643pt>
+ [10 <./figs/Fig4.png>] [11 <./figs/Fig5.png> <./figs/Fig6.png>]
+<figs/fig_energy.pdf, id=262, 231.26274pt x 173.29643pt>
 File: figs/fig_energy.pdf Graphic file (type pdf)
 <use figs/fig_energy.pdf>
 Package pdftex.def Info: figs/fig_energy.pdf  used on input line 680.
 (pdftex.def)             Requested size: 197.80052pt x 148.22815pt.
-<figs/fig_confusion.pdf, id=262, 244.00523pt x 197.73561pt>
+<figs/fig_confusion.pdf, id=263, 244.00523pt x 197.73561pt>
 File: figs/fig_confusion.pdf Graphic file (type pdf)
 <use figs/fig_confusion.pdf>
 Package pdftex.def Info: figs/fig_confusion.pdf  used on input line 681.
 (pdftex.def)             Requested size: 222.52911pt x 150.5612pt.
-<figs/Constellation.png, id=263, 858.20625pt x 355.3275pt>
+<figs/Constellation.png, id=264, 858.20625pt x 355.3275pt>
 File: figs/Constellation.png Graphic file (type png)
 <use figs/Constellation.png>
 Package pdftex.def Info: figs/Constellation.png  used on input line 722.
@@ -1665,10 +1650,10 @@ Package rerunfilecheck Info: File `cas-dc-template.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 43196 strings out of 474050
- 981671 string characters out of 5746298
+ 43197 strings out of 474050
+ 981685 string characters out of 5746298
  1984754 words of memory out of 5000000
- 64793 multiletter control sequences out of 15000+600000
+ 64794 multiletter control sequences out of 15000+600000
  658601 words of font info for 173 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  90i,16n,131p,1191b,1099s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1688,10 +1673,10 @@ cal.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/stix/stix-mathex.pfb><c:
 mf-dist/fonts/type1/public/stix/stix-mathrm.pfb><c:/texlive/2024/texmf-dist/fon
 ts/type1/public/stix/stix-mathscr.pfb><c:/texlive/2024/texmf-dist/fonts/type1/p
 ublic/stix/stix-mathsf.pfb>
-Output written on cas-dc-template.pdf (15 pages, 14809269 bytes).
+Output written on cas-dc-template.pdf (15 pages, 14809125 bytes).
 PDF statistics:
- 568 PDF objects out of 1000 (max. 8388607)
- 400 compressed objects within 4 object streams
+ 570 PDF objects out of 1000 (max. 8388607)
+ 401 compressed objects within 5 object streams
  128 named destinations out of 1000 (max. 500000)
  63 words of extra memory for PDF output out of 10000 (max. 10000000)
 

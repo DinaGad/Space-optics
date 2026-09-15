@@ -1,0 +1,1109 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global/global}
+    \entry{selva2012survey}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=1da97cb27e72b39d4232c80e46dfa8dd}{%
+           family={Selva},
+           familyi={S\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+        {{hash=b39c531d380403b1b0e6a446a8d287bc}{%
+           family={Krejci},
+           familyi={K\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{640472d40783423a9683e70152e14112}
+      \strng{fullhash}{640472d40783423a9683e70152e14112}
+      \strng{fullhashraw}{640472d40783423a9683e70152e14112}
+      \strng{bibnamehash}{640472d40783423a9683e70152e14112}
+      \strng{authorbibnamehash}{640472d40783423a9683e70152e14112}
+      \strng{authornamehash}{640472d40783423a9683e70152e14112}
+      \strng{authorfullhash}{640472d40783423a9683e70152e14112}
+      \strng{authorfullhashraw}{640472d40783423a9683e70152e14112}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Acta Astronautica}
+      \field{month}{5}
+      \field{title}{A Survey and Assessment of the Capabilities of {Cubesats} for {Earth} Observation}
+      \field{volume}{74}
+      \field{year}{2012}
+      \field{pages}{50\bibrangedash 68}
+      \range{pages}{19}
+      \verb{doi}
+      \verb 10.1016/j.actaastro.2011.12.014
+      \endverb
+    \endentry
+    \entry{aragon2021cubesats}{article}{}{}
+      \name{author}{5}{}{%
+        {{hash=8709ae7e9288811f59d8871f1ff40f98}{%
+           family={Aragon},
+           familyi={A\bibinitperiod},
+           given={Bruno},
+           giveni={B\bibinitperiod}}}%
+        {{hash=5fc5eb58625fa745f9a5a41643e76611}{%
+           family={Ziliani},
+           familyi={Z\bibinitperiod},
+           given={Matteo\bibnamedelima G.},
+           giveni={M\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=498a4ae81a0ee126daf54158c909f8d6}{%
+           family={Houborg},
+           familyi={H\bibinitperiod},
+           given={Rasmus},
+           giveni={R\bibinitperiod}}}%
+        {{hash=56804a720862659193836324e83ad6b4}{%
+           family={Franz},
+           familyi={F\bibinitperiod},
+           given={Trenton\bibnamedelima E.},
+           giveni={T\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=61dcfd5214b87ffd0abd96c202c73dc9}{%
+           family={McCabe},
+           familyi={M\bibinitperiod},
+           given={Matthew\bibnamedelima F.},
+           giveni={M\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Research}%
+      }
+      \strng{namehash}{7d8faf00426c8b4f2d94b6f11c851be0}
+      \strng{fullhash}{88c6f93f1266b1f09dd9500518a98c9b}
+      \strng{fullhashraw}{88c6f93f1266b1f09dd9500518a98c9b}
+      \strng{bibnamehash}{88c6f93f1266b1f09dd9500518a98c9b}
+      \strng{authorbibnamehash}{88c6f93f1266b1f09dd9500518a98c9b}
+      \strng{authornamehash}{7d8faf00426c8b4f2d94b6f11c851be0}
+      \strng{authorfullhash}{88c6f93f1266b1f09dd9500518a98c9b}
+      \strng{authorfullhashraw}{88c6f93f1266b1f09dd9500518a98c9b}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Scientific Reports}
+      \field{month}{12}
+      \field{number}{1}
+      \field{title}{{CubeSats} Deliver New Insights into Agricultural Water Use at Daily and 3 m Resolutions}
+      \field{volume}{11}
+      \field{year}{2021}
+      \verb{doi}
+      \verb 10.1038/s41598-021-91646-w
+      \endverb
+    \endentry
+    \entry{mouroulis2018review}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=bf788beb6cd52898ceee239696209a73}{%
+           family={Mouroulis},
+           familyi={M\bibinitperiod},
+           given={Pantazis},
+           giveni={P\bibinitperiod}}}%
+        {{hash=c54ca54fd8cc809ad7b625be156ffd69}{%
+           family={Green},
+           familyi={G\bibinitperiod},
+           given={Robert\bibnamedelima O.},
+           giveni={R\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {SPIE}%
+      }
+      \strng{namehash}{c7c470d70db0f171a446151a24b4f5fa}
+      \strng{fullhash}{c7c470d70db0f171a446151a24b4f5fa}
+      \strng{fullhashraw}{c7c470d70db0f171a446151a24b4f5fa}
+      \strng{bibnamehash}{c7c470d70db0f171a446151a24b4f5fa}
+      \strng{authorbibnamehash}{c7c470d70db0f171a446151a24b4f5fa}
+      \strng{authornamehash}{c7c470d70db0f171a446151a24b4f5fa}
+      \strng{authorfullhash}{c7c470d70db0f171a446151a24b4f5fa}
+      \strng{authorfullhashraw}{c7c470d70db0f171a446151a24b4f5fa}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Optical Engineering}
+      \field{month}{4}
+      \field{number}{4}
+      \field{title}{Review of High-Fidelity Imaging Spectrometer Design for Remote Sensing}
+      \field{volume}{57}
+      \field{year}{2018}
+      \field{pages}{040901}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1117/1.OE.57.4.040901
+      \endverb
+    \endentry
+    \entry{liu2021freeform}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=621013bf54d3546375ad71f17f020b5b}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Yang},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=2d37e8bd1343c838a8511140cde47836}{%
+           family={Bauer},
+           familyi={B\bibinitperiod},
+           given={Aaron},
+           giveni={A\bibinitperiod}}}%
+        {{hash=f0d0dee071c25369a38eb793f02e754c}{%
+           family={Viard},
+           familyi={V\bibinitperiod},
+           given={Thierry},
+           giveni={T\bibinitperiod}}}%
+        {{hash=71080a1d0f0e75c7a5077f6717432500}{%
+           family={Rolland},
+           familyi={R\bibinitperiod},
+           given={Jannick\bibnamedelima P.},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Optica Publishing Group}%
+      }
+      \strng{namehash}{df83681b9acfd53a0c867d0eb509f8f3}
+      \strng{fullhash}{3f7125cf3bcaf31af1c433a2755432c8}
+      \strng{fullhashraw}{3f7125cf3bcaf31af1c433a2755432c8}
+      \strng{bibnamehash}{3f7125cf3bcaf31af1c433a2755432c8}
+      \strng{authorbibnamehash}{3f7125cf3bcaf31af1c433a2755432c8}
+      \strng{authornamehash}{df83681b9acfd53a0c867d0eb509f8f3}
+      \strng{authorfullhash}{3f7125cf3bcaf31af1c433a2755432c8}
+      \strng{authorfullhashraw}{3f7125cf3bcaf31af1c433a2755432c8}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Optics Express}
+      \field{month}{10}
+      \field{number}{22}
+      \field{title}{Freeform Hyperspectral Imager Design in a {CubeSat} Format}
+      \field{volume}{29}
+      \field{year}{2021}
+      \field{pages}{35915}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1364/OE.439530
+      \endverb
+    \endentry
+    \entry{lee2008optical}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=d853b2fa551e55fdb0563df2c7793a5f}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Jun\bibnamedelima Ho},
+           giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=aa52324195f3c50e61ea9378b52f8bda}{%
+           family={Jang},
+           familyi={J\bibinitperiod},
+           given={Tae\bibnamedelima Seong},
+           giveni={T\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=2855112b89cc80229ac97a7d684b9abe}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Ho\bibnamedelima Soon},
+           giveni={H\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=3480c20bf8cd97481b045c89df90b109}{%
+           family={Rhee},
+           familyi={R\bibinitperiod},
+           given={Seung\bibnamedelima Wu},
+           giveni={S\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \strng{namehash}{5010ac0f23113fc1d64a3aa9c796089e}
+      \strng{fullhash}{b10bad00c1bdd7672ea2c1231d139151}
+      \strng{fullhashraw}{b10bad00c1bdd7672ea2c1231d139151}
+      \strng{bibnamehash}{b10bad00c1bdd7672ea2c1231d139151}
+      \strng{authorbibnamehash}{b10bad00c1bdd7672ea2c1231d139151}
+      \strng{authornamehash}{5010ac0f23113fc1d64a3aa9c796089e}
+      \strng{authorfullhash}{b10bad00c1bdd7672ea2c1231d139151}
+      \strng{authorfullhashraw}{b10bad00c1bdd7672ea2c1231d139151}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of the Optical Society of Korea}
+      \field{number}{4}
+      \field{title}{Optical Design of a Compact Imaging Spectrometer for {STSAT3}}
+      \field{volume}{12}
+      \field{year}{2008}
+      \field{pages}{262\bibrangedash 268}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.3807/JOSK.2008.12.4.262
+      \endverb
+    \endentry
+    \entry{zhang2023prismgrating}{article}{}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{hash=2c65dc0155fc0f151c939cd8fa10040e}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Xuan},
+           giveni={X\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {MDPI}%
+      }
+      \strng{namehash}{595cb6e20f94392a0e78fbfd3f2e42bc}
+      \strng{fullhash}{595cb6e20f94392a0e78fbfd3f2e42bc}
+      \strng{fullhashraw}{595cb6e20f94392a0e78fbfd3f2e42bc}
+      \strng{bibnamehash}{595cb6e20f94392a0e78fbfd3f2e42bc}
+      \strng{authorbibnamehash}{595cb6e20f94392a0e78fbfd3f2e42bc}
+      \strng{authornamehash}{595cb6e20f94392a0e78fbfd3f2e42bc}
+      \strng{authorfullhash}{595cb6e20f94392a0e78fbfd3f2e42bc}
+      \strng{authorfullhashraw}{595cb6e20f94392a0e78fbfd3f2e42bc}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Sensors}
+      \field{month}{6}
+      \field{number}{11}
+      \field{title}{Design of a Prism-Grating Wide Spectral Range Transmittance Imaging Spectrometer}
+      \field{volume}{23}
+      \field{year}{2023}
+      \field{pages}{5050}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/s23115050
+      \endverb
+    \endentry
+    \entry{xue2021underwater}{article}{}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{hash=5438c9c20923b491a567bf3fd1834e4e}{%
+           family={Xue},
+           familyi={X\bibinitperiod},
+           given={Qingsheng},
+           giveni={Q\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Optica Publishing Group}%
+      }
+      \strng{namehash}{1b2546129bb0b64817a17aed9ae251ba}
+      \strng{fullhash}{1b2546129bb0b64817a17aed9ae251ba}
+      \strng{fullhashraw}{1b2546129bb0b64817a17aed9ae251ba}
+      \strng{bibnamehash}{1b2546129bb0b64817a17aed9ae251ba}
+      \strng{authorbibnamehash}{1b2546129bb0b64817a17aed9ae251ba}
+      \strng{authornamehash}{1b2546129bb0b64817a17aed9ae251ba}
+      \strng{authorfullhash}{1b2546129bb0b64817a17aed9ae251ba}
+      \strng{authorfullhashraw}{1b2546129bb0b64817a17aed9ae251ba}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Applied Optics}
+      \field{month}{2}
+      \field{number}{4}
+      \field{title}{Underwater Hyperspectral Imaging System Using a Prism--Grating--Prism Structure}
+      \field{volume}{60}
+      \field{year}{2021}
+      \field{pages}{894}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1364/AO.415351
+      \endverb
+    \endentry
+    \entry{yuan2019airborne}{article}{}{}
+      \name{author}{5}{}{%
+        {{hash=2016c792fccd7049df6b453f8497994e}{%
+           family={Yuan},
+           familyi={Y\bibinitperiod},
+           given={Liyin},
+           giveni={L\bibinitperiod}}}%
+        {{hash=c0f98ca88a9fe4986808e4a06a399ed9}{%
+           family={Xie},
+           familyi={X\bibinitperiod},
+           given={Jinhuan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=c59b4cf3c036a8879b66be38d74bdc36}{%
+           family={He},
+           familyi={H\bibinitperiod},
+           given={Zhiping},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=471e61c37bc3e62dbe8655e02a002343}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Yue},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=4caa00d2857d55ab78353e0ecffb5cb6}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Jianyu},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Optica Publishing Group}%
+      }
+      \strng{namehash}{08ae262ce851877f82a450d676e80640}
+      \strng{fullhash}{611b7b5522f525cdc1d9561563561af7}
+      \strng{fullhashraw}{611b7b5522f525cdc1d9561563561af7}
+      \strng{bibnamehash}{611b7b5522f525cdc1d9561563561af7}
+      \strng{authorbibnamehash}{611b7b5522f525cdc1d9561563561af7}
+      \strng{authornamehash}{08ae262ce851877f82a450d676e80640}
+      \strng{authorfullhash}{611b7b5522f525cdc1d9561563561af7}
+      \strng{authorfullhashraw}{611b7b5522f525cdc1d9561563561af7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Optics Express}
+      \field{month}{6}
+      \field{number}{13}
+      \field{title}{Optical Design and Evaluation of Airborne Prism-Grating Imaging Spectrometer}
+      \field{volume}{27}
+      \field{year}{2019}
+      \field{pages}{17686}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1364/OE.27.017686
+      \endverb
+    \endentry
+    \entry{cheng2025nanosatellite}{misc}{}{}
+      \name{author}{2}{}{%
+        {{hash=cc4d2cd6e051c659ee6d577c68842283}{%
+           family={Cheng},
+           familyi={C\bibinitperiod},
+           given={Zhuo},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=487158270bf4bb302615cdd0cf506196}{%
+           family={Lucia},
+           familyi={L\bibinitperiod},
+           given={Brandon},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{4f2c6b87828b7e8fc631ca6828421353}
+      \strng{fullhash}{4f2c6b87828b7e8fc631ca6828421353}
+      \strng{fullhashraw}{4f2c6b87828b7e8fc631ca6828421353}
+      \strng{bibnamehash}{4f2c6b87828b7e8fc631ca6828421353}
+      \strng{authorbibnamehash}{4f2c6b87828b7e8fc631ca6828421353}
+      \strng{authornamehash}{4f2c6b87828b7e8fc631ca6828421353}
+      \strng{authorfullhash}{4f2c6b87828b7e8fc631ca6828421353}
+      \strng{authorfullhashraw}{4f2c6b87828b7e8fc631ca6828421353}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{cs.NI}
+      \field{eprinttype}{arXiv}
+      \field{month}{3}
+      \field{title}{Nanosatellite Constellation and Ground Station Co-Design for Low-Latency Critical Event Detection}
+      \field{year}{2025}
+      \verb{eprint}
+      \verb 2503.01756
+      \endverb
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/2503.01756
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/2503.01756
+      \endverb
+    \endentry
+    \entry{giuffrida2022phisat1}{article}{}{}
+      \name{author}{13}{}{%
+        {{hash=24dcdbf37002cecba1a8ab19a9350ae2}{%
+           family={Giuffrida},
+           familyi={G\bibinitperiod},
+           given={Gianluca},
+           giveni={G\bibinitperiod}}}%
+        {{hash=c927ca0105d499df66140efbbd2916f3}{%
+           family={Fanucci},
+           familyi={F\bibinitperiod},
+           given={Luca},
+           giveni={L\bibinitperiod}}}%
+        {{hash=05628254ce152dd6f7867db37f80d359}{%
+           family={Meoni},
+           familyi={M\bibinitperiod},
+           given={Gabriele},
+           giveni={G\bibinitperiod}}}%
+        {{hash=637b2cbd22a42dca4bc5330ba0f2d1b5}{%
+           family={Batic},
+           familyi={B\bibinitperiod},
+           given={Matej},
+           giveni={M\bibinitperiod}}}%
+        {{hash=bfef895190807ccb729123dbe1fe3708}{%
+           family={Buckley},
+           familyi={B\bibinitperiod},
+           given={Leonie},
+           giveni={L\bibinitperiod}}}%
+        {{hash=edaaee1f8b1bd6767c914f42fcffd7ed}{%
+           family={Dunne},
+           familyi={D\bibinitperiod},
+           given={Aubrey},
+           giveni={A\bibinitperiod}}}%
+        {{hash=8a39dac623dbbb2281f3f3ed6ca21207}{%
+           family={{Van Dijk}},
+           familyi={V\bibinitperiod},
+           given={Chris},
+           giveni={C\bibinitperiod}}}%
+        {{hash=6a2d402e9a7ab9ecdb14d99e0200f1f2}{%
+           family={Esposito},
+           familyi={E\bibinitperiod},
+           given={Marco},
+           giveni={M\bibinitperiod}}}%
+        {{hash=0c1b8863fec100894cff5629792e46c1}{%
+           family={Hefele},
+           familyi={H\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+        {{hash=f95092241a894a83912e7c10e8bfc491}{%
+           family={Vercruyssen},
+           familyi={V\bibinitperiod},
+           given={Nathan},
+           giveni={N\bibinitperiod}}}%
+        {{hash=a294443a4a50136d5fdbbe8a337c3293}{%
+           family={Furano},
+           familyi={F\bibinitperiod},
+           given={Gianluca},
+           giveni={G\bibinitperiod}}}%
+        {{hash=b8589ade7bd7564ecf00b6530da530a6}{%
+           family={Pastena},
+           familyi={P\bibinitperiod},
+           given={Massimiliano},
+           giveni={M\bibinitperiod}}}%
+        {{hash=5623bcda5d3e18fa514584e553a87385}{%
+           family={Aschbacher},
+           familyi={A\bibinitperiod},
+           given={Josef},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{06e9c0bd1543ad98edfcdb238cab94cf}
+      \strng{fullhash}{18439bae2dc1cf2d4ab5c01cbd370c67}
+      \strng{fullhashraw}{18439bae2dc1cf2d4ab5c01cbd370c67}
+      \strng{bibnamehash}{06e9c0bd1543ad98edfcdb238cab94cf}
+      \strng{authorbibnamehash}{06e9c0bd1543ad98edfcdb238cab94cf}
+      \strng{authornamehash}{06e9c0bd1543ad98edfcdb238cab94cf}
+      \strng{authorfullhash}{18439bae2dc1cf2d4ab5c01cbd370c67}
+      \strng{authorfullhashraw}{18439bae2dc1cf2d4ab5c01cbd370c67}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{{IEEE} Transactions on Geoscience and Remote Sensing}
+      \field{title}{The {\(\Phi\)}-Sat-1 Mission: The First On-Board Deep Neural Network Demonstrator for Satellite {Earth} Observation}
+      \field{volume}{60}
+      \field{year}{2022}
+      \field{pages}{1\bibrangedash 14}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1109/TGRS.2021.3125567
+      \endverb
+    \endentry
+    \entry{berg2024hypso}{inproceedings}{}{}
+      \name{author}{6}{}{%
+        {{hash=5fb6078595c06fa9fe6b379e8c1f3e4a}{%
+           family={Berg},
+           familyi={B\bibinitperiod},
+           given={Simen},
+           giveni={S\bibinitperiod}}}%
+        {{hash=566b6f13fe608ef22b3fc33bfdc4fddf}{%
+           family={Langer},
+           familyi={L\bibinitperiod},
+           given={Dennis\bibnamedelima D.},
+           giveni={D\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=5ae8ec73ac10e342bee5a434f98b6f3a}{%
+           family={Chiatante},
+           familyi={C\bibinitperiod},
+           given={Corrado},
+           giveni={C\bibinitperiod}}}%
+        {{hash=9ebcbedb9fac3c02f27bc21b1bf6a0c5}{%
+           family={Birkeland},
+           familyi={B\bibinitperiod},
+           given={Roger},
+           giveni={R\bibinitperiod}}}%
+        {{hash=41d6fad8928a2300e7e676719d030ced}{%
+           family={Justo},
+           familyi={J\bibinitperiod},
+           given={Jon\bibnamedelima A.},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=a9a86ebeca0cd008a601339e86e19fae}{%
+           family={Johansen},
+           familyi={J\bibinitperiod},
+           given={Tor\bibnamedelima A.},
+           giveni={T\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{eff07fe166670799883794000ae7935c}
+      \strng{fullhash}{5606f25048e01c1b61bc5e7644bd04b8}
+      \strng{fullhashraw}{5606f25048e01c1b61bc5e7644bd04b8}
+      \strng{bibnamehash}{5606f25048e01c1b61bc5e7644bd04b8}
+      \strng{authorbibnamehash}{5606f25048e01c1b61bc5e7644bd04b8}
+      \strng{authornamehash}{eff07fe166670799883794000ae7935c}
+      \strng{authorfullhash}{5606f25048e01c1b61bc5e7644bd04b8}
+      \strng{authorfullhashraw}{5606f25048e01c1b61bc5e7644bd04b8}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 75th International Astronautical Congress ({IAC})}
+      \field{title}{Onboard Classification for Image Capture and Downlink Prioritisation in {HYPSO-1}}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.researchgate.net/publication/385137111
+      \endverb
+      \verb{url}
+      \verb https://www.researchgate.net/publication/385137111
+      \endverb
+    \endentry
+    \entry{furano2020edgeai}{article}{}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{hash=a294443a4a50136d5fdbbe8a337c3293}{%
+           family={Furano},
+           familyi={F\bibinitperiod},
+           given={Gianluca},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{1a9cec2f1f2395e74f9716783f25aad5}
+      \strng{fullhash}{1a9cec2f1f2395e74f9716783f25aad5}
+      \strng{fullhashraw}{1a9cec2f1f2395e74f9716783f25aad5}
+      \strng{bibnamehash}{1a9cec2f1f2395e74f9716783f25aad5}
+      \strng{authorbibnamehash}{1a9cec2f1f2395e74f9716783f25aad5}
+      \strng{authornamehash}{1a9cec2f1f2395e74f9716783f25aad5}
+      \strng{authorfullhash}{1a9cec2f1f2395e74f9716783f25aad5}
+      \strng{authorfullhashraw}{1a9cec2f1f2395e74f9716783f25aad5}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{{IEEE} Aerospace and Electronic Systems Magazine}
+      \field{month}{12}
+      \field{number}{12}
+      \field{title}{Towards the Use of Artificial Intelligence on the Edge in Space Systems: Challenges and Opportunities}
+      \field{volume}{35}
+      \field{year}{2020}
+      \field{pages}{44\bibrangedash 56}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1109/MAES.2020.3008468
+      \endverb
+    \endentry
+    \entry{guerrisi2023compression}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=ffec0f786bbb4c94753ef673e1dc77f2}{%
+           family={Guerrisi},
+           familyi={G\bibinitperiod},
+           given={Giorgia},
+           giveni={G\bibinitperiod}}}%
+        {{hash=138af8e5889fd820d637dd6f886b5bb7}{%
+           family={{Del Frate}},
+           familyi={D\bibinitperiod},
+           given={Fabio},
+           giveni={F\bibinitperiod}}}%
+        {{hash=5ca9c7873427b10cd4bf10dbdc970f88}{%
+           family={Schiavon},
+           familyi={S\bibinitperiod},
+           given={Giovanni},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{863a63396906911c98ed2621480cdd51}
+      \strng{fullhash}{4277303effaf03384d5a67c4b4c774a2}
+      \strng{fullhashraw}{4277303effaf03384d5a67c4b4c774a2}
+      \strng{bibnamehash}{4277303effaf03384d5a67c4b4c774a2}
+      \strng{authorbibnamehash}{4277303effaf03384d5a67c4b4c774a2}
+      \strng{authornamehash}{863a63396906911c98ed2621480cdd51}
+      \strng{authorfullhash}{4277303effaf03384d5a67c4b4c774a2}
+      \strng{authorfullhashraw}{4277303effaf03384d5a67c4b4c774a2}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{{IEEE} Journal of Selected Topics in Applied Earth Observations and Remote Sensing}
+      \field{title}{Artificial Intelligence Based On-Board Image Compression for the {\(\Phi\)}-Sat-2 Mission}
+      \field{volume}{16}
+      \field{year}{2023}
+      \field{pages}{8063\bibrangedash 8075}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1109/JSTARS.2023.3296485
+      \endverb
+    \endentry
+    \entry{wilson2007reflecting}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=7bd3268a9bfcffb844871733b417604c}{%
+           family={Wilson},
+           familyi={W\bibinitperiod},
+           given={Raymond\bibnamedelima N.},
+           giveni={R\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Berlin Heidelberg}%
+      }
+      \strng{namehash}{7bd3268a9bfcffb844871733b417604c}
+      \strng{fullhash}{7bd3268a9bfcffb844871733b417604c}
+      \strng{fullhashraw}{7bd3268a9bfcffb844871733b417604c}
+      \strng{bibnamehash}{7bd3268a9bfcffb844871733b417604c}
+      \strng{authorbibnamehash}{7bd3268a9bfcffb844871733b417604c}
+      \strng{authornamehash}{7bd3268a9bfcffb844871733b417604c}
+      \strng{authorfullhash}{7bd3268a9bfcffb844871733b417604c}
+      \strng{authorfullhashraw}{7bd3268a9bfcffb844871733b417604c}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2nd}
+      \field{title}{Reflecting Telescope Optics {I}: Basic Design Theory and its Historical Development}
+      \field{year}{2007}
+    \endentry
+    \entry{haboudane2004hyperspectral}{article}{}{}
+      \name{author}{5}{}{%
+        {{hash=db95db3e70563e054c625e361d1a8e45}{%
+           family={Haboudane},
+           familyi={H\bibinitperiod},
+           given={Driss},
+           giveni={D\bibinitperiod}}}%
+        {{hash=1c6440d55b7f590240f3c5e41477343f}{%
+           family={Miller},
+           familyi={M\bibinitperiod},
+           given={John\bibnamedelima R.},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=83b2eda019c4a2c9d91d234bab95aa5b}{%
+           family={Pattey},
+           familyi={P\bibinitperiod},
+           given={Elizabeth},
+           giveni={E\bibinitperiod}}}%
+        {{hash=848c207744826c0a4a10d76d6511abef}{%
+           family={Zarco-Tejada},
+           familyi={Z\bibinithyphendelim T\bibinitperiod},
+           given={Pablo\bibnamedelima J.},
+           giveni={P\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=f274ded8617cc070310f50bdaf151039}{%
+           family={Strachan},
+           familyi={S\bibinitperiod},
+           given={Ian\bibnamedelima B.},
+           giveni={I\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{4db00ba5f7d609906310d595e202e435}
+      \strng{fullhash}{c7d3c48c55cf3089571bee5797c9bc3b}
+      \strng{fullhashraw}{c7d3c48c55cf3089571bee5797c9bc3b}
+      \strng{bibnamehash}{c7d3c48c55cf3089571bee5797c9bc3b}
+      \strng{authorbibnamehash}{c7d3c48c55cf3089571bee5797c9bc3b}
+      \strng{authornamehash}{4db00ba5f7d609906310d595e202e435}
+      \strng{authorfullhash}{c7d3c48c55cf3089571bee5797c9bc3b}
+      \strng{authorfullhashraw}{c7d3c48c55cf3089571bee5797c9bc3b}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Remote Sensing of Environment}
+      \field{month}{4}
+      \field{number}{3}
+      \field{title}{Hyperspectral Vegetation Indices and Novel Algorithms for Predicting Green {LAI} of Crop Canopies: Modeling and Validation in the Context of Precision Agriculture}
+      \field{volume}{90}
+      \field{year}{2004}
+      \field{pages}{337\bibrangedash 352}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1016/j.rse.2003.12.013
+      \endverb
+    \endentry
+    \entry{xue2017vegetation}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=682d33935c5a2cd6d28bf0dbef1315e6}{%
+           family={Xue},
+           familyi={X\bibinitperiod},
+           given={Jinru},
+           giveni={J\bibinitperiod}}}%
+        {{hash=51a373887220da2864752730178b97d7}{%
+           family={Su},
+           familyi={S\bibinitperiod},
+           given={Baofeng},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Hindawi}%
+      }
+      \strng{namehash}{fdd41b599adc77de9390a638429ac86e}
+      \strng{fullhash}{fdd41b599adc77de9390a638429ac86e}
+      \strng{fullhashraw}{fdd41b599adc77de9390a638429ac86e}
+      \strng{bibnamehash}{fdd41b599adc77de9390a638429ac86e}
+      \strng{authorbibnamehash}{fdd41b599adc77de9390a638429ac86e}
+      \strng{authornamehash}{fdd41b599adc77de9390a638429ac86e}
+      \strng{authorfullhash}{fdd41b599adc77de9390a638429ac86e}
+      \strng{authorfullhashraw}{fdd41b599adc77de9390a638429ac86e}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Sensors}
+      \field{title}{Significant Remote Sensing Vegetation Indices: A Review of Developments and Applications}
+      \field{volume}{2017}
+      \field{year}{2017}
+      \field{pages}{1353691}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1155/2017/1353691
+      \endverb
+    \endentry
+    \entry{middleton2022holistic}{thesis}{}{}
+      \name{author}{1}{}{%
+        {{hash=ef5a0165a5c933d3bd39e1c225fd253c}{%
+           family={Middleton},
+           familyi={M\bibinitperiod},
+           given={C.\bibnamedelimi Joseph},
+           giveni={C\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {[Institution to be confirmed]}%
+      }
+      \strng{namehash}{ef5a0165a5c933d3bd39e1c225fd253c}
+      \strng{fullhash}{ef5a0165a5c933d3bd39e1c225fd253c}
+      \strng{fullhashraw}{ef5a0165a5c933d3bd39e1c225fd253c}
+      \strng{bibnamehash}{ef5a0165a5c933d3bd39e1c225fd253c}
+      \strng{authorbibnamehash}{ef5a0165a5c933d3bd39e1c225fd253c}
+      \strng{authornamehash}{ef5a0165a5c933d3bd39e1c225fd253c}
+      \strng{authorfullhash}{ef5a0165a5c933d3bd39e1c225fd253c}
+      \strng{authorfullhashraw}{ef5a0165a5c933d3bd39e1c225fd253c}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A Holistically Designed Hyperspectral Imager for {CubeSats}}
+      \field{type}{phdthesis}
+      \field{year}{2022}
+    \endentry
+    \entry{smith2008modern}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=6b34ac56f4ac8a0699aabfb601d216d5}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={Warren\bibnamedelima J.},
+           giveni={W\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {McGraw-Hill}%
+      }
+      \strng{namehash}{6b34ac56f4ac8a0699aabfb601d216d5}
+      \strng{fullhash}{6b34ac56f4ac8a0699aabfb601d216d5}
+      \strng{fullhashraw}{6b34ac56f4ac8a0699aabfb601d216d5}
+      \strng{bibnamehash}{6b34ac56f4ac8a0699aabfb601d216d5}
+      \strng{authorbibnamehash}{6b34ac56f4ac8a0699aabfb601d216d5}
+      \strng{authornamehash}{6b34ac56f4ac8a0699aabfb601d216d5}
+      \strng{authorfullhash}{6b34ac56f4ac8a0699aabfb601d216d5}
+      \strng{authorfullhashraw}{6b34ac56f4ac8a0699aabfb601d216d5}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{4th}
+      \field{title}{Modern Optical Engineering: The Design of Optical Systems}
+      \field{year}{2008}
+    \endentry
+    \entry{schroeder2000astronomical}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=095f5c5a7185cfacccee44d88e22a7a5}{%
+           family={Schroeder},
+           familyi={S\bibinitperiod},
+           given={Daniel\bibnamedelima J.},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {San Diego, CA}%
+      }
+      \list{publisher}{1}{%
+        {Academic Press}%
+      }
+      \strng{namehash}{095f5c5a7185cfacccee44d88e22a7a5}
+      \strng{fullhash}{095f5c5a7185cfacccee44d88e22a7a5}
+      \strng{fullhashraw}{095f5c5a7185cfacccee44d88e22a7a5}
+      \strng{bibnamehash}{095f5c5a7185cfacccee44d88e22a7a5}
+      \strng{authorbibnamehash}{095f5c5a7185cfacccee44d88e22a7a5}
+      \strng{authornamehash}{095f5c5a7185cfacccee44d88e22a7a5}
+      \strng{authorfullhash}{095f5c5a7185cfacccee44d88e22a7a5}
+      \strng{authorfullhashraw}{095f5c5a7185cfacccee44d88e22a7a5}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2nd}
+      \field{title}{Astronomical Optics}
+      \field{year}{2000}
+    \endentry
+    \entry{hsieh2011erlhis}{misc}{}{}
+      \name{author}{3}{}{%
+        {{hash=f32baa5090316da6441add282d58b5eb}{%
+           family={Hsieh},
+           familyi={H\bibinitperiod},
+           given={Yu-Fen},
+           giveni={Y\bibinithyphendelim F\bibinitperiod}}}%
+        {{hash=397a5b22303ed4e6471d5956d3ac025c}{%
+           family={Ou-Yang},
+           familyi={O\bibinithyphendelim Y\bibinitperiod},
+           given={Mang},
+           giveni={M\bibinitperiod}}}%
+        {{hash=6e0d055272cfaf94afd42d8ce76c82e2}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Cheng-Chung},
+           giveni={C\bibinithyphendelim C\bibinitperiod}}}%
+      }
+      \strng{namehash}{1843c411faafa28c92eb89e742a11085}
+      \strng{fullhash}{1bb97ac8c405090d75325d5a3dc827d1}
+      \strng{fullhashraw}{1bb97ac8c405090d75325d5a3dc827d1}
+      \strng{bibnamehash}{1bb97ac8c405090d75325d5a3dc827d1}
+      \strng{authorbibnamehash}{1bb97ac8c405090d75325d5a3dc827d1}
+      \strng{authornamehash}{1843c411faafa28c92eb89e742a11085}
+      \strng{authorfullhash}{1bb97ac8c405090d75325d5a3dc827d1}
+      \strng{authorfullhashraw}{1bb97ac8c405090d75325d5a3dc827d1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Finite Conjugate Embedded Relay Lens Hyperspectral Imaging System ({ERL-HIS})}
+      \field{year}{2011}
+    \endentry
+    \entry{cmv4000datasheet}{manual}{}{}
+      \list{organization}{1}{%
+        {[Manufacturer to be confirmed: CMOSIS / ams-OSRAM]}%
+      }
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labeltitlesource}{title}
+      \field{title}{{CMV4000} Image Sensor Datasheet}
+      \field{year}{[Year to be confirmed]}
+    \endentry
+    \entry{nasila2025aspect}{article}{}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{hash=5911cd1c2c5a429c2c756826809396e9}{%
+           family={Näsilä},
+           familyi={N\bibinitperiod},
+           given={Antti},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{6744a65ff5203e7f3299c466501c2127}
+      \strng{fullhash}{6744a65ff5203e7f3299c466501c2127}
+      \strng{fullhashraw}{6744a65ff5203e7f3299c466501c2127}
+      \strng{bibnamehash}{6744a65ff5203e7f3299c466501c2127}
+      \strng{authorbibnamehash}{6744a65ff5203e7f3299c466501c2127}
+      \strng{authornamehash}{6744a65ff5203e7f3299c466501c2127}
+      \strng{authorfullhash}{6744a65ff5203e7f3299c466501c2127}
+      \strng{authorfullhashraw}{6744a65ff5203e7f3299c466501c2127}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Space Science Reviews}
+      \field{month}{10}
+      \field{number}{7}
+      \field{title}{The Asteroid Spectral Imager ({ASPECT}) on the {Milani} {CubeSat}}
+      \field{volume}{221}
+      \field{year}{2025}
+      \verb{doi}
+      \verb 10.1007/s11214-025-01193-3
+      \endverb
+    \endentry
+    \entry{maurice2021supercam}{article}{}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{hash=ad3f7a04206f5740f972e86e88efa297}{%
+           family={Maurice},
+           familyi={M\bibinitperiod},
+           given={Sylvestre},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{5e821b41d0b4a2d69431d6f6200cbc63}
+      \strng{fullhash}{5e821b41d0b4a2d69431d6f6200cbc63}
+      \strng{fullhashraw}{5e821b41d0b4a2d69431d6f6200cbc63}
+      \strng{bibnamehash}{5e821b41d0b4a2d69431d6f6200cbc63}
+      \strng{authorbibnamehash}{5e821b41d0b4a2d69431d6f6200cbc63}
+      \strng{authornamehash}{5e821b41d0b4a2d69431d6f6200cbc63}
+      \strng{authorfullhash}{5e821b41d0b4a2d69431d6f6200cbc63}
+      \strng{authorfullhashraw}{5e821b41d0b4a2d69431d6f6200cbc63}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Space Science Reviews}
+      \field{month}{4}
+      \field{number}{3}
+      \field{title}{The {SuperCam} Instrument Suite on the {Mars} 2020 Rover: Science Objectives and Mast-Unit Description}
+      \field{volume}{217}
+      \field{year}{2021}
+      \verb{doi}
+      \verb 10.1007/s11214-021-00807-w
+      \endverb
+    \endentry
+    \entry{ieee2012icsai}{proceedings}{}{}
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labeltitlesource}{title}
+      \field{title}{2012 International Conference on Systems and Informatics ({ICSAI})}
+      \field{year}{2012}
+    \endentry
+    \entry{esposito2019inorbit}{inproceedings}{}{}
+      \name{author}{2}{}{%
+        {{hash=6a2d402e9a7ab9ecdb14d99e0200f1f2}{%
+           family={Esposito},
+           familyi={E\bibinitperiod},
+           given={Marco},
+           giveni={M\bibinitperiod}}}%
+        {{hash=8e40f6c0036a1dd2ee17c95714531fa3}{%
+           family={{Zuccaro Marchi}},
+           familyi={Z\bibinitperiod},
+           given={Alessandro},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {SPIE}%
+      }
+      \strng{namehash}{73dad45f4dede73a405cf847a8ef615f}
+      \strng{fullhash}{73dad45f4dede73a405cf847a8ef615f}
+      \strng{fullhashraw}{73dad45f4dede73a405cf847a8ef615f}
+      \strng{bibnamehash}{73dad45f4dede73a405cf847a8ef615f}
+      \strng{authorbibnamehash}{73dad45f4dede73a405cf847a8ef615f}
+      \strng{authornamehash}{73dad45f4dede73a405cf847a8ef615f}
+      \strng{authorfullhash}{73dad45f4dede73a405cf847a8ef615f}
+      \strng{authorfullhashraw}{73dad45f4dede73a405cf847a8ef615f}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{International Conference on Space Optics ({ICSO} 2018)}
+      \field{month}{7}
+      \field{series}{Proceedings of {SPIE}}
+      \field{title}{In-Orbit Demonstration of the First Hyperspectral Imager for Nanosatellites}
+      \field{volume}{11180}
+      \field{year}{2019}
+      \field{pages}{71}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1117/12.2535991
+      \endverb
+    \endentry
+    \entry{mouroulis2014optical}{inproceedings}{}{}
+      \name{author}{4}{}{%
+        {{hash=bf788beb6cd52898ceee239696209a73}{%
+           family={Mouroulis},
+           familyi={M\bibinitperiod},
+           given={Pantazis},
+           giveni={P\bibinitperiod}}}%
+        {{hash=96c35ed9cd044bc90172d706fb16418e}{%
+           family={{Van Gorp}},
+           familyi={V\bibinitperiod},
+           given={Byron},
+           giveni={B\bibinitperiod}}}%
+        {{hash=c54ca54fd8cc809ad7b625be156ffd69}{%
+           family={Green},
+           familyi={G\bibinitperiod},
+           given={Robert\bibnamedelima O.},
+           giveni={R\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+        {{hash=d633ea848c477c65aaf85baf96b3306d}{%
+           family={Wilson},
+           familyi={W\bibinitperiod},
+           given={Daniel\bibnamedelima W.},
+           giveni={D\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {SPIE}%
+      }
+      \strng{namehash}{a98ce00b63c09637784c951e443cd055}
+      \strng{fullhash}{a2044d405f6eef23d886da3c21ca5b7c}
+      \strng{fullhashraw}{a2044d405f6eef23d886da3c21ca5b7c}
+      \strng{bibnamehash}{a2044d405f6eef23d886da3c21ca5b7c}
+      \strng{authorbibnamehash}{a2044d405f6eef23d886da3c21ca5b7c}
+      \strng{authornamehash}{a98ce00b63c09637784c951e443cd055}
+      \strng{authorfullhash}{a2044d405f6eef23d886da3c21ca5b7c}
+      \strng{authorfullhashraw}{a2044d405f6eef23d886da3c21ca5b7c}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Imaging Spectrometry {XIX}}
+      \field{month}{9}
+      \field{series}{Proceedings of {SPIE}}
+      \field{title}{Optical Design of a {CubeSat}-Compatible Imaging Spectrometer}
+      \field{volume}{9222}
+      \field{year}{2014}
+      \true{nocite}
+      \field{pages}{92220D}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1117/12.2062680
+      \endverb
+    \endentry
+    \entry{rahali2025cubesat}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=8e7081f9ba2ca6d73d635815894f437d}{%
+           family={Rahali},
+           familyi={R\bibinitperiod},
+           given={Lamia},
+           giveni={L\bibinitperiod}}}%
+        {{hash=9ab2487b8bb5ef4724348a6c5fbb80a3}{%
+           family={Praticò},
+           familyi={P\bibinitperiod},
+           given={Salvatore},
+           giveni={S\bibinitperiod}}}%
+        {{hash=f61b59c6df358cdfc2fa09c238cf1f51}{%
+           family={Lanucara},
+           familyi={L\bibinitperiod},
+           given={Simone},
+           giveni={S\bibinitperiod}}}%
+        {{hash=1fa8da4ccc55d9801c06d76fd22fa1dd}{%
+           family={Modica},
+           familyi={M\bibinitperiod},
+           given={Giuseppe},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{470eeea745a43af99b170d700ca3767b}
+      \strng{fullhash}{f5d0ee1c964771cf8498903c22428ee4}
+      \strng{fullhashraw}{f5d0ee1c964771cf8498903c22428ee4}
+      \strng{bibnamehash}{f5d0ee1c964771cf8498903c22428ee4}
+      \strng{authorbibnamehash}{f5d0ee1c964771cf8498903c22428ee4}
+      \strng{authornamehash}{470eeea745a43af99b170d700ca3767b}
+      \strng{authorfullhash}{f5d0ee1c964771cf8498903c22428ee4}
+      \strng{authorfullhashraw}{f5d0ee1c964771cf8498903c22428ee4}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Computers and Electronics in Agriculture}
+      \field{month}{3}
+      \field{title}{{CubeSat} Constellations: New Era for Precision Agriculture?}
+      \field{year}{2025}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.1016/j.compag.2024.109764
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

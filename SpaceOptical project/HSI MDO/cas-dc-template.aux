@@ -53,10 +53,10 @@
 \citation{gu2022s4,gu2024mamba}
 \@writefile{lof}{\contentsline {figure}{\numberline {2}{\ignorespaces Schematic architecture of Mamba-OpticSatNet(Full), consisting of a CNN stem, parallel Transformer and selective SSM branches, adaptive gate fusion, spatial restoration, and a lightweight segmentation head}}{6}{figure.caption.4}\protected@file@percent }
 \newlabel{fig:mambafull}{{2}{6}{Schematic architecture of Mamba-OpticSatNet(Full), consisting of a CNN stem, parallel Transformer and selective SSM branches, adaptive gate fusion, spatial restoration, and a lightweight segmentation head}{figure.caption.4}{}}
-\@writefile{toc}{\contentsline {subsubsection}{\numberline {2.3.1}Mamba-OpticSatNet Full architecture}{6}{subsubsection.2.3.1}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {2.3.1}Mamba-OpticSatNet(Full) architecture}{6}{subsubsection.2.3.1}\protected@file@percent }
 \@writefile{lof}{\contentsline {figure}{\numberline {3}{\ignorespaces Schematic architecture of Mamba-OpticSatNet(Lite). Early spatial downsampling shortens the token sequence before compact Transformer and SSM-inspired global mixing, lightweight token fusion, spatial restoration, and pixel-wise prediction.}}{7}{figure.caption.5}\protected@file@percent }
 \newlabel{fig:mambalite}{{3}{7}{Schematic architecture of Mamba-OpticSatNet(Lite). Early spatial downsampling shortens the token sequence before compact Transformer and SSM-inspired global mixing, lightweight token fusion, spatial restoration, and pixel-wise prediction}{figure.caption.5}{}}
-\@writefile{toc}{\contentsline {subsubsection}{\numberline {2.3.2}Mamba-OpticSatNet Lite architecture}{7}{subsubsection.2.3.2}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {2.3.2}Mamba-OpticSatNet(Lite) architecture}{7}{subsubsection.2.3.2}\protected@file@percent }
 \@writefile{toc}{\contentsline {subsubsection}{\numberline {2.3.3}Computational cost and onboard efficiency}{7}{subsubsection.2.3.3}\protected@file@percent }
 \citation{mani2025ohid1}
 \citation{long2015fcn}
@@ -69,6 +69,7 @@
 \@writefile{toc}{\contentsline {subsection}{\numberline {3.1}Dataset, preprocessing and training setup}{8}{subsection.3.1}\protected@file@percent }
 \@writefile{toc}{\contentsline {subsection}{\numberline {3.2}Evaluation metrics and baseline models}{8}{subsection.3.2}\protected@file@percent }
 \@writefile{toc}{\contentsline {subsection}{\numberline {3.3}Embedded hardware configuration}{8}{subsection.3.3}\protected@file@percent }
+\newlabel{sec:HWconfig}{{3.3}{8}{Embedded hardware configuration}{subsection.3.3}{}}
 \citation{long2015fcn}
 \citation{ronneberger2015unet}
 \citation{zhou2020unetpp}
@@ -87,7 +88,7 @@
 \@writefile{lof}{\contentsline {figure}{\numberline {4}{\ignorespaces Accuracy–efficiency comparison on the four-class OHID-1 derivative benchmark. Left: mIoU versus GMACs. Right: parameter count versus mIoU. Mamba-OpticSatNet(Full) achieves the highest reported mIoU, whereas Mamba-OpticSatNet(Lite) provides a lower-complexity operating point with competitive segmentation performance}}{10}{figure.caption.8}\protected@file@percent }
 \newlabel{fig:accuracycomp}{{4}{10}{Accuracy–efficiency comparison on the four-class OHID-1 derivative benchmark. Left: mIoU versus GMACs. Right: parameter count versus mIoU. Mamba-OpticSatNet(Full) achieves the highest reported mIoU, whereas Mamba-OpticSatNet(Lite) provides a lower-complexity operating point with competitive segmentation performance}{figure.caption.8}{}}
 \@writefile{toc}{\contentsline {subsection}{\numberline {4.3}Qualitative segmentation results}{10}{subsection.4.3}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsubsection}{\numberline {4.3.1}Mamba-OpticSatNet (Full) vs. (Lite) config}{10}{subsubsection.4.3.1}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {4.3.1}Comparison of Mamba-OpticSatNet(Full) \& Mamba-OpticSatNet(Lite)}{10}{subsubsection.4.3.1}\protected@file@percent }
 \@writefile{lof}{\contentsline {figure}{\numberline {5}{\ignorespaces Per-class IoU comparison on the four-class OHID-1 derivative benchmark (C0 = Vegetation, C1 = Cropland, C2 = Urban, and C3 = Water). The largest performance differences occur for C2 Urban, for which Mamba-OpticSatNet(Full) achieves the highest reported IoU}}{11}{figure.caption.9}\protected@file@percent }
 \newlabel{fig:IoUcomp}{{5}{11}{Per-class IoU comparison on the four-class OHID-1 derivative benchmark (C0 = Vegetation, C1 = Cropland, C2 = Urban, and C3 = Water). The largest performance differences occur for C2 Urban, for which Mamba-OpticSatNet(Full) achieves the highest reported IoU}{figure.caption.9}{}}
 \@writefile{lof}{\contentsline {figure}{\numberline {6}{\ignorespaces Qualitative segmentation comparison on the four-class OHID-1 derivative benchmark. The displayed classes are C0 Vegetation, C1 Cropland, C2 Urban, and C3 Water; pixels assigned the ignore value 255 are displayed as Unknown}}{11}{figure.caption.10}\protected@file@percent }
