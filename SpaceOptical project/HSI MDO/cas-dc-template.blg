@@ -4,46 +4,47 @@ The top-level auxiliary file: cas-dc-template.aux
 The style file: model1-num-names.bst
 Database file #1: cas-refs.bib
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-Warning--empty journal in justo2025semantic
-You've used 32 entries,
+Warning--empty pages in berg2024onboard
+Warning--empty pages in gu2023mamba
+You've used 33 entries,
             2913 wiz_defined-function locations,
-            840 strings with 14233 characters,
-and the built_in function-call counts, 24893 in all, are:
-= -- 1842
-> -- 1365
-< -- 13
-+ -- 514
-- -- 477
-* -- 3240
-:= -- 3619
-add.period$ -- 74
-call.type$ -- 32
-change.case$ -- 323
-chr.to.int$ -- 31
-cite$ -- 33
-duplicate$ -- 1634
-empty$ -- 1476
-format.name$ -- 585
-if$ -- 4517
-int.to.chr$ -- 2
+            851 strings with 14763 characters,
+and the built_in function-call counts, 26699 in all, are:
+= -- 1941
+> -- 1514
+< -- 11
++ -- 568
+- -- 531
+* -- 3521
+:= -- 3886
+add.period$ -- 71
+call.type$ -- 33
+change.case$ -- 344
+chr.to.int$ -- 33
+cite$ -- 35
+duplicate$ -- 1718
+empty$ -- 1575
+format.name$ -- 640
+if$ -- 4831
+int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 371
-newline$ -- 160
-num.names$ -- 128
-pop$ -- 473
+missing$ -- 399
+newline$ -- 174
+num.names$ -- 132
+pop$ -- 492
 preamble$ -- 1
-purify$ -- 316
+purify$ -- 341
 quote$ -- 0
-skip$ -- 403
+skip$ -- 425
 stack$ -- 0
-substring$ -- 918
-swap$ -- 1450
+substring$ -- 980
+swap$ -- 1567
 text.length$ -- 6
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 288
-warning$ -- 1
-while$ -- 138
+type$ -- 297
+warning$ -- 2
+while$ -- 146
 width$ -- 0
-write$ -- 462
-(There was 1 warning)
+write$ -- 483
+(There were 2 warnings)

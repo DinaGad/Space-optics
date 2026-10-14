@@ -1,4 +1,4 @@
-\begin{thebibliography}{32}
+\begin{thebibliography}{33}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \providecommand{\url}[1]{\texttt{#1}}
 \providecommand{\href}[2]{#2}
@@ -48,18 +48,19 @@
   low-latency critical event detection}, \bibinfo{year}{2025}. \URLprefix
   \url{https://arxiv.org/abs/2503.01756}.
   \href{http://arxiv.org/abs/2503.01756}{\tt arXiv:2503.01756}.
-%Type = Techreport
+%Type = Inproceedings
 \bibitem[{Castano \emph{et~al.}(2006)Castano, Mazzoni, Tang, Greeley, Doggett,
   Cichy, Chien, and Davies}]{castano2006onboard}
 \bibinfo{author}{R.~Castano}, \bibinfo{author}{D.~Mazzoni},
   \bibinfo{author}{N.~Tang}, \bibinfo{author}{R.~Greeley},
   \bibinfo{author}{T.~Doggett}, \bibinfo{author}{B.~Cichy},
   \bibinfo{author}{S.~Chien}, \bibinfo{author}{A.~Davies},
-  \bibinfo{title}{Onboard Classifiers for Science Event Detection on a Remote
-  Sensing Spacecraft}, \bibinfo{type}{Technical Report}, {NASA} Jet Propulsion
-  Laboratory, \bibinfo{year}{2006}. \bibinfo{note}{Presented at the 2006
-  International Symposium on Artificial Intelligence, Robotics and Automation
-  in Space (i-SAIRAS)}.
+\newblock \bibinfo{title}{Onboard classifiers for science event detection on a
+  remote sensing spacecraft},
+\newblock in: \bibinfo{booktitle}{Proceedings of the 12th ACM SIGKDD
+  international conference on Knowledge discovery and data mining, KDD},
+  \bibinfo{year}{2006}, pp. \bibinfo{pages}{845--851}.
+  \DOIprefix\doi{10.1145/1150402.1150519}.
 %Type = Article
 \bibitem[{Giuffrida \emph{et~al.}(2022)Giuffrida, Fanucci, Meoni, Batic,
   Buckley, Dunne, {Van Dijk}, Esposito, Hefele, Vercruyssen, Furano, Pastena,
@@ -90,16 +91,16 @@
   \DOIprefix\doi{10.3390/rs15153756}.
 %Type = Inproceedings
 \bibitem[{Berg \emph{et~al.}(2024)Berg, Langer, Chiatante, Birkeland, Justo,
-  and Johansen}]{berg2024hypso}
-\bibinfo{author}{S.~Berg}, \bibinfo{author}{D.~D. Langer},
+  and Johansen}]{berg2024onboard}
+\bibinfo{author}{S.~Berg}, \bibinfo{author}{D.~Langer},
   \bibinfo{author}{C.~Chiatante}, \bibinfo{author}{R.~Birkeland},
   \bibinfo{author}{J.~A. Justo}, \bibinfo{author}{T.~A. Johansen},
-\newblock \bibinfo{title}{Onboard classification for image capture and downlink
-  prioritisation in {HYPSO-1}},
+\newblock \bibinfo{title}{Onboard classification to guide capture downlink
+  using the hypso-1 satellite},
 \newblock in: \bibinfo{booktitle}{Proceedings of the 75th International
-  Astronautical Congress ({IAC})}, \bibinfo{year}{2024}, pp.
-  \bibinfo{pages}{14--18}. \bibinfo{note}{Post-print; exact page range may
-  differ}.
+  Astronautical Congress (IAC), International Astronautical Federation (IAF),
+  Milan, Italy}, \bibinfo{year}{2024}. \bibinfo{note}{Paper ID:
+  IAC-24-B.4.3.6x85269}.
 %Type = Article
 \bibitem[{Ghasemi \emph{et~al.}(2025)Ghasemi, Justo, Celesti, Despoisse, and
   Nieke}]{ghasemi2025onboardreview}
@@ -113,24 +114,31 @@
   (\bibinfo{year}{2025}) \bibinfo{pages}{4780--4790}.
   \DOIprefix\doi{10.1109/JSTARS.2025.3527898}.
 %Type = Article
-\bibitem[{Justo \emph{et~al.}(2025{\natexlab{a}})Justo, Langer, Berg, Nieke,
-  Ionescu, Kjeldsberget, and Johansen}]{justo2025hyperspectral}
+\bibitem[{Justo \emph{et~al.}(2025)Justo, Langer, Berg, Nieke, Ionescu,
+  Kjeldsberg, and Johansen}]{justo2025hyperspectral}
 \bibinfo{author}{J.~A. Justo}, \bibinfo{author}{D.~D. Langer},
   \bibinfo{author}{S.~Berg}, \bibinfo{author}{J.~Nieke}, \bibinfo{author}{R.~T.
-  Ionescu}, \bibinfo{author}{P.~G. Kjeldsberget}, \bibinfo{author}{T.~A.
+  Ionescu}, \bibinfo{author}{P.~G. Kjeldsberg}, \bibinfo{author}{T.~A.
   Johansen},
 \newblock \bibinfo{title}{Hyperspectral image segmentation for optimal
   satellite operations: In-orbit deployment of 1d-{CNN}},
 \newblock \textit{\bibinfo{journal}{Remote Sensing}} \bibinfo{volume}{17}
-  (\bibinfo{year}{2025}{\natexlab{a}}) \bibinfo{pages}{642}.
+  (\bibinfo{year}{2025}) \bibinfo{pages}{642}.
   \DOIprefix\doi{10.3390/rs17040642}.
 %Type = Article
-\bibitem[{Justo \emph{et~al.}(2025{\natexlab{b}})}]{justo2025semantic}
-\bibinfo{author}{J.~A. Justo}, \emph{et~al.},
+\bibitem[{Justo \emph{et~al.}(2024)Justo, Ghi{\c{t}}{\u{a}}, Kov{\'a}{\v{c}},
+  Garrett, Georgescu, Gonzalez-Llorente, Ionescu, and
+  Johansen}]{justo2024semantic}
+\bibinfo{author}{J.~A. Justo}, \bibinfo{author}{A.~Ghi{\c{t}}{\u{a}}},
+  \bibinfo{author}{D.~Kov{\'a}{\v{c}}}, \bibinfo{author}{J.~L. Garrett},
+  \bibinfo{author}{M.-I. Georgescu}, \bibinfo{author}{J.~Gonzalez-Llorente},
+  \bibinfo{author}{R.~T. Ionescu}, \bibinfo{author}{T.~A. Johansen},
 \newblock \bibinfo{title}{Semantic segmentation in satellite hyperspectral
-  imagery by deep learning}  (\bibinfo{year}{2025}{\natexlab{b}}).
-  \bibinfo{note}{TODO: Author list and publication details must be verified;
-  entry is based on an incomplete source record.}
+  imagery by deep learning},
+\newblock \textit{\bibinfo{journal}{IEEE Journal of Selected Topics in Applied
+  Earth Observations and Remote Sensing}} \bibinfo{volume}{18}
+  (\bibinfo{year}{2024}) \bibinfo{pages}{273--293}.
+  \DOIprefix\doi{10.1109/JSTARS.2024.3487360}.
 %Type = Article
 \bibitem[{Meoni \emph{et~al.}(2024)Meoni, {Del Prete}, Serva, {De Beusscher},
   Colin, and Longepe}]{meoni2024unlocking}
@@ -177,27 +185,27 @@
   \bibinfo{pages}{105095}. \DOIprefix\doi{10.1016/j.jag.2026.105095}.
 %Type = Article
 \bibitem[{Mateo-Garcia \emph{et~al.}(2021)Mateo-Garcia, Veitch-Michaelis,
-  Smith, Oprea, Schumann, Gal, Baydin, and Backes}]{mateogarcia2021flood}
+  Smith, Oprea, Schumann, Gal, Baydin, and Backes}]{mateo2021towards}
 \bibinfo{author}{G.~Mateo-Garcia}, \bibinfo{author}{J.~Veitch-Michaelis},
   \bibinfo{author}{L.~Smith}, \bibinfo{author}{S.~V. Oprea},
   \bibinfo{author}{G.~Schumann}, \bibinfo{author}{Y.~Gal},
   \bibinfo{author}{A.~G. Baydin}, \bibinfo{author}{D.~Backes},
 \newblock \bibinfo{title}{Towards global flood mapping onboard low cost
   satellites with machine learning},
-\newblock \textit{\bibinfo{journal}{Scientific Reports}} \bibinfo{volume}{11}
-  (\bibinfo{year}{2021}) \bibinfo{pages}{7253}.
+\newblock \textit{\bibinfo{journal}{Scientific reports}} \bibinfo{volume}{11}
+  (\bibinfo{year}{2021}) \bibinfo{pages}{7249}.
   \DOIprefix\doi{10.1038/s41598-021-86650-z}.
-%Type = Misc
-\bibitem[{Ali \emph{et~al.}(2025)Ali, Pereira, Gentile, Cortines, Mugel,
-  Or{\'u}s, Neophytides, and Mavrovouniotis}]{ali2025cloudmasking}
+%Type = Article
+\bibitem[{Ali \emph{et~al.}(2026)Ali, Pereira, Gentile, Cortines, Mugel,
+  Or{\'u}s, Neophytides, and Mavrovouniotis}]{ali2026lightweight}
 \bibinfo{author}{M.~Ali}, \bibinfo{author}{A.~Pereira},
   \bibinfo{author}{F.~Gentile}, \bibinfo{author}{A.~Cortines},
   \bibinfo{author}{S.~Mugel}, \bibinfo{author}{R.~Or{\'u}s},
   \bibinfo{author}{S.~P. Neophytides}, \bibinfo{author}{M.~Mavrovouniotis},
-  \bibinfo{title}{Lightweight cloud masking models for on-board inference in
-  hyperspectral imaging}, \bibinfo{year}{2025}. \URLprefix
-  \url{https://arxiv.org/abs/2507.08052}.
-  \href{http://arxiv.org/abs/2507.08052}{\tt arXiv:2507.08052}.
+\newblock \bibinfo{title}{Lightweight cloud masking models for on-board
+  inference in hyperspectral imaging},
+\newblock \textit{\bibinfo{journal}{Scientific Reports}}
+  (\bibinfo{year}{2026}). \DOIprefix\doi{10.1038/s41598-026-47153-x}.
 %Type = Article
 \bibitem[{Herec \emph{et~al.}(2026)Herec, Sedmidubsky, and
   Pito{\v{n}}{\'a}k}]{herec2026sttorm}
@@ -207,16 +215,14 @@
   monitoring onboard satellites using change detection},
 \newblock \textit{\bibinfo{journal}{Scientific Reports}} \bibinfo{volume}{16}
   (\bibinfo{year}{2026}). \DOIprefix\doi{10.1038/s41598-025-32598-3}.
-%Type = Inproceedings
-\bibitem[{Wu \emph{et~al.}(2024)Wu, Li, and Li}]{wu2024fullscale}
-\bibinfo{author}{H.~Wu}, \bibinfo{author}{C.~Li}, \bibinfo{author}{Y.~Li},
-\newblock \bibinfo{title}{Full-scale semantic segmentation of hyperspectral
-  imaging based on spatial spatial-spectral joint network},
-\newblock in: \bibinfo{booktitle}{{ISPRS} Annals of the Photogrammetry, Remote
-  Sensing and Spatial Information Sciences}, volume \bibinfo{volume}{X-1-2024},
-  \bibinfo{publisher}{Copernicus Publications}, \bibinfo{year}{2024}, pp.
-  \bibinfo{pages}{267--274}.
-  \DOIprefix\doi{10.5194/isprs-annals-X-1-2024-267-2024}.
+%Type = Article
+\bibitem[{Ye \emph{et~al.}(2025)Ye, Tong, and Li}]{ye2025lightweight}
+\bibinfo{author}{B.~Ye}, \bibinfo{author}{G.~Tong}, \bibinfo{author}{Q.~Li},
+\newblock \bibinfo{title}{Lightweight mamba residual network integrating
+  center-focused strategy for infrared small target detection},
+\newblock \textit{\bibinfo{journal}{Applied Soft Computing}}
+  \bibinfo{volume}{187} (\bibinfo{year}{2025}).
+  \DOIprefix\doi{10.1016/j.asoc.2025.114322}.
 %Type = Article
 \bibitem[{George and Wilson(2018)}]{george2018onboard}
 \bibinfo{author}{A.~D. George}, \bibinfo{author}{C.~M. Wilson},
@@ -254,20 +260,26 @@
   \url{https://arxiv.org/abs/2111.00396}.
   \href{http://arxiv.org/abs/2111.00396}{\tt arXiv:2111.00396},
   \bibinfo{note}{published at ICLR 2022}.
-%Type = Misc
-\bibitem[{Gu and Dao(2024)}]{gu2024mamba}
-\bibinfo{author}{A.~Gu}, \bibinfo{author}{T.~Dao}, \bibinfo{title}{Mamba:
-  Linear-time sequence modeling with selective state spaces},
-  \bibinfo{year}{2024}. \URLprefix \url{https://arxiv.org/abs/2312.00752}.
-  \href{http://arxiv.org/abs/2312.00752}{\tt arXiv:2312.00752}.
+%Type = Inproceedings
+\bibitem[{Gu and Dao(2024)}]{gu2023mamba}
+\bibinfo{author}{A.~Gu}, \bibinfo{author}{T.~Dao},
+\newblock \bibinfo{title}{Mamba: Linear-time sequence modeling with selective
+  state spaces},
+\newblock in: \bibinfo{booktitle}{First Conference on Language Modeling
+  ({COLM})}, \bibinfo{year}{2024}. \URLprefix
+  \url{https://openreview.net/pdf?id=tEYskw1VY2}.
 %Type = Article
-\bibitem[{Mani \emph{et~al.}(2025)}]{mani2025ohid1}
-\bibinfo{author}{A.~Mani}, \emph{et~al.},
-\newblock \bibinfo{title}{{OHID-1}: A new large hyperspectral image dataset for
+\bibitem[{Mani \emph{et~al.}(2025)Mani, Gorbachev, Yan, Dixit, Shi, Li, Sun,
+  Chen, Wu, Deng \emph{et~al.}}]{mani2025ohid}
+\bibinfo{author}{A.~Mani}, \bibinfo{author}{S.~Gorbachev},
+  \bibinfo{author}{J.~Yan}, \bibinfo{author}{A.~Dixit},
+  \bibinfo{author}{X.~Shi}, \bibinfo{author}{L.~Li}, \bibinfo{author}{Y.~Sun},
+  \bibinfo{author}{X.~Chen}, \bibinfo{author}{J.~Wu},
+  \bibinfo{author}{J.~Deng}, \emph{et~al.},
+\newblock \bibinfo{title}{Ohid-1: A new large hyperspectral image dataset for
   multi-classification},
-\newblock \textit{\bibinfo{journal}{Scientific Data}} \bibinfo{volume}{12}
-  (\bibinfo{year}{2025}). \bibinfo{note}{TODO: Replace \texttt{others} with the
-  full author list from the published record.}
+\newblock \textit{\bibinfo{journal}{Scientific data}} \bibinfo{volume}{12}
+  (\bibinfo{year}{2025}) \bibinfo{pages}{251}.
   \DOIprefix\doi{10.1038/s41597-025-04542-7}.
 %Type = Inproceedings
 \bibitem[{Long \emph{et~al.}(2015)Long, Shelhamer, and Darrell}]{long2015fcn}
@@ -292,15 +304,16 @@
   \bibinfo{year}{2015}, pp. \bibinfo{pages}{234--241}. \URLprefix
   \url{https://arxiv.org/abs/1505.04597}.
   \href{http://arxiv.org/abs/1505.04597}{\tt arXiv:1505.04597}.
-%Type = Misc
-\bibitem[{Zhao \emph{et~al.}(2024)Zhao, Chen, Zhang, Xiao, Bai, and
-  Ouyang}]{zhao2024rsmamba}
-\bibinfo{author}{S.~Zhao}, \bibinfo{author}{H.~Chen},
-  \bibinfo{author}{X.~Zhang}, \bibinfo{author}{P.~Xiao},
-  \bibinfo{author}{L.~Bai}, \bibinfo{author}{W.~Ouyang},
-  \bibinfo{title}{{RS-Mamba} for large remote sensing image dense prediction},
-  \bibinfo{year}{2024}. \URLprefix \url{https://arxiv.org/abs/2404.02668}.
-  \href{http://arxiv.org/abs/2404.02668}{\tt arXiv:2404.02668}.
+%Type = Article
+\bibitem[{Zhou \emph{et~al.}(2020)Zhou, Siddiquee, Tajbakhsh, and
+  Liang}]{zhou2020unetpp}
+\bibinfo{author}{Z.~Zhou}, \bibinfo{author}{M.~M.~R. Siddiquee},
+  \bibinfo{author}{N.~Tajbakhsh}, \bibinfo{author}{J.~Liang},
+\newblock \bibinfo{title}{{UNet++}: Redesigning skip connections to exploit
+  multiscale features in image segmentation},
+\newblock \textit{\bibinfo{journal}{{IEEE} Transactions on Medical Imaging}}
+  \bibinfo{volume}{39} (\bibinfo{year}{2020}) \bibinfo{pages}{1856--1867}.
+  \DOIprefix\doi{10.1109/TMI.2019.2959609}.
 %Type = Article
 \bibitem[{Roy \emph{et~al.}(2020)Roy, Krishna, Dubey, and
   Chaudhuri}]{roy2020hybridSN}
@@ -311,19 +324,6 @@
 \newblock \textit{\bibinfo{journal}{{IEEE} Geoscience and Remote Sensing
   Letters}} \bibinfo{volume}{17} (\bibinfo{year}{2020})
   \bibinfo{pages}{277--281}. \DOIprefix\doi{10.1109/LGRS.2019.2918719}.
-%Type = Article
-\bibitem[{Hong \emph{et~al.}(2022)Hong, Han, Yao, Gao, Zhang, Chanussot
-  \emph{et~al.}}]{hong2022spectralformer}
-\bibinfo{author}{D.~Hong}, \bibinfo{author}{Z.~Han}, \bibinfo{author}{J.~Yao},
-  \bibinfo{author}{L.~Gao}, \bibinfo{author}{B.~Zhang},
-  \bibinfo{author}{J.~Chanussot}, \emph{et~al.},
-\newblock \bibinfo{title}{{SpectralFormer}: Rethinking hyperspectral image
-  classification with transformers},
-\newblock \textit{\bibinfo{journal}{{IEEE} Transactions on Geoscience and
-  Remote Sensing}} \bibinfo{volume}{60} (\bibinfo{year}{2022})
-  \bibinfo{pages}{1--14}. \bibinfo{note}{TODO: Verify complete author list from
-  the published record; partial list used here.}
-  \DOIprefix\doi{10.1109/TGRS.2021.3130716}.
 %Type = Misc
 \bibitem[{Dosovitskiy \emph{et~al.}(2021)Dosovitskiy, Beyer, Kolesnikov,
   Weissenborn, Zhai, Unterthiner, Dehghani, Minderer, Heigold, Gelly,
@@ -340,14 +340,36 @@
   \href{http://arxiv.org/abs/2010.11929}{\tt arXiv:2010.11929},
   \bibinfo{note}{published at ICLR 2021}.
 %Type = Article
-\bibitem[{Zhou \emph{et~al.}(2020)Zhou, Siddiquee, Tajbakhsh, and
-  Liang}]{zhou2020unetpp}
-\bibinfo{author}{Z.~Zhou}, \bibinfo{author}{M.~M.~R. Siddiquee},
-  \bibinfo{author}{N.~Tajbakhsh}, \bibinfo{author}{J.~Liang},
-\newblock \bibinfo{title}{{UNet++}: Redesigning skip connections to exploit
-  multiscale features in image segmentation},
-\newblock \textit{\bibinfo{journal}{{IEEE} Transactions on Medical Imaging}}
-  \bibinfo{volume}{39} (\bibinfo{year}{2020}) \bibinfo{pages}{1856--1867}.
-  \DOIprefix\doi{10.1109/TMI.2019.2959609}.
+\bibitem[{Hong \emph{et~al.}(2021)Hong, Han, Yao, Gao, Zhang, Plaza, and
+  Chanussot}]{hong2021spectralformer}
+\bibinfo{author}{D.~Hong}, \bibinfo{author}{Z.~Han}, \bibinfo{author}{J.~Yao},
+  \bibinfo{author}{L.~Gao}, \bibinfo{author}{B.~Zhang},
+  \bibinfo{author}{A.~Plaza}, \bibinfo{author}{J.~Chanussot},
+\newblock \bibinfo{title}{Spectralformer: Rethinking hyperspectral image
+  classification with transformers},
+\newblock \textit{\bibinfo{journal}{IEEE Transactions on Geoscience and Remote
+  Sensing}} \bibinfo{volume}{60} (\bibinfo{year}{2021}) \bibinfo{pages}{1--15}.
+  \DOIprefix\doi{10.1109/TGRS.2021.3130716}.
+%Type = Article
+\bibitem[{Zhao \emph{et~al.}(2024)Zhao, Chen, Zhang, Xiao, Bai, and
+  Ouyang}]{zhao2024rs}
+\bibinfo{author}{S.~Zhao}, \bibinfo{author}{H.~Chen},
+  \bibinfo{author}{X.~Zhang}, \bibinfo{author}{P.~Xiao},
+  \bibinfo{author}{L.~Bai}, \bibinfo{author}{W.~Ouyang},
+\newblock \bibinfo{title}{Rs-mamba for large remote sensing image dense
+  prediction},
+\newblock \textit{\bibinfo{journal}{IEEE Transactions on Geoscience and Remote
+  Sensing}} \bibinfo{volume}{62} (\bibinfo{year}{2024}) \bibinfo{pages}{1--14}.
+  \DOIprefix\doi{10.1109/TGRS.2024.3425540}.
+%Type = Inproceedings
+\bibitem[{Wu \emph{et~al.}(2024)Wu, Li, and Li}]{wu2024fullscale}
+\bibinfo{author}{H.~Wu}, \bibinfo{author}{C.~Li}, \bibinfo{author}{Y.~Li},
+\newblock \bibinfo{title}{Full-scale semantic segmentation of hyperspectral
+  imaging based on spatial spatial-spectral joint network},
+\newblock in: \bibinfo{booktitle}{{ISPRS} Annals of the Photogrammetry, Remote
+  Sensing and Spatial Information Sciences}, volume \bibinfo{volume}{X-1-2024},
+  \bibinfo{publisher}{Copernicus Publications}, \bibinfo{year}{2024}, pp.
+  \bibinfo{pages}{267--274}.
+  \DOIprefix\doi{10.5194/isprs-annals-X-1-2024-267-2024}.
 
 \end{thebibliography}
