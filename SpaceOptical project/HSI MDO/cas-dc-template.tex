@@ -23,13 +23,14 @@
 
 %\usepackage[numbers]{natbib}
 %\usepackage[authoryear]{natbib}
-% \usepackage[authoryear,longnamesfirst]{natbib}
-\usepackage[square,numbers,sort&compress]{natbib}
+\usepackage[authoryear,longnamesfirst, sort&compress]{natbib}
+%\usepackage[square,numbers,sort&compress]{natbib}
 \usepackage{graphicx}
 \usepackage{floatflt}
 \usepackage{array}
 \usepackage{tikz}
 \usetikzlibrary{calc}
+
 \usepackage{pgfplots}
 \usepackage{subcaption}
 \usepackage{xcolor}
@@ -89,7 +90,7 @@
 % Design and performance evalaution of Hhyperspectral 
 % eg: \tnotetext[1]{Title footnote text}
 
-\author[4]{Keon-Woo Koo\orcidlink{0000-0001-9468-368x}}
+\author[3,4]{Keon-Woo Koo\orcidlink{0000-0001-9468-368x}}
 %\fnmark[1]
 %\corref{cor1}
 \ead{rnrjsdnspace@skku.edu }
@@ -124,7 +125,7 @@
 \cortext[cor1]{Corresponding authors}
 % \cortext[cor1]{Corresponding author}
 
-\affiliation[1]{organization={Department of Aerospace Engineering, Korean Advanced Institute of Science and Technology (KAIST)},%Department and Organization
+\affiliation[1]{organization={Department of Aerospace Engineering, Korea Advanced Institute of Science and Technology (KAIST)},%Department and Organization
             addressline={291}, 
             city={Daejoen},
             postcode={34141}, 
@@ -135,9 +136,9 @@
             postcode={34113}, 
             country={Republic of Korea}}
 \affiliation[3]{organization={Space Robotics and Deep Learning Institute, KL.Space Co., Ltd.},%Department and Organization
-		addressline={501}, 
-		city={Jinju},
-		postcode={52828}, 
+		%addressline={501}, 
+		city={Daejeon},
+		postcode={34127}, 
 		country={Republic of Korea}}
 \affiliation[4]{organization={Department of Computer Science and Engineering, Sungkyunkwan University},%Department and Organization
 	addressline={2066}, 
@@ -798,10 +799,10 @@ This study reframes onboard hyperspectral segmentation as a component of a resul
 Mamba-OpticSatNet(Full) achieved the highest reported mIoU of 0.908 among the evaluated models, with its largest class-wise advantage occurring for C2 Urban. Mamba-OpticSatNet(Lite) achieved an mIoU of 0.877 while reducing model complexity to 0.288 million parameters and 0.066 GMACs. The Lite configuration adapts the MRIM-inspired progressive Mamba residual design philosophy demonstrated in MRNet [35] for lightweight edge-deployed detection, extending it to multi-class hyperspectral scene segmentation aboard satellite hardware. On Jetson AGX Orin, Lite completed the evaluated cube-level workload in 1.698 s with an estimated energy requirement of 42.44 J per inference.
 Under the illustrative STK scenario and an assumed application-layer throughput of 1 Mbit/s, changing the initial downlink product from a 1.64 GB hyperspectral cube to a 100 kB semantic alert reduces transmitted volume by 99.9939 \% and representative mean-duration contact demand from 44 contacts to one. These results support an alert-first, evidence-later concept of operations. They do not, however, demonstrate an absolute 44-fold reduction in end-to-end mission latency because actual latency remains dependent on contact chronology, scheduling, protocol overhead, retransmissions, and link-budget conditions.
 Future work should include explicit documentation of the native-to-derived OHID-1 class mapping, scene-separated validation, repeated training runs, component ablations, probability calibration, empirical semantic-message size distributions, high-fidelity link analysis, hardware-in-the-loop timing, fault injection, and on-orbit validation of the dual-path \(P_3/P_0 \) policy. Constellation-level studies should additionally model competition among multiple satellites for shared ground resources and quantify the effects of semantic products on data backlog, scheduling fairness, and event-response probability.
-
-
+\section*{CRediT authorship contribution statement}
+\textbf{Keon-Woo Koo}: Conceptualization, Methodology, Software, Writing-original draft, Data Curation. \textbf{Haruna H. Mohammed}: Writing-original draft, Writing-review \& editing, Visualization, Investigation, Software. \textbf{Dinaol Gadisa}: Writing-review \& editing, Data Curation, Software, Visualization, Validation. \textbf{Myungchul Choi}: Software, Formal analysis. \textbf{Jaehwan Park}: Software, Formal analysis, \textbf{Hyochoong Bang}: Writing-Review \& Editing, Resources, Supervision, Project administration, Funding acquisition. \textbf{Jaekwang Kim}: Investigation, Project administration, resources, Supervision. \textbf{Dongho Yun}: Supervision, Writing-Review \& Editing.
 \section*{Acknowledgement}
-This research was supported by the Space-K BIG Project Program funded by the Korea AeroSpace Administration (KASA) (Grant No. RS-2025-16063273).
+This research was supported by the Space-K BIG Project Program funded by the Korea AeroSpace Administration (KASA) (Grant No. RS-2025-16063273) and by the Ministry of Climate, Energy and Environment of the Republic of Korea through the 2026 Eco-Startup Support Program under the project “Development of Water Pollution Detection and Analysis Technology Using Onboard AI Models and In-Orbit Computing Devices” (Grant No. B0080519002723).
 
 \bibliographystyle{model1-num-names}
 

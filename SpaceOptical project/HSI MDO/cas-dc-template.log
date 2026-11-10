@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.5.18)  24 SEP 2026 18:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.5.18)  23 OCT 2026 18:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1187,49 +1187,49 @@ Package: translations 2022/02/05 v1.12 internationalization of LaTeX2e packages
 \l__siunitx_unit_total_int=\count396
 )
 Package translations Info: No language package found. I am going to use `englis
-h' as default language. on input line 67.
+h' as default language. on input line 68.
 LaTeX Font Info:    Trying to load font information for T1+stix on input line 6
-7.
+8.
 
 (c:/texlive/2024/texmf-dist/tex/latex/stix/t1stix.fd
 File: t1stix.fd 2015/04/17 v1.1.2-latex STIX T1 font definitions
 ) (./cas-dc-template.aux)
 \openout1 = `cas-dc-template.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for LS1/stix/m/n on input line 67.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for LS1/stix/m/n on input line 68.
 LaTeX Font Info:    Trying to load font information for LS1+stix on input line 
-67.
+68.
 
 (c:/texlive/2024/texmf-dist/tex/latex/stix/ls1stix.fd
 File: ls1stix.fd 2015/04/17 v1.1.2-latex STIX LS1 font definitions
 )
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for LS2/stix/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for LS2/stix/m/n on input line 68.
 LaTeX Font Info:    Trying to load font information for LS2+stix on input line 
-67.
+68.
 
 (c:/texlive/2024/texmf-dist/tex/latex/stix/ls2stix.fd
 File: ls2stix.fd 2015/04/17 v1.1.2-latex STIX LS2 font definitions
 )
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
 
 (c:/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -1253,8 +1253,8 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-LaTeX Info: Command `\dddot' is already robust on input line 67.
-LaTeX Info: Command `\ddddot' is already robust on input line 67.
+LaTeX Info: Command `\dddot' is already robust on input line 68.
+LaTeX Info: Command `\ddddot' is already robust on input line 68.
 
 (c:/texlive/2024/texmf-dist/tex/latex/upquote/upquote.sty
 Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verba
@@ -1294,7 +1294,7 @@ tim
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring ON on input line 67.
+Package hyperref Info: Link coloring ON on input line 68.
 (./cas-dc-template.out) (./cas-dc-template.out)
 \@outlinefile=\write4
 \openout4 = `cas-dc-template.out'.
@@ -1304,7 +1304,7 @@ Package hyperref Info: Link coloring ON on input line 67.
 Package pgfplots Warning: running in backwards compatibility mode (unsuitable t
 ick labels; missing features). Consider writing \pgfplotsset{compat=1.18} into 
 your preamble.
- on input line 67.
+ on input line 68.
 
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
@@ -1317,69 +1317,69 @@ File: translations-basic-dictionary-english.trsl (english translation file `tra
 nslations-basic-dictionary')
 )
 Package translations Info: loading dictionary `translations-basic-dictionary' f
-or `english'. on input line 67.
+or `english'. on input line 68.
 \verbatim@out=\write5
 \openout5 = `cas-dc-template.abs'.
 
 LaTeX Font Info:    Trying to load font information for LS1+stixscr on input li
-ne 188.
+ne 189.
  (c:/texlive/2024/texmf-dist/tex/latex/stix/ls1stixscr.fd
 File: ls1stixscr.fd 2015/04/17 v1.1.2-latex STIX script LS1 font definitions
 )
 LaTeX Font Info:    Trying to load font information for LS2+stixex on input lin
-e 188.
+e 189.
 
 (c:/texlive/2024/texmf-dist/tex/latex/stix/ls2stixex.fd
 File: ls2stixex.fd 2015/04/17 v1.1.2-latex STIX extentions LS2 font definitions
 
 )
-LaTeX Font Info:    Trying to load font information for U+msa on input line 188
+LaTeX Font Info:    Trying to load font information for U+msa on input line 189
 .
 
 (c:/texlive/2024/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 188
+LaTeX Font Info:    Trying to load font information for U+msb on input line 189
 .
 
 (c:/texlive/2024/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Trying to load font information for LS1+stixfrak on input l
-ine 188.
+ine 189.
 
 (c:/texlive/2024/texmf-dist/tex/latex/stix/ls1stixfrak.fd
 File: ls1stixfrak.fd 2015/04/17 v1.1.2-latex STIX fraktur LS1 font definitions
 )
 LaTeX Font Info:    Trying to load font information for LS1+stixbb on input lin
-e 188.
+e 189.
 
 (c:/texlive/2024/texmf-dist/tex/latex/stix/ls1stixbb.fd
 File: ls1stixbb.fd 2015/04/17 v1.1.2-latex STIX blackboard LS1 font definitions
 
 )
 LaTeX Font Info:    Trying to load font information for LS2+stixcal on input li
-ne 188.
+ne 189.
 
 (c:/texlive/2024/texmf-dist/tex/latex/stix/ls2stixcal.fd
 File: ls2stixcal.fd 2015/04/17 v1.1.2-latex STIX calligraphic LS2 font definiti
 ons
 )
 LaTeX Font Info:    Trying to load font information for LS1+stixsf on input lin
-e 188.
+e 189.
 
 (c:/texlive/2024/texmf-dist/tex/latex/stix/ls1stixsf.fd
 File: ls1stixsf.fd 2015/04/17 v1.1.2-latex STIX sans-serif LS1 font definitions
 
 )
 LaTeX Font Info:    Trying to load font information for LS2+stixtt on input lin
-e 188.
+e 189.
 
 (c:/texlive/2024/texmf-dist/tex/latex/stix/ls2stixtt.fd
 File: ls2stixtt.fd 2015/04/17 v1.1.2-latex STIX typewriter LS2 font definitions
 
 )
-Overfull \hbox (123.62721pt too wide) detected at line 188
+Overfull \hbox (123.62721pt too wide) detected at line 189
 []
  []
 
@@ -1392,34 +1392,29 @@ File: ts1stix.fd 2015/04/17 v1.1.2-latex STIX TS1 font definitions
 <thumbnails/cas-email.jpeg, id=15, 225.84375pt x 225.84375pt>
 File: thumbnails/cas-email.jpeg Graphic file (type jpg)
 <use thumbnails/cas-email.jpeg>
-Package pdftex.def Info: thumbnails/cas-email.jpeg  used on input line 188.
+Package pdftex.def Info: thumbnails/cas-email.jpeg  used on input line 189.
 (pdftex.def)             Requested size: 7.99838pt x 8.0pt.
 LaTeX Font Info:    Trying to load font information for T1+zi4 on input line 18
-8.
+9.
 
 (c:/texlive/2024/texmf-dist/tex/latex/inconsolata/t1zi4.fd
 File: t1zi4.fd 2018/01/14 T1/zi4 (Inconsolata)
 )
 LaTeX Font Info:    Font shape `T1/zi4/m/n' will be
-(Font)              scaled to size 6.80005pt on input line 188.
+(Font)              scaled to size 6.80005pt on input line 189.
 
-Underfull \hbox (badness 1033) in paragraph at lines 231--232
-\T1/stix/m/n/10 higher-rate ra-dios, op-ti-cal links, or com-mer-cial ground-
- []
-
-
-Underfull \hbox (badness 1194) in paragraph at lines 233--234
+Underfull \hbox (badness 1194) in paragraph at lines 234--235
 \T1/stix/m/n/10 sion does not treat seg-men-ta-tion as an iso-lated image-
  []
 
 
-Underfull \hbox (badness 1668) in paragraph at lines 233--234
+Underfull \hbox (badness 1668) in paragraph at lines 234--235
 \T1/stix/m/n/10 or model re-pro-cess-ing. Ar-chi-tec-ture there-fore cre-ates a
 
  []
 
 LaTeX Font Info:    Trying to load font information for T1+cmss on input line 2
-34.
+35.
 (c:/texlive/2024/texmf-dist/tex/latex/base/t1cmss.fd
 File: t1cmss.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 ) [1{c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2
@@ -1430,228 +1425,262 @@ ts/enc/dvips/stix/stix-ts1.enc}
 {c:/texlive/2024/texmf-dist/fonts/enc/dvips/inconsolata/i4-t1-0.enc}{c:/texlive
 /2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc} <./thumbnails/cas-em
 ail.jpeg>]
-Overfull \hbox (2.66553pt too wide) in paragraph at lines 245--246
+Overfull \hbox (4.89972pt too wide) in paragraph at lines 244--245
+\T1/stix/m/n/10 Or-landi¢, Bakken, Birke-land, Gar-rett, Jo-hansen, and Sørense
+n[][]
+ []
+
+
+Overfull \hbox (2.66553pt too wide) in paragraph at lines 246--247
 \T1/stix/m/n/10 has com-pared one-dimensional spec-tral net-works, 2D spatial-
  []
 
 
-Underfull \hbox (badness 1502) in paragraph at lines 251--252
+Underfull \hbox (badness 1721) in paragraph at lines 246--247
+\T1/stix/m/n/10 satel-lite op-er-a-tions when the model and data path are
+ []
+
+
+Underfull \hbox (badness 1248) in paragraph at lines 246--247
+\T1/stix/m/n/10 to avoid ex-pen-sive ground-like pre-pro-cess-ing, in-clud-ing
+ []
+
+
+Underfull \hbox (badness 1400) in paragraph at lines 248--249
+\T1/stix/m/n/10 for global flood map-ping on low-cost satel-lites [][]Mateo-
+ []
+
+
+Underfull \hbox (badness 1496) in paragraph at lines 248--249
+\T1/stix/m/n/10 Bay-din, and Backes[][] ([][]2021[][]), lightweight cloud mask-
+ing
+ []
+
+
+Underfull \hbox (badness 1502) in paragraph at lines 252--253
 \T1/stix/m/n/10 flight qual-i-fi-ca-tion. Hy-brid and re-configurable on-board
  []
 
-
-Underfull \hbox (badness 1163) in paragraph at lines 251--252
-\T1/stix/m/n/10 mal de-sign, power tran-sients, soft-ware faults, and re-set
- []
-
-<figs/fig10.png, id=64, 774.165pt x 434.715pt>
+[2]
+<figs/fig10.png, id=127, 774.165pt x 434.715pt>
 File: figs/fig10.png Graphic file (type png)
 <use figs/fig10.png>
-Package pdftex.def Info: figs/fig10.png  used on input line 260.
+Package pdftex.def Info: figs/fig10.png  used on input line 261.
 (pdftex.def)             Requested size: 445.05496pt x 249.91273pt.
-[2]
-Underfull \hbox (badness 1205) in paragraph at lines 297--299
+ [3 <./figs/Fig10.png>]
+Underfull \hbox (badness 1205) in paragraph at lines 298--300
 \T1/stix/m/n/10 is that, un-der the rep-re-sen-ta-tive con-tact con-di-tions, t
 he
  []
 
 
-Underfull \hbox (badness 1629) in paragraph at lines 308--310
+Underfull \hbox (badness 1629) in paragraph at lines 309--311
 \T1/stix/m/n/10 where $\LS1/stix/m/it/10 T[]\LS1/stix/m/n/10 .\LS1/stix/m/it/10
  p\LS1/stix/m/n/10 /$ \T1/stix/m/n/10 is the time be-tween prod-uct gen-er-a-ti
 on
  []
 
 
-Underfull \hbox (badness 1102) in paragraph at lines 308--310
+Underfull \hbox (badness 1102) in paragraph at lines 309--311
 \T1/stix/m/n/10 and the be-gin-ning of a us-able com-mu-ni-ca-tion win-dow,
  []
 
-[3 <./figs/Fig10.png>]
-Underfull \hbox (badness 1484) in paragraph at lines 322--324
+
+Underfull \hbox (badness 1484) in paragraph at lines 323--325
 \T1/stix/m/n/10 where $\LS1/stix/m/it/10 D[]$ \T1/stix/m/n/10 de-notes an-cil-l
 ary in-for-ma-tion and product-
  []
 
 
-Overfull \hbox (3.30748pt too wide) in paragraph at lines 347--347
+Overfull \hbox (3.30748pt too wide) in paragraph at lines 348--348
 []|\T1/cmss/m/n/9 Raw/calibrated
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 347--347
+Underfull \hbox (badness 10000) in paragraph at lines 348--348
 []|\T1/cmss/m/n/9 ROI-cropped
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 347--347
+Underfull \hbox (badness 10000) in paragraph at lines 348--348
 []|\T1/cmss/m/n/9 Segmentation
  []
 
-
-Underfull \hbox (badness 1173) in paragraph at lines 366--368
+[4]
+Underfull \hbox (badness 1173) in paragraph at lines 367--369
 \T1/stix/m/n/10 where $\LS1/stix/m/it/10 r[]\LS1/stix/m/n/10 .\LS1/stix/m/it/10
  t\LS1/stix/m/n/10 /$ \T1/stix/m/n/10 is he in-stan-ta-neous physical-layer dow
 n-link
  []
 
-[4]
-Underfull \hbox (badness 1231) in paragraph at lines 380--381
+
+Underfull \hbox (badness 1231) in paragraph at lines 381--382
 []\T1/stix/m/n/10 Accordingly, a prod-uct can be com-pletely de-liv-ered
  []
 
-<figs/fig20.png, id=130, 766.938pt x 423.765pt>
+<figs/fig20.png, id=171, 766.938pt x 423.765pt>
 File: figs/fig20.png Graphic file (type png)
 <use figs/fig20.png>
-Package pdftex.def Info: figs/fig20.png  used on input line 399.
+Package pdftex.def Info: figs/fig20.png  used on input line 400.
 (pdftex.def)             Requested size: 445.05496pt x 245.91965pt.
 [5]
-Overfull \hbox (4.25551pt too wide) in paragraph at lines 408--409
+Overfull \hbox (4.25551pt too wide) in paragraph at lines 409--410
 []\T1/stix/m/n/10 Mamba-OpticSatNet(Full) com-bines a con-vo-lu-tional neu-
  []
 
 
-Underfull \hbox (badness 1253) in paragraph at lines 408--409
+Underfull \hbox (badness 1253) in paragraph at lines 409--410
 \T1/stix/m/n/10 the se-lec-tive state-space model (SSM) branch per-forms
  []
 
-<figs/fig30.png, id=148, 804.825pt x 319.302pt>
+<figs/fig30.png, id=193, 804.825pt x 319.302pt>
 File: figs/fig30.png Graphic file (type png)
 <use figs/fig30.png>
-Package pdftex.def Info: figs/fig30.png  used on input line 419.
+Package pdftex.def Info: figs/fig30.png  used on input line 420.
 (pdftex.def)             Requested size: 445.05496pt x 176.56671pt.
 [6 <./figs/Fig20.png>]
-Underfull \hbox (badness 1184) in paragraph at lines 455--456
+Underfull \hbox (badness 1184) in paragraph at lines 456--457
 \T1/stix/m/n/10 global-processing mod-ules. The down-sam-pling stem re-
  []
 
 [7 <./figs/Fig30.png>]
-Overfull \hbox (3.79468pt too wide) in paragraph at lines 487--489
+Overfull \hbox (3.79468pt too wide) in paragraph at lines 488--490
 []\T1/stix/m/n/10 A 16-bit rep-re-sen-ta-tion would nom-i-nally halve parameter
 -
  []
 
 
-Underfull \hbox (badness 1708) in paragraph at lines 493--494
+Underfull \hbox (badness 1708) in paragraph at lines 494--495
 []\T1/stix/m/n/10 The in-put hy-per-spec-tral im-age was loaded in band
  []
 
 
-Overfull \hbox (6.19714pt too wide) in paragraph at lines 516--517
-\T1/stix/m/n/10 con-vo-lu-tional seg-men-ta-tion base-line [[]]; U-Net and UNet
-++
+Underfull \hbox (badness 1867) in paragraph at lines 517--518
+[][]\T1/stix/m/n/10 Roy, Kr-ishna, Dubey, and Chaud-huri[][] ([][]2020[][]); Sp
+ec-tral-
  []
 
 
-Underfull \hbox (badness 1655) in paragraph at lines 516--517
-\T1/stix/m/n/10 as en-coder^^Udecoder ar-chi-tec-tures with skip con-nec-tions
+Overfull \hbox (0.55971pt too wide) in paragraph at lines 517--518
+\T1/stix/m/n/10 De-hghani, Min-derer, Heigold, Gelly, Uszko-r-eit, and Houlsby[
+][]
  []
 
 [8]
-Underfull \hbox (badness 1210) in paragraph at lines 572--574
+Underfull \hbox (badness 1210) in paragraph at lines 573--575
 []\T1/stix/m/n/10 Table [][]4[][] sum-ma-rizes the seg-men-ta-tion ac-cu-racy a
 nd
  []
 
 
-Overfull \hbox (18.11548pt too wide) in paragraph at lines 572--574
+Overfull \hbox (18.11548pt too wide) in paragraph at lines 573--575
 \T1/stix/m/n/10 patch-level com-pu-ta-tional char-ac-ter-is-tics of Mamba-Optic
 SatNet
  []
 
 
-Underfull \hbox (badness 1005) in paragraph at lines 575--576
+Underfull \hbox (badness 1005) in paragraph at lines 576--577
 \T1/stix/m/n/10 en-cod-ing with global in-ter-ac-tion and long-range de-pen-
  []
 
 
-Overfull \hbox (3.5pt too wide) detected at line 614
+Overfull \hbox (3.5pt too wide) detected at line 615
 $\LS1/stix/m/n/7 90$
  []
 
 
-Overfull \hbox (1.92554pt too wide) in paragraph at lines 621--622
+Overfull \hbox (235.659pt too wide) in paragraph at lines 587--618
+ [][] 
+ []
+
+[9]
+Overfull \hbox (1.92554pt too wide) in paragraph at lines 622--623
 []\T1/stix/m/n/10 Mamba-OpticSatNet(Lite) rep-re-sents a resource-efficient
  []
 
-<figs/fig4.png, id=224, 1502.61375pt x 569.12625pt>
+<figs/fig4.png, id=304, 1502.61375pt x 569.12625pt>
 File: figs/fig4.png Graphic file (type png)
 <use figs/fig4.png>
-Package pdftex.def Info: figs/fig4.png  used on input line 627.
+Package pdftex.def Info: figs/fig4.png  used on input line 628.
 (pdftex.def)             Requested size: 445.05496pt x 168.56815pt.
-<figs/fig5.png, id=225, 1499.6025pt x 554.07pt>
+<figs/fig5.png, id=305, 1499.6025pt x 554.07pt>
 File: figs/fig5.png Graphic file (type png)
 <use figs/fig5.png>
-Package pdftex.def Info: figs/fig5.png  used on input line 632.
+Package pdftex.def Info: figs/fig5.png  used on input line 633.
 (pdftex.def)             Requested size: 445.05496pt x 164.4384pt.
-[9]
-<figs/fig6.png, id=242, 1493.58pt x 709.65125pt>
+<figs/fig6.png, id=310, 1493.58pt x 709.65125pt>
 File: figs/fig6.png Graphic file (type png)
 <use figs/fig6.png>
-Package pdftex.def Info: figs/fig6.png  used on input line 640.
+Package pdftex.def Info: figs/fig6.png  used on input line 641.
 (pdftex.def)             Requested size: 445.05496pt x 211.45683pt.
- [10 <./figs/Fig4.png>] [11 <./figs/Fig5.png> <./figs/Fig6.png>]
-<figs/fig_energy.pdf, id=263, 231.26274pt x 173.29643pt>
+[10] [11 <./figs/Fig4.png> <./figs/Fig5.png> <./figs/Fig6.png>]
+<figs/fig_energy.pdf, id=334, 231.26274pt x 173.29643pt>
 File: figs/fig_energy.pdf Graphic file (type pdf)
 <use figs/fig_energy.pdf>
-Package pdftex.def Info: figs/fig_energy.pdf  used on input line 680.
+Package pdftex.def Info: figs/fig_energy.pdf  used on input line 681.
 (pdftex.def)             Requested size: 197.80052pt x 148.22815pt.
-<figs/fig_confusion.pdf, id=264, 244.00523pt x 197.73561pt>
+<figs/fig_confusion.pdf, id=335, 244.00523pt x 197.73561pt>
 File: figs/fig_confusion.pdf Graphic file (type pdf)
 <use figs/fig_confusion.pdf>
-Package pdftex.def Info: figs/fig_confusion.pdf  used on input line 681.
+Package pdftex.def Info: figs/fig_confusion.pdf  used on input line 682.
 (pdftex.def)             Requested size: 222.52911pt x 150.5612pt.
-<figs/Constellation.png, id=265, 858.20625pt x 355.3275pt>
+<figs/Constellation.png, id=336, 858.20625pt x 355.3275pt>
 File: figs/Constellation.png Graphic file (type png)
 <use figs/Constellation.png>
-Package pdftex.def Info: figs/Constellation.png  used on input line 722.
+Package pdftex.def Info: figs/Constellation.png  used on input line 723.
 (pdftex.def)             Requested size: 445.05197pt x 170.642pt.
 
-Overfull \hbox (1.17537pt too wide) in alignment at lines 759--761
+Overfull \hbox (1.17537pt too wide) in alignment at lines 760--762
  [][][] []
  []
 
-[12 <./figs/fig_energy.pdf> <./figs/fig_confusion.pdf>]
-Overfull \hbox (7.70645pt too wide) detected at line 793
+
+Overfull \hbox (7.70645pt too wide) detected at line 794
  \T1/cmss/m/n/9 % 
  []
 
 
-Overfull \hbox (7.70645pt too wide) detected at line 793
+Overfull \hbox (7.70645pt too wide) detected at line 794
  \T1/cmss/m/n/9 % 
  []
 
 
-Overfull \hbox (7.70645pt too wide) detected at line 793
+Overfull \hbox (7.70645pt too wide) detected at line 794
  \T1/cmss/m/n/9 % 
  []
 
-[13 <./figs/Constellation.png>] (./cas-dc-template.bbl
-Underfull \hbox (badness 1107) in paragraph at lines 145--156
-[]\T1/stix/m/n/8 G. Me-oni, R. Del Prete, F. Serva, A. De Beuss-cher, O. Colin,
-
- []
-
-
-Underfull \hbox (badness 4660) in paragraph at lines 212--219
-[]\T1/stix/m/n/8 J. Herec, J. Sed-midub-sky, R. Pito¬ák,  STTORM-CD low-
- []
-
-
-Underfull \hbox (badness 1112) in paragraph at lines 247--256
-\T1/stix/m/n/8 of a het-ero-ge-neous COTS ar-chi-tec-ture for on-board AI: Syst
-em-
+[12] [13 <./figs/fig_energy.pdf> <./figs/fig_confusion.pdf> <./figs/Constellati
+on.png>] (./cas-dc-template.bbl
+Underfull \hbox (badness 2556) in paragraph at lines 27--35
+[]\T1/stix/m/n/8 G. Pe-telin, M. An-to-niou, G. Papa,  Multi-objective ap-proac
+hes to
  []
 
 [14]
-Underfull \hbox (badness 1460) in paragraph at lines 257--264
-\T1/stix/m/n/8 struc-tured state spaces, 2022. URL: [][]$\T1/zi4/m/n/8 https : 
-/ / arxiv . org / abs / 2111 .
+Underfull \hbox (badness 1173) in paragraph at lines 107--118
+\T1/stix/m/n/8 pro-cess-ing of hy-per-spec-tral im-agery: Deep learn-ing ad-van
+ce-ments,
  []
 
-) [15
 
-] (./cas-dc-template.aux)
+Underfull \hbox (badness 1014) in paragraph at lines 237--246
+\T1/stix/m/n/8 di-a-tion tol-er-ant het-ero-ge-neous GPU-based on-board data pr
+o-cess-ing
+ []
+
+
+Underfull \hbox (badness 1024) in paragraph at lines 237--246
+\T1/stix/m/n/8 in space,  \T1/stix/m/it/8 CEAS Space Jour-nal \T1/stix/m/n/8 12
+ (2020) 551--564. doi:[][]$\T1/zi4/m/n/8 10 . 1007 /
+ []
+
+
+Underfull \hbox (badness 2961) in paragraph at lines 257--264
+[]\T1/stix/m/n/8 A. Gu, K. Goel, C. Ré, Ef-fi-ciently mod-el-ing long se-quence
+s with
+ []
+
+) [15] (./cas-dc-template.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-04-11>
@@ -1660,33 +1689,34 @@ Package rerunfilecheck Info: File `cas-dc-template.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 43200 strings out of 474050
- 981732 string characters out of 5746298
- 1984754 words of memory out of 5000000
- 64796 multiletter control sequences out of 15000+600000
- 658601 words of font info for 173 fonts, out of 8000000 for 9000
+ 43239 strings out of 474050
+ 982463 string characters out of 5746298
+ 1996754 words of memory out of 5000000
+ 64833 multiletter control sequences out of 15000+600000
+ 664909 words of font info for 176 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 90i,16n,131p,1185b,1100s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 90i,16n,131p,1186b,1068s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2024/texmf-dist/fonts/type1/public/inconsolata/Inconsolata-zi4r.p
 fb><c:/texlive/2024/texmf-dist/fonts/type1/public/stix/STIXGeneral-Bold.pfb><c:
 /texlive/2024/texmf-dist/fonts/type1/public/stix/STIXGeneral-BoldItalic.pfb><c:
 /texlive/2024/texmf-dist/fonts/type1/public/stix/STIXGeneral-Italic.pfb><c:/tex
 live/2024/texmf-dist/fonts/type1/public/stix/STIXGeneral-Regular.pfb><c:/texliv
-e/2024/texmf-dist/fonts/type1/public/cm-super/sfss0800.pfb><c:/texlive/2024/tex
-mf-dist/fonts/type1/public/cm-super/sfss0900.pfb><c:/texlive/2024/texmf-dist/fo
-nts/type1/public/cm-super/sfsx0800.pfb><c:/texlive/2024/texmf-dist/fonts/type1/
-public/cm-super/sfsx0900.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/sti
-x/stix-mathbb.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/stix/stix-math
-cal.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/stix/stix-mathex.pfb><c:
-/texlive/2024/texmf-dist/fonts/type1/public/stix/stix-mathit.pfb><c:/texlive/20
-24/texmf-dist/fonts/type1/public/stix/stix-mathrm-bold.pfb><c:/texlive/2024/tex
-mf-dist/fonts/type1/public/stix/stix-mathrm.pfb><c:/texlive/2024/texmf-dist/fon
-ts/type1/public/stix/stix-mathscr.pfb><c:/texlive/2024/texmf-dist/fonts/type1/p
-ublic/stix/stix-mathsf.pfb>
-Output written on cas-dc-template.pdf (15 pages, 14810428 bytes).
+e/2024/texmf-dist/fonts/type1/public/cm-super/sfsi0800.pfb><c:/texlive/2024/tex
+mf-dist/fonts/type1/public/cm-super/sfss0800.pfb><c:/texlive/2024/texmf-dist/fo
+nts/type1/public/cm-super/sfss0900.pfb><c:/texlive/2024/texmf-dist/fonts/type1/
+public/cm-super/sfsx0800.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-
+super/sfsx0900.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/stix/stix-mat
+hbb.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/stix/stix-mathcal.pfb><c
+:/texlive/2024/texmf-dist/fonts/type1/public/stix/stix-mathex.pfb><c:/texlive/2
+024/texmf-dist/fonts/type1/public/stix/stix-mathit.pfb><c:/texlive/2024/texmf-d
+ist/fonts/type1/public/stix/stix-mathrm-bold.pfb><c:/texlive/2024/texmf-dist/fo
+nts/type1/public/stix/stix-mathrm.pfb><c:/texlive/2024/texmf-dist/fonts/type1/p
+ublic/stix/stix-mathscr.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/stix
+/stix-mathsf.pfb>
+Output written on cas-dc-template.pdf (15 pages, 14825564 bytes).
 PDF statistics:
- 567 PDF objects out of 1000 (max. 8388607)
- 399 compressed objects within 4 object streams
- 129 named destinations out of 1000 (max. 500000)
+ 643 PDF objects out of 1000 (max. 8388607)
+ 472 compressed objects within 5 object streams
+ 130 named destinations out of 1000 (max. 500000)
  63 words of extra memory for PDF output out of 10000 (max. 10000000)
 
